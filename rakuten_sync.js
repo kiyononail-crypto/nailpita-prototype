@@ -8,10 +8,10 @@
  * 実行イメージ:
  *   RAKUTEN_APP_ID=xxx RAKUTEN_AFFILIATE_ID=yyy node rakuten_sync.js
  *
- * 必要なライブラリ: npm install node-fetch sharp
+ * 必要なライブラリ: npm install sharp
+ * (fetchはNode.js 18以降に標準搭載されているため、node-fetchは不要)
  */
 
-const fetch = require('node-fetch');
 const sharp = require('sharp');
 const fs = require('fs');
 
