@@ -2,8 +2,10 @@ name: 楽天商品データ自動更新
 
 on:
   schedule:
+    # 毎日 日本時間の朝6時ごろに実行(UTC 21:00)
     - cron: '0 21 * * *'
   workflow_dispatch: {}
+    # ↑ GitHubの画面から手動実行もできるようにするための設定
 
 jobs:
   sync:
@@ -18,7 +20,7 @@ jobs:
           node-version: '20'
 
       - name: 必要なライブラリをインストール
-        run: npm install node-fetch sharp
+        run: npm install sharp
 
       - name: 楽天商品データを取得して products.json を更新
         env:
