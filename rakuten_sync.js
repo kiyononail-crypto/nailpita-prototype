@@ -2,23 +2,27 @@
  * ネイルピタ 商品データ連携バッチ(楽天版)
  *
  * 必要なもの:
- *   1. RAKUTEN_APP_ID    … 楽天ウェブサービス(https://webservice.rakuten.co.jp/)のApplication ID
- *   2. RAKUTEN_AFFILIATE_ID … 楽天アフィリエイトのID(登録済みのもの)
+ *   1. RAKUTEN_APP_ID     … 楽天ウェブサービスのアプリケーションID
+ *   2. RAKUTEN_ACCESS_KEY … 楽天ウェブサービスのアクセスキー(2026年の仕様変更で必須になったもの)
+ *   3. RAKUTEN_AFFILIATE_ID … 楽天アフィリエイトのID
  *
  * 実行イメージ:
- *   RAKUTEN_APP_ID=xxx RAKUTEN_AFFILIATE_ID=yyy node rakuten_sync.js
+ *   RAKUTEN_APP_ID=xxx RAKUTEN_ACCESS_KEY=yyy RAKUTEN_AFFILIATE_ID=zzz node rakuten_sync.js
  *
- * 必要なライブラリ: npm install sharp
- * (fetchはNode.js 18以降に標準搭載されているため、node-fetchは不要)
+ * 必要なライブラリ: npm install sharp undici
+ * (fetchはNode.js標準搭載だが、Origin/Refererヘッダを確実に送るためundiciを使用)
  */
 
 const sharp = require('sharp');
 const fs = require('fs');
-
-const OUTPUT_PATH = 'products.json';
+const { request: undiciRequest } = require('undici');
 
 const APP_ID = process.env.RAKUTEN_APP_ID;
+const ACCESS_KEY = process.env.RAKUTEN_ACCESS_KEY;
 const AFFILIATE_ID = process.env.RAKUTEN_AFFILIATE_ID;
+// 楽天デベロッパーコンソールの「アプリケーションURL」と同じドメインを指定
+const SITE_ORIGIN = process.env.RAKUTEN_SITE_ORIGIN || 'https://github.com/kiyononail-crypto/nailpita-prototype';
+const OUTPUT_PATH = 'products.json';
 
 // バッチで巡回する検索キーワード(トレンドに応じて増減させる想定)
 const SEARCH_KEYWORDS = [
@@ -27,21 +31,36 @@ const SEARCH_KEYWORDS = [
   'ネイルストーン',
 ];
 
-// --- ① 楽天商品検索APIから商品を取得 ---
+// --- ① 楽天商品検索APIから商品を取得(2026年新仕様: openapi.rakuten.co.jp + accessKey) ---
 async function fetchRakutenProducts(keyword, page = 1) {
-  const url = new URL('https://app.rakuten.co.jp/services/api/IchibaItem/Search/20220601');
-  url.searchParams.set('applicationId', APP_ID);
-  url.searchParams.set('affiliateId', AFFILIATE_ID); // これを付けると商品URLに自動でアフィリエイトIDが反映される
-  url.searchParams.set('keyword', keyword);
-  url.searchParams.set('page', String(page));
-  url.searchParams.set('hits', '30');
-  url.searchParams.set('sort', '-updateTimestamp'); // 新着・更新順(トレンド反映)
+  const endpoint = 'https://openapi.rakuten.co.jp/ichibams/api/IchibaItem/Search/20220601';
+  const params = new URLSearchParams({
+    applicationId: APP_ID,
+    affiliateId: AFFILIATE_ID, // これを付けると商品URLに自動でアフィリエイトIDが反映される
+    keyword,
+    page: String(page),
+    hits: '30',
+    format: 'json',
+    sort: '-updateTimestamp', // 新着・更新順(トレンド反映)
+  });
+  const url = `${endpoint}?${params.toString()}`;
 
-  const res = await fetch(url.toString());
-  if (!res.ok) {
-    throw new Error(`楽天API呼び出し失敗: ${res.status} ${await res.text()}`);
+  const { statusCode, body } = await undiciRequest(url, {
+    method: 'GET',
+    headers: {
+      'User-Agent': 'nailpita-prototype/1.0',
+      Origin: SITE_ORIGIN,
+      Referer: SITE_ORIGIN,
+      accessKey: ACCESS_KEY,
+    },
+  });
+
+  if (statusCode < 200 || statusCode >= 300) {
+    const errorText = await body.text();
+    throw new Error(`楽天API呼び出し失敗: ${statusCode} ${errorText}`);
   }
-  const data = await res.json();
+
+  const data = await body.json();
   return (data.Items || []).map(({ Item }) => ({
     productId: Item.itemCode,
     name: Item.itemName,
@@ -108,8 +127,8 @@ function saveProducts(products) {
 
 // --- 実行本体 ---
 async function runBatch() {
-  if (!APP_ID || !AFFILIATE_ID) {
-    console.error('RAKUTEN_APP_ID / RAKUTEN_AFFILIATE_ID を環境変数に設定してください');
+  if (!APP_ID || !ACCESS_KEY || !AFFILIATE_ID) {
+    console.error('RAKUTEN_APP_ID / RAKUTEN_ACCESS_KEY / RAKUTEN_AFFILIATE_ID を環境変数に設定してください');
     return;
   }
 
