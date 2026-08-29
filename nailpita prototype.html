@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ネイルピタ — プロトタイプ</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@500;700&family=Zen+Kaku+Gothic+New:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --rose-50:#F4EAEA;
+    --rose-100:#E8D4D6;
+    --rose-400:#C9A0A5;
+    --rose-600:#A97D82;
+    --rose-800:#5C333A;
+    --rose-900:#4A282D;
+    --cream:#FAF6F3;
+    --ink:#33282A;
+    --muted:#8A7476;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--cream);
+    color:var(--ink);
+    font-family:'Zen Kaku Gothic New', sans-serif;
+    line-height:1.7;
+  }
+  h1,h2,h3{
+    font-family:'Shippori Mincho', serif;
+    font-weight:700;
+    margin:0;
+  }
+  .wrap{max-width:480px; margin:0 auto; padding:0 20px 80px;}
+  header{
+    padding:40px 20px 28px;
+    text-align:center;
+    border-bottom:1px solid var(--rose-100);
+  }
+  header .eyebrow{
+    font-size:12px;
+    letter-spacing:0.12em;
+    color:var(--rose-600);
+    margin-bottom:8px;
+  }
+  header h1{font-size:30px; color:var(--rose-900);}
+  header p{font-size:13px; color:var(--muted); margin-top:8px;}
+
+  .guide{
+    display:flex; gap:12px; align-items:flex-start;
+    background:var(--rose-50);
+    border-radius:14px;
+    padding:14px 16px;
+    margin:24px 0;
+  }
+  .guide svg{width:40px; height:40px; flex-shrink:0;}
+  .guide p{font-size:13px; color:var(--rose-900); margin:0;}
+
+  .upload-box{
+    border:1.5px dashed var(--rose-600);
+    border-radius:16px;
+    padding:32px 20px;
+    text-align:center;
+    cursor:pointer;
+    background:#fff;
+    transition:background 0.2s;
+  }
+  .upload-box:hover{background:var(--rose-50);}
+  .upload-box svg{width:36px; height:36px; color:var(--rose-600);}
+  .upload-box p{font-size:13px; color:var(--muted); margin:10px 0 0;}
+  #fileInput{display:none;}
+
+  .preview-row{
+    display:flex; gap:14px; align-items:center;
+    margin:20px 0;
+  }
+  .preview-row img{
+    width:84px; height:84px; object-fit:cover; border-radius:12px;
+    border:1px solid var(--rose-100);
+  }
+  .swatch{
+    width:84px; height:84px; border-radius:12px;
+    border:1px solid var(--rose-100);
+  }
+  .preview-label{font-size:12px; color:var(--muted); text-align:center; margin-top:6px;}
+
+  section.results{margin-top:28px; display:none;}
+  section.results.show{display:block;}
+  section.results h2{font-size:16px; color:var(--rose-900); margin-bottom:14px;}
+
+  .product-card{
+    display:flex; gap:12px; align-items:center;
+    background:#fff;
+    border:1px solid var(--rose-100);
+    border-radius:14px;
+    padding:12px 14px;
+    margin-bottom:12px;
+  }
+  .product-swatch{width:44px; height:44px; border-radius:8px; flex-shrink:0; border:1px solid rgba(0,0,0,0.06);}
+  .product-info{flex:1; min-width:0;}
+  .product-info .name{font-size:13px; margin:0 0 2px; color:var(--ink);}
+  .product-info .meta{font-size:12px; color:var(--muted); margin:0;}
+  .match-pill{
+    font-size:11px; font-weight:500;
+    background:var(--rose-100); color:var(--rose-800);
+    border-radius:8px; padding:2px 8px; white-space:nowrap;
+  }
+  .product-card a.buy{
+    font-size:12px; font-weight:500;
+    color:var(--rose-800);
+    border:1px solid var(--rose-600);
+    border-radius:8px;
+    padding:6px 10px;
+    text-decoration:none;
+    white-space:nowrap;
+  }
+  .note{
+    font-size:11px; color:var(--muted); margin-top:16px; padding:12px 14px;
+    background:var(--rose-50); border-radius:10px;
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="eyebrow">NAIL PITA PROTOTYPE</div>
+    <h1>ネイルピタ</h1>
+    <p>写真から、ぴったりのジェルカラーが見つかる</p>
+  </header>
+
+  <div class="guide">
+    <svg viewBox="0 0 100 100"><circle cx="50" cy="42" r="26" fill="#FCE4D6"/><path d="M26 40 Q28 12 50 14 Q74 12 74 42 Q66 26 50 26 Q34 26 26 40Z" fill="#6B4A3A"/><circle cx="42" cy="44" r="3" fill="#3C2C24"/><circle cx="58" cy="44" r="3" fill="#3C2C24"/></svg>
+    <p id="guideText">まずはネイルの写真をアップロードしてみてね!</p>
+  </div>
+
+  <div class="upload-box" id="uploadBox">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M4 8V6a2 2 0 0 1 2-2h2l1.5-2h5L16 4h2a2 2 0 0 1 2 2v2M4 8v10a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8M4 8h16" stroke-linecap="round" stroke-linejoin="round"/><circle cx="12" cy="14" r="4"/></svg>
+    <p>タップして写真をアップロード</p>
+    <input type="file" id="fileInput" accept="image/*">
+  </div>
+
+  <div class="preview-row" id="previewRow" style="display:none;">
+    <div>
+      <img id="previewImg" alt="アップロードした写真">
+      <div class="preview-label">アップロード写真</div>
+    </div>
+    <div>
+      <div class="swatch" id="extractedSwatch"></div>
+      <div class="preview-label">検出したベースカラー</div>
+    </div>
+  </div>
+
+  <section class="results" id="results">
+    <h2>近い色のジェルカラー</h2>
+    <div id="productList"></div>
+    <div class="note">
+      ※ このプロトタイプでは商品データ・アフィリエイトリンクはサンプルです。実装時は楽天商品検索API / Amazon PA-API から取得した実データと、各ASPが発行するアフィリエイトリンクに差し替えます。
+    </div>
+  </section>
+</div>
+
+<script>
+// --- サンプル商品DB(本来はASP APIから自動取得) ---
+const products = [
+  {name:"ジェルカラー ヌーディーベージュ", hex:"#D9B79C", price:380, asp:"楽天"},
+  {name:"ジェルカラー ミルクティー", hex:"#C9A98B", price:420, asp:"楽天"},
+  {name:"ジェルカラー グレージュ", hex:"#B7A99C", price:450, asp:"Amazon"},
+  {name:"ジェルカラー くすみピンク", hex:"#C9A0A5", price:390, asp:"ネイル専門通販"},
+  {name:"ジェルカラー サーモンオレンジ", hex:"#E29C7C", price:410, asp:"楽天"},
+  {name:"ジェルカラー コーラルレッド", hex:"#D85A45", price:480, asp:"Amazon"},
+  {name:"ジェルカラー ボルドー", hex:"#7A3540", price:520, asp:"ネイル専門通販"},
+  {name:"ジェルカラー ラベンダーグレー", hex:"#A8A0B8", price:400, asp:"楽天"},
+  {name:"ジェルカラー ミントグレー", hex:"#9EB8AE", price:400, asp:"Amazon"},
+  {name:"ジェルカラー ミルキーホワイト", hex:"#EDE6DD", price:360, asp:"楽天"},
+  {name:"ジェルカラー チョコレートブラウン", hex:"#5A3C2E", price:430, asp:"ネイル専門通販"},
+  {name:"ジェルカラー スモーキーネイビー", hex:"#3E4652", price:470, asp:"Amazon"},
+];
+
+function hexToRgb(hex){
+  const n = parseInt(hex.replace('#',''), 16);
+  return [(n>>16)&255, (n>>8)&255, n&255];
+}
+
+function colorDistance(a, b){
+  return Math.sqrt(
+    Math.pow(a[0]-b[0],2) + Math.pow(a[1]-b[1],2) + Math.pow(a[2]-b[2],2)
+  );
+}
+
+function distanceToMatchPercent(d){
+  // 簡易換算(実装時はLab色空間のΔEに置き換えると精度が上がる)
+  const pct = Math.max(0, 100 - (d / 4.4));
+  return Math.round(pct);
+}
+
+function extractDominantColor(img){
+  const canvas = document.createElement('canvas');
+  const size = 60;
+  canvas.width = size; canvas.height = size;
+  const ctx = canvas.getContext('2d');
+  ctx.drawImage(img, 0, 0, size, size);
+  const data = ctx.getImageData(0, 0, size, size).data;
+  let r=0,g=0,b=0,count=0;
+  for(let i=0;i<data.length;i+=4){
+    const rr=data[i], gg=data[i+1], bb=data[i+2];
+    // 明るすぎる/暗すぎるピクセル(背景や影)は除外して中心的な色に寄せる
+    const brightness = (rr+gg+bb)/3;
+    if(brightness < 245 && brightness > 10){
+      r+=rr; g+=gg; b+=bb; count++;
+    }
+  }
+  if(count===0){count=1;}
+  return [Math.round(r/count), Math.round(g/count), Math.round(b/count)];
+}
+
+function rgbToHex([r,g,b]){
+  return '#' + [r,g,b].map(v=>v.toString(16).padStart(2,'0')).join('');
+}
+
+function renderResults(extractedRgb){
+  const ranked = products
+    .map(p => ({...p, dist: colorDistance(extractedRgb, hexToRgb(p.hex))}))
+    .sort((a,b)=>a.dist-b.dist)
+    .slice(0,5);
+
+  const list = document.getElementById('productList');
+  list.innerHTML = '';
+  ranked.forEach(p => {
+    const pct = distanceToMatchPercent(p.dist);
+    const card = document.createElement('div');
+    card.className = 'product-card';
+    card.innerHTML = `
+      <div class="product-swatch" style="background:${p.hex}"></div>
+      <div class="product-info">
+        <p class="name">${p.name}</p>
+        <p class="meta">¥${p.price} ・ ${p.asp} <span class="match-pill">近似色 ${pct}%</span></p>
+      </div>
+      <a class="buy" href="#" onclick="alert('サンプルのため実際のリンク先はありません。実装時はASPが発行するアフィリエイトリンクに差し替わります。'); return false;">商品を見る</a>
+    `;
+    list.appendChild(card);
+  });
+
+  document.getElementById('results').classList.add('show');
+  document.getElementById('guideText').textContent = '近い色のジェルカラーを見つけたよ。気になる商品をタップしてみて!';
+}
+
+document.getElementById('uploadBox').addEventListener('click', () => {
+  document.getElementById('fileInput').click();
+});
+
+document.getElementById('fileInput').addEventListener('change', (e) => {
+  const file = e.target.files[0];
+  if(!file) return;
+  const reader = new FileReader();
+  reader.onload = (ev) => {
+    const img = new Image();
+    img.onload = () => {
+      document.getElementById('previewImg').src = ev.target.result;
+      document.getElementById('previewRow').style.display = 'flex';
+      const rgb = extractDominantColor(img);
+      document.getElementById('extractedSwatch').style.background = rgbToHex(rgb);
+      renderResults(rgb);
+    };
+    img.src = ev.target.result;
+  };
+  reader.readAsDataURL(file);
+});
+</script>
+</body>
+</html>
