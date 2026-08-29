@@ -126,10 +126,27 @@
     <div class="eyebrow">NAIL PITA PROTOTYPE</div>
     <h1>ネイルピタ</h1>
     <p>写真から、ぴったりのジェルカラーが見つかる</p>
+    <p id="dataSourceBadge" style="font-size:11px; color:var(--rose-600); margin-top:6px;"></p>
   </header>
 
   <div class="guide">
-    <svg viewBox="0 0 100 100"><circle cx="50" cy="42" r="26" fill="#FCE4D6"/><path d="M26 40 Q28 12 50 14 Q74 12 74 42 Q66 26 50 26 Q34 26 26 40Z" fill="#6B4A3A"/><circle cx="42" cy="44" r="3" fill="#3C2C24"/><circle cx="58" cy="44" r="3" fill="#3C2C24"/></svg>
+    <svg viewBox="0 0 100 100" role="img"><title>ネイリストキャラクター</title>
+      <path d="M60 35 Q90 42 88 75 Q84 95 74 92 Q82 68 70 48 Q68 60 60 62Z" fill="#8B5E45"/>
+      <path d="M64 45 Q86 55 82 82 Q80 96 72 90 Q78 70 66 55Z" fill="#7A4F39"/>
+      <rect x="66" y="40" width="7" height="6" rx="2" fill="#EDE0CC"/>
+      <rect x="70" y="58" width="6" height="5" rx="2" fill="#EDE0CC"/>
+      <circle cx="50" cy="40" r="27" fill="#FCE4D6"/>
+      <path d="M23 38 Q25 8 50 10 Q75 8 74 36 Q64 20 50 20 Q36 20 23 38Z" fill="#8B5E45"/>
+      <path d="M23 36 Q17 55 27 70 Q24 52 32 40Z" fill="#8B5E45"/>
+      <circle cx="41" cy="42" r="3.2" fill="#3C2C24"/>
+      <circle cx="59" cy="42" r="3.2" fill="#3C2C24"/>
+      <circle cx="31" cy="50" r="6" fill="#E8A3AE" opacity="0.6"/>
+      <circle cx="69" cy="50" r="6" fill="#E8A3AE" opacity="0.6"/>
+      <path d="M42 54 Q50 60 58 54" fill="none" stroke="#3C2C24" stroke-width="2" stroke-linecap="round"/>
+      <path d="M18 78 Q50 62 82 78 L86 100 L14 100Z" fill="#E8DCC8"/>
+      <path d="M33 78 Q50 68 67 78 L69 87 Q50 79 31 87Z" fill="#C9A0A5"/>
+      <rect x="42" y="90" width="16" height="10" rx="3" fill="#E8D4D6"/>
+    </svg>
     <p id="guideText">まずはネイルの写真をアップロードしてみてね!</p>
   </div>
 
@@ -160,21 +177,44 @@
 </div>
 
 <script>
-// --- サンプル商品DB(本来はASP APIから自動取得) ---
-const products = [
-  {name:"ジェルカラー ヌーディーベージュ", hex:"#D9B79C", price:380, asp:"楽天"},
-  {name:"ジェルカラー ミルクティー", hex:"#C9A98B", price:420, asp:"楽天"},
-  {name:"ジェルカラー グレージュ", hex:"#B7A99C", price:450, asp:"Amazon"},
-  {name:"ジェルカラー くすみピンク", hex:"#C9A0A5", price:390, asp:"ネイル専門通販"},
-  {name:"ジェルカラー サーモンオレンジ", hex:"#E29C7C", price:410, asp:"楽天"},
-  {name:"ジェルカラー コーラルレッド", hex:"#D85A45", price:480, asp:"Amazon"},
-  {name:"ジェルカラー ボルドー", hex:"#7A3540", price:520, asp:"ネイル専門通販"},
-  {name:"ジェルカラー ラベンダーグレー", hex:"#A8A0B8", price:400, asp:"楽天"},
-  {name:"ジェルカラー ミントグレー", hex:"#9EB8AE", price:400, asp:"Amazon"},
-  {name:"ジェルカラー ミルキーホワイト", hex:"#EDE6DD", price:360, asp:"楽天"},
-  {name:"ジェルカラー チョコレートブラウン", hex:"#5A3C2E", price:430, asp:"ネイル専門通販"},
-  {name:"ジェルカラー スモーキーネイビー", hex:"#3E4652", price:470, asp:"Amazon"},
+// --- 商品データの読み込み ---
+// products.json(GitHub Actionsが自動生成)を優先的に使い、読み込めない場合だけサンプルにフォールバックする
+const sampleProducts = [
+  {name:"ジェルカラー ヌーディーベージュ", hexColor:"#D9B79C", price:380, aspSource:"楽天", affiliateUrl:"#"},
+  {name:"ジェルカラー ミルクティー", hexColor:"#C9A98B", price:420, aspSource:"楽天", affiliateUrl:"#"},
+  {name:"ジェルカラー グレージュ", hexColor:"#B7A99C", price:450, aspSource:"Amazon", affiliateUrl:"#"},
+  {name:"ジェルカラー くすみピンク", hexColor:"#C9A0A5", price:390, aspSource:"ネイル専門通販", affiliateUrl:"#"},
+  {name:"ジェルカラー サーモンオレンジ", hexColor:"#E29C7C", price:410, aspSource:"楽天", affiliateUrl:"#"},
+  {name:"ジェルカラー コーラルレッド", hexColor:"#D85A45", price:480, aspSource:"Amazon", affiliateUrl:"#"},
+  {name:"ジェルカラー ボルドー", hexColor:"#7A3540", price:520, aspSource:"ネイル専門通販", affiliateUrl:"#"},
+  {name:"ジェルカラー ラベンダーグレー", hexColor:"#A8A0B8", price:400, aspSource:"楽天", affiliateUrl:"#"},
+  {name:"ジェルカラー ミントグレー", hexColor:"#9EB8AE", price:400, aspSource:"Amazon", affiliateUrl:"#"},
+  {name:"ジェルカラー ミルキーホワイト", hexColor:"#EDE6DD", price:360, aspSource:"楽天", affiliateUrl:"#"},
+  {name:"ジェルカラー チョコレートブラウン", hexColor:"#5A3C2E", price:430, aspSource:"ネイル専門通販", affiliateUrl:"#"},
+  {name:"ジェルカラー スモーキーネイビー", hexColor:"#3E4652", price:470, aspSource:"Amazon", affiliateUrl:"#"},
 ];
+
+let products = sampleProducts;
+let usingLiveData = false;
+
+async function loadProducts(){
+  try{
+    const res = await fetch('products.json', {cache: 'no-store'});
+    if(!res.ok) throw new Error('products.json not reachable');
+    const data = await res.json();
+    if(Array.isArray(data) && data.length > 0 && data.some(p => p.hexColor)){
+      products = data.filter(p => p.hexColor); // 色が抽出できた商品のみ使用
+      usingLiveData = true;
+    }
+  }catch(err){
+    console.warn('products.jsonを読み込めなかったため、サンプルデータを使用します:', err.message);
+  }
+  const badge = document.getElementById('dataSourceBadge');
+  if(badge){
+    badge.textContent = usingLiveData ? '楽天の実データを表示中' : 'サンプルデータを表示中(products.jsonが見つかりません)';
+  }
+}
+loadProducts();
 
 function hexToRgb(hex){
   const n = parseInt(hex.replace('#',''), 16);
@@ -219,7 +259,7 @@ function rgbToHex([r,g,b]){
 
 function renderResults(extractedRgb){
   const ranked = products
-    .map(p => ({...p, dist: colorDistance(extractedRgb, hexToRgb(p.hex))}))
+    .map(p => ({...p, dist: colorDistance(extractedRgb, hexToRgb(p.hexColor))}))
     .sort((a,b)=>a.dist-b.dist)
     .slice(0,5);
 
@@ -227,15 +267,19 @@ function renderResults(extractedRgb){
   list.innerHTML = '';
   ranked.forEach(p => {
     const pct = distanceToMatchPercent(p.dist);
+    const isRealLink = usingLiveData && p.affiliateUrl && p.affiliateUrl !== '#';
     const card = document.createElement('div');
     card.className = 'product-card';
     card.innerHTML = `
-      <div class="product-swatch" style="background:${p.hex}"></div>
+      <div class="product-swatch" style="background:${p.hexColor}"></div>
       <div class="product-info">
         <p class="name">${p.name}</p>
-        <p class="meta">¥${p.price} ・ ${p.asp} <span class="match-pill">近似色 ${pct}%</span></p>
+        <p class="meta">¥${p.price} ・ ${p.aspSource} <span class="match-pill">近似色 ${pct}%</span></p>
       </div>
-      <a class="buy" href="#" onclick="alert('サンプルのため実際のリンク先はありません。実装時はASPが発行するアフィリエイトリンクに差し替わります。'); return false;">商品を見る</a>
+      ${isRealLink
+        ? `<a class="buy" href="${p.affiliateUrl}" target="_blank" rel="noopener">商品を見る</a>`
+        : `<a class="buy" href="#" onclick="alert('サンプルのため実際のリンク先はありません。products.jsonが読み込まれると実際のアフィリエイトリンクに変わります。'); return false;">商品を見る</a>`
+      }
     `;
     list.appendChild(card);
   });
