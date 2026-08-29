@@ -33,14 +33,16 @@ const SEARCH_KEYWORDS = [
 
 // --- ① 楽天商品検索APIから商品を取得(2026年新仕様: openapi.rakuten.co.jp + accessKey) ---
 async function fetchRakutenProducts(keyword, page = 1) {
-  const endpoint = 'https://openapi.rakuten.co.jp/ichibams/api/IchibaItem/Search/20220601';
+  const endpoint = 'https://openapi.rakuten.co.jp/ichibams/api/IchibaItem/Search/20260701';
   const params = new URLSearchParams({
     applicationId: APP_ID,
+    accessKey: ACCESS_KEY, // ヘッダーに加えてクエリにも含めておく(仕様のブレに対する保険)
     affiliateId: AFFILIATE_ID, // これを付けると商品URLに自動でアフィリエイトIDが反映される
     keyword,
     page: String(page),
     hits: '30',
     format: 'json',
+    formatVersion: '2',
     sort: '-updateTimestamp', // 新着・更新順(トレンド反映)
   });
   const url = `${endpoint}?${params.toString()}`;
@@ -61,14 +63,17 @@ async function fetchRakutenProducts(keyword, page = 1) {
   }
 
   const data = await body.json();
-  return (data.Items || []).map(({ Item }) => ({
-    productId: Item.itemCode,
-    name: Item.itemName,
-    price: Item.itemPrice,
-    imageUrl: (Item.mediumImageUrls?.[0]?.imageUrl || '').replace('?_ex=128x128', ''),
-    affiliateUrl: Item.affiliateUrl || Item.itemUrl, // affiliateIdを渡していればここに反映済みのリンクが入る
-    aspSource: '楽天',
-  }));
+  return (data.Items || []).map((entry) => {
+    const item = entry.Item || entry; // formatVersion=2ではItemでラップされず直接オブジェクトになる
+    return {
+      productId: item.itemCode,
+      name: item.itemName,
+      price: item.itemPrice,
+      imageUrl: (item.mediumImageUrls?.[0]?.imageUrl || '').replace('?_ex=128x128', ''),
+      affiliateUrl: item.affiliateUrl || item.itemUrl, // affiliateIdを渡していればここに反映済みのリンクが入る
+      aspSource: '楽天',
+    };
+  });
 }
 
 // --- ② 商品画像から代表色を自動抽出(Lab値の簡易版としてRGBを保存) ---
