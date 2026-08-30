@@ -56,37 +56,47 @@
   .guide svg{width:40px; height:40px; flex-shrink:0;}
   .guide p{font-size:13px; color:var(--rose-900); margin:0;}
 
-  .upload-box{
-    border:1.5px dashed var(--rose-600);
-    border-radius:16px;
-    padding:32px 20px;
+  section.step{margin-top:12px; display:none;}
+  section.step.show{display:block;}
+  section.step h2{font-size:16px; color:var(--rose-900); margin-bottom:14px;}
+
+  .color-grid{
+    display:grid; grid-template-columns:repeat(3, 1fr); gap:12px;
+  }
+  .color-btn{
+    border:1px solid var(--rose-100);
+    border-radius:14px;
+    padding:14px 6px 10px;
+    background:#fff;
     text-align:center;
     cursor:pointer;
+    font-family:inherit;
+  }
+  .color-btn .swatch-dot{
+    width:36px; height:36px; border-radius:50%;
+    margin:0 auto 8px;
+    border:1px solid rgba(0,0,0,0.08);
+  }
+  .color-btn span{font-size:12px; color:var(--ink);}
+  .color-btn:active{background:var(--rose-50);}
+
+  .chip-row{display:flex; flex-wrap:wrap; gap:10px;}
+  .chip-btn{
+    border:1px solid var(--rose-600);
+    border-radius:999px;
+    padding:9px 16px;
     background:#fff;
-    transition:background 0.2s;
+    color:var(--rose-800);
+    font-size:13px;
+    cursor:pointer;
+    font-family:inherit;
   }
-  .upload-box:hover{background:var(--rose-50);}
-  .upload-box svg{width:36px; height:36px; color:var(--rose-600);}
-  .upload-box p{font-size:13px; color:var(--muted); margin:10px 0 0;}
-  #fileInput{display:none;}
+  .chip-btn.skip{border-style:dashed; color:var(--muted); border-color:var(--muted);}
 
-  .preview-row{
-    display:flex; gap:14px; align-items:center;
-    margin:20px 0;
+  .selection-summary{
+    font-size:12px; color:var(--muted); margin-bottom:14px;
   }
-  .preview-row img{
-    width:84px; height:84px; object-fit:cover; border-radius:12px;
-    border:1px solid var(--rose-100);
-  }
-  .swatch{
-    width:84px; height:84px; border-radius:12px;
-    border:1px solid var(--rose-100);
-  }
-  .preview-label{font-size:12px; color:var(--muted); text-align:center; margin-top:6px;}
-
-  section.results{margin-top:28px; display:none;}
-  section.results.show{display:block;}
-  section.results h2{font-size:16px; color:var(--rose-900); margin-bottom:14px;}
+  .selection-summary b{color:var(--rose-800);}
 
   .product-card{
     display:flex; gap:12px; align-items:center;
@@ -114,10 +124,17 @@
     text-decoration:none;
     white-space:nowrap;
   }
-  .note{
-    font-size:11px; color:var(--muted); margin-top:16px; padding:12px 14px;
-    background:var(--rose-50); border-radius:10px;
+  .rank-badge{
+    font-size:11px; color:var(--rose-600); font-weight:700; width:20px; flex-shrink:0;
   }
+  .action-row{display:flex; gap:10px; margin-top:16px;}
+  .action-row button{flex:1;}
+  button{
+    font-family:inherit; font-size:13px;
+    border:1px solid var(--rose-600); border-radius:10px;
+    background:#fff; color:var(--rose-800); padding:10px; cursor:pointer;
+  }
+  .empty-msg{font-size:13px; color:var(--muted); padding:12px 0;}
 </style>
 </head>
 <body>
@@ -125,7 +142,7 @@
   <header>
     <div class="eyebrow">NAIL PITA PROTOTYPE</div>
     <h1>ネイルピタ</h1>
-    <p>写真から、ぴったりのジェルカラーが見つかる</p>
+    <p>色とお好みを選ぶだけで、ぴったりのジェルカラーが見つかる</p>
     <p id="dataSourceBadge" style="font-size:11px; color:var(--rose-600); margin-top:6px;"></p>
   </header>
 
@@ -147,54 +164,97 @@
       <path d="M33 78 Q50 68 67 78 L69 87 Q50 79 31 87Z" fill="#C9A0A5"/>
       <rect x="42" y="90" width="16" height="10" rx="3" fill="#E8D4D6"/>
     </svg>
-    <p id="guideText">まずはネイルの写真をアップロードしてみてね!</p>
+    <p id="guideText">まずは気になる色の系統を選んでね!</p>
   </div>
 
-  <div class="upload-box" id="uploadBox">
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M4 8V6a2 2 0 0 1 2-2h2l1.5-2h5L16 4h2a2 2 0 0 1 2 2v2M4 8v10a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8M4 8h16" stroke-linecap="round" stroke-linejoin="round"/><circle cx="12" cy="14" r="4"/></svg>
-    <p>タップして写真をアップロード</p>
-    <input type="file" id="fileInput" accept="image/*">
-  </div>
+  <!-- ① 色系統の選択 -->
+  <section class="step show" id="stepColor">
+    <h2>①どの色系統が気になる?</h2>
+    <div class="color-grid" id="colorGrid"></div>
+  </section>
 
-  <div class="preview-row" id="previewRow" style="display:none;">
-    <div>
-      <img id="previewImg" alt="アップロードした写真">
-      <div class="preview-label">アップロード写真</div>
-    </div>
-    <div>
-      <div class="swatch" id="extractedSwatch"></div>
-      <div class="preview-label">検出したベースカラー</div>
-    </div>
-  </div>
+  <!-- ② 質感の選択 -->
+  <section class="step" id="stepFinish">
+    <h2>②お好みの質感は?</h2>
+    <div class="selection-summary" id="colorSummary"></div>
+    <div class="chip-row" id="finishChips"></div>
+  </section>
 
-  <section class="results" id="results">
-    <h2>近い色のジェルカラー</h2>
+  <!-- ③ ジェルカラーの結果 -->
+  <section class="step" id="stepResults">
+    <h2>人気のジェルカラー</h2>
+    <div class="selection-summary" id="resultSummary"></div>
     <div id="productList"></div>
-    <div class="note">
-      ※ このプロトタイプでは商品データ・アフィリエイトリンクはサンプルです。実装時は楽天商品検索API / Amazon PA-API から取得した実データと、各ASPが発行するアフィリエイトリンクに差し替えます。
+    <div class="action-row">
+      <button id="moreColorsBtn">気に入らない場合→次の5件</button>
+    </div>
+    <div class="action-row">
+      <button id="retryBtn">🔄 最初からやり直す</button>
+    </div>
+  </section>
+
+  <!-- ③' ネイルアート/パーツを見るか -->
+  <section class="step" id="stepArtPrompt">
+    <h2>ネイルアートもしてみる?</h2>
+    <div class="action-row">
+      <button id="wantPartsBtn">する(パーツを見る)</button>
+      <button id="skipPartsBtn" class="skip">しない</button>
+    </div>
+  </section>
+
+  <!-- ④ パーツの結果 -->
+  <section class="step" id="stepParts">
+    <h2>人気のネイルパーツ</h2>
+    <div id="partsList"></div>
+    <div class="action-row">
+      <button id="morePartsBtn">気に入らない場合→次の5件</button>
+    </div>
+    <div class="action-row">
+      <button id="retryBtn2">🔄 最初からやり直す</button>
     </div>
   </section>
 </div>
 
 <script>
-// --- 商品データの読み込み ---
-// products.json(GitHub Actionsが自動生成)を優先的に使い、読み込めない場合だけサンプルにフォールバックする
-const sampleProducts = [
-  {name:"ジェルカラー ヌーディーベージュ", hexColor:"#D9B79C", price:380, aspSource:"楽天", affiliateUrl:"#"},
-  {name:"ジェルカラー ミルクティー", hexColor:"#C9A98B", price:420, aspSource:"楽天", affiliateUrl:"#"},
-  {name:"ジェルカラー グレージュ", hexColor:"#B7A99C", price:450, aspSource:"Amazon", affiliateUrl:"#"},
-  {name:"ジェルカラー くすみピンク", hexColor:"#C9A0A5", price:390, aspSource:"ネイル専門通販", affiliateUrl:"#"},
-  {name:"ジェルカラー サーモンオレンジ", hexColor:"#E29C7C", price:410, aspSource:"楽天", affiliateUrl:"#"},
-  {name:"ジェルカラー コーラルレッド", hexColor:"#D85A45", price:480, aspSource:"Amazon", affiliateUrl:"#"},
-  {name:"ジェルカラー ボルドー", hexColor:"#7A3540", price:520, aspSource:"ネイル専門通販", affiliateUrl:"#"},
-  {name:"ジェルカラー ラベンダーグレー", hexColor:"#A8A0B8", price:400, aspSource:"楽天", affiliateUrl:"#"},
-  {name:"ジェルカラー ミントグレー", hexColor:"#9EB8AE", price:400, aspSource:"Amazon", affiliateUrl:"#"},
-  {name:"ジェルカラー ミルキーホワイト", hexColor:"#EDE6DD", price:360, aspSource:"楽天", affiliateUrl:"#"},
-  {name:"ジェルカラー チョコレートブラウン", hexColor:"#5A3C2E", price:430, aspSource:"ネイル専門通販", affiliateUrl:"#"},
-  {name:"ジェルカラー スモーキーネイビー", hexColor:"#3E4652", price:470, aspSource:"Amazon", affiliateUrl:"#"},
+// --- 色系統(色相ベース)の一覧。ボタンの色はイメージ用のサンプルカラー ---
+const COLOR_FAMILIES = [
+  { key: 'レッド', swatch: '#D64545' },
+  { key: 'ピンク', swatch: '#E38AA0' },
+  { key: 'オレンジ', swatch: '#E08A4B' },
+  { key: 'イエロー', swatch: '#E8C84B' },
+  { key: 'グリーン/イエローグリーン', swatch: '#8FBF6B', label: 'グリーン' },
+  { key: 'ブルー/ライトブルー', swatch: '#5B8FD1', label: 'ブルー' },
+  { key: 'パープル', swatch: '#9B7FC7' },
+  { key: 'ブラウン', swatch: '#8B5E3C' },
+  { key: 'グレー', swatch: '#A8A8A0' },
+  { key: 'ブラック', swatch: '#333333' },
+  { key: 'ホワイト', swatch: '#F7F3EC' },
 ];
 
-let products = sampleProducts;
+const FINISH_TYPES = ['マット', 'シアー', 'クリア', 'グリッター', 'マグネット', 'メタリック'];
+
+// --- サンプル商品DB(products.jsonが読み込めない場合のフォールバック) ---
+const sampleProducts = [
+  {name:"ジェルカラー ヌーディーベージュ", hexColor:"#D9B79C", price:380, aspSource:"楽天", affiliateUrl:"#", isColorProduct:true, colorFamily:"ブラウン", finishTypes:[], reviewCount:120},
+  {name:"ジェルカラー ミルクティー", hexColor:"#C9A98B", price:420, aspSource:"楽天", affiliateUrl:"#", isColorProduct:true, colorFamily:"ブラウン", finishTypes:['シアー'], reviewCount:98},
+  {name:"ジェルカラー グレージュ", hexColor:"#B7A99C", price:450, aspSource:"Amazon", affiliateUrl:"#", isColorProduct:true, colorFamily:"グレー", finishTypes:[], reviewCount:76},
+  {name:"ジェルカラー くすみピンク", hexColor:"#C9A0A5", price:390, aspSource:"ネイル専門通販", affiliateUrl:"#", isColorProduct:true, colorFamily:"ピンク", finishTypes:['マット'], reviewCount:210},
+  {name:"ジェルカラー サーモンオレンジ", hexColor:"#E29C7C", price:410, aspSource:"楽天", affiliateUrl:"#", isColorProduct:true, colorFamily:"オレンジ", finishTypes:[], reviewCount:65},
+  {name:"ジェルカラー コーラルレッド", hexColor:"#D85A45", price:480, aspSource:"Amazon", affiliateUrl:"#", isColorProduct:true, colorFamily:"レッド", finishTypes:['グリッター'], reviewCount:143},
+  {name:"ジェルカラー ボルドー", hexColor:"#7A3540", price:520, aspSource:"ネイル専門通販", affiliateUrl:"#", isColorProduct:true, colorFamily:"レッド", finishTypes:['マット'], reviewCount:87},
+  {name:"ジェルカラー ラベンダーグレー", hexColor:"#A8A0B8", price:400, aspSource:"楽天", affiliateUrl:"#", isColorProduct:true, colorFamily:"パープル", finishTypes:[], reviewCount:54},
+  {name:"ジェルカラー ミントグレー", hexColor:"#9EB8AE", price:400, aspSource:"Amazon", affiliateUrl:"#", isColorProduct:true, colorFamily:"グリーン/イエローグリーン", finishTypes:['シアー'], reviewCount:61},
+  {name:"ジェルカラー ミルキーホワイト", hexColor:"#EDE6DD", price:360, aspSource:"楽天", affiliateUrl:"#", isColorProduct:true, colorFamily:"ホワイト", finishTypes:[], reviewCount:132},
+  {name:"ジェルカラー チョコレートブラウン", hexColor:"#5A3C2E", price:430, aspSource:"ネイル専門通販", affiliateUrl:"#", isColorProduct:true, colorFamily:"ブラウン", finishTypes:['マット'], reviewCount:70},
+  {name:"ジェルカラー スモーキーネイビー", hexColor:"#3E4652", price:470, aspSource:"Amazon", affiliateUrl:"#", isColorProduct:true, colorFamily:"ブルー/ライトブルー", finishTypes:['メタリック'], reviewCount:58},
+];
+const samplePartsProducts = [
+  {name:"ネイルパーツ ミックスストーン", hexColor:"#D9C9CC", price:480, aspSource:"楽天", affiliateUrl:"#", isPartsProduct:true, quantity:10, reviewCount:120},
+  {name:"ネイルパーツ パールセット", hexColor:"#EDE6DD", price:390, aspSource:"楽天", affiliateUrl:"#", isPartsProduct:true, quantity:10, reviewCount:88},
+  {name:"ネイルパーツ ゴールドスタッズ", hexColor:"#C9A45A", price:520, aspSource:"Amazon", affiliateUrl:"#", isPartsProduct:true, quantity:8, reviewCount:64},
+];
+
+let allProducts = sampleProducts.concat(samplePartsProducts);
 let usingLiveData = false;
 
 async function loadProducts(){
@@ -202,8 +262,8 @@ async function loadProducts(){
     const res = await fetch('products.json', {cache: 'no-store'});
     if(!res.ok) throw new Error('products.json not reachable');
     const data = await res.json();
-    if(Array.isArray(data) && data.length > 0 && data.some(p => p.hexColor)){
-      products = data.filter(p => p.hexColor); // 色が抽出できた商品のみ使用
+    if(Array.isArray(data) && data.length > 0){
+      allProducts = data;
       usingLiveData = true;
     }
   }catch(err){
@@ -216,99 +276,199 @@ async function loadProducts(){
 }
 loadProducts();
 
-function hexToRgb(hex){
-  const n = parseInt(hex.replace('#',''), 16);
-  return [(n>>16)&255, (n>>8)&255, n&255];
+// --- 状態管理 ---
+let selectedColor = null;
+let selectedFinish = null;
+let colorPage = 0;   // 0=1〜5件目, 1=6〜10件目 ...
+let partsPage = 0;
+
+function showStep(id){
+  document.querySelectorAll('section.step').forEach(s => s.classList.remove('show'));
+  document.getElementById(id).classList.add('show');
+  document.getElementById(id).scrollIntoView({ behavior: 'smooth' });
 }
 
-function colorDistance(a, b){
-  return Math.sqrt(
-    Math.pow(a[0]-b[0],2) + Math.pow(a[1]-b[1],2) + Math.pow(a[2]-b[2],2)
-  );
+// --- ①色系統ボタンの描画 ---
+const colorGrid = document.getElementById('colorGrid');
+COLOR_FAMILIES.forEach(c => {
+  const btn = document.createElement('button');
+  btn.className = 'color-btn';
+  btn.innerHTML = `<div class="swatch-dot" style="background:${c.swatch}"></div><span>${c.label || c.key}</span>`;
+  btn.addEventListener('click', () => {
+    selectedColor = c.key;
+    document.getElementById('colorSummary').innerHTML = `選んだ色系統:<b>${c.label || c.key}</b>`;
+    document.getElementById('guideText').textContent = '質感のお好みも教えてね!';
+    showStep('stepFinish');
+  });
+  colorGrid.appendChild(btn);
+});
+
+// --- ②質感チップの描画 ---
+const finishChips = document.getElementById('finishChips');
+FINISH_TYPES.forEach(f => {
+  const btn = document.createElement('button');
+  btn.className = 'chip-btn';
+  btn.textContent = f;
+  btn.addEventListener('click', () => {
+    selectedFinish = f;
+    startColorSearch();
+  });
+  finishChips.appendChild(btn);
+});
+const skipChip = document.createElement('button');
+skipChip.className = 'chip-btn skip';
+skipChip.textContent = 'こだわらない';
+skipChip.addEventListener('click', () => {
+  selectedFinish = null;
+  startColorSearch();
+});
+finishChips.appendChild(skipChip);
+
+// --- 人気順(レビュー件数)でのランキング表示 ---
+function getRankedColors(){
+  return allProducts
+    .filter(p => p.isColorProduct && p.colorFamily === selectedColor && (!selectedFinish || (p.finishTypes || []).includes(selectedFinish)))
+    .sort((a, b) => (b.reviewCount || 0) - (a.reviewCount || 0));
 }
 
-function distanceToMatchPercent(d){
-  // 簡易換算(実装時はLab色空間のΔEに置き換えると精度が上がる)
-  const pct = Math.max(0, 100 - (d / 4.4));
-  return Math.round(pct);
+function startColorSearch(){
+  colorPage = 0;
+  document.getElementById('resultSummary').innerHTML =
+    `色系統:<b>${selectedColor}</b>　質感:<b>${selectedFinish || 'こだわらない'}</b>`;
+  renderColorPage();
+  document.getElementById('guideText').textContent = '人気のジェルカラーはこちら!気に入らなければ次の候補も見られるよ';
+  showStep('stepResults');
 }
 
-function extractDominantColor(img){
-  const canvas = document.createElement('canvas');
-  const size = 60;
-  canvas.width = size; canvas.height = size;
-  const ctx = canvas.getContext('2d');
-  ctx.drawImage(img, 0, 0, size, size);
-  const data = ctx.getImageData(0, 0, size, size).data;
-  let r=0,g=0,b=0,count=0;
-  for(let i=0;i<data.length;i+=4){
-    const rr=data[i], gg=data[i+1], bb=data[i+2];
-    // 明るすぎる/暗すぎるピクセル(背景や影)は除外して中心的な色に寄せる
-    const brightness = (rr+gg+bb)/3;
-    if(brightness < 245 && brightness > 10){
-      r+=rr; g+=gg; b+=bb; count++;
-    }
-  }
-  if(count===0){count=1;}
-  return [Math.round(r/count), Math.round(g/count), Math.round(b/count)];
-}
-
-function rgbToHex([r,g,b]){
-  return '#' + [r,g,b].map(v=>v.toString(16).padStart(2,'0')).join('');
-}
-
-function renderResults(extractedRgb){
-  const ranked = products
-    .map(p => ({...p, dist: colorDistance(extractedRgb, hexToRgb(p.hexColor))}))
-    .sort((a,b)=>a.dist-b.dist)
-    .slice(0,5);
-
+function renderColorPage(){
+  const ranked = getRankedColors();
+  const start = colorPage * 5;
+  const pageItems = ranked.slice(start, start + 5);
   const list = document.getElementById('productList');
   list.innerHTML = '';
-  ranked.forEach(p => {
-    const pct = distanceToMatchPercent(p.dist);
+
+  if(pageItems.length === 0){
+    list.innerHTML = `<p class="empty-msg">${start === 0 ? 'この組み合わせの商品がまだ見つかりませんでした。質感を変えて試してみてください。' : 'これ以上の候補はありません。'}</p>`;
+    document.getElementById('moreColorsBtn').disabled = true;
+    return;
+  }
+  document.getElementById('moreColorsBtn').disabled = (start + 5) >= ranked.length;
+
+  pageItems.forEach((p, i) => {
     const isRealLink = usingLiveData && p.affiliateUrl && p.affiliateUrl !== '#';
+    const finishBadges = (p.finishTypes || []).map(f => `<span class="match-pill">${f}</span>`).join('');
     const card = document.createElement('div');
     card.className = 'product-card';
     card.innerHTML = `
+      <div class="rank-badge">${start + i + 1}</div>
       <div class="product-swatch" style="background:${p.hexColor}"></div>
       <div class="product-info">
         <p class="name">${p.name}</p>
-        <p class="meta">¥${p.price} ・ ${p.aspSource} <span class="match-pill">近似色 ${pct}%</span></p>
+        <p class="meta">¥${p.price} ・ ${p.aspSource} ${finishBadges}</p>
       </div>
       ${isRealLink
         ? `<a class="buy" href="${p.affiliateUrl}" target="_blank" rel="noopener">商品を見る</a>`
-        : `<a class="buy" href="#" onclick="alert('サンプルのため実際のリンク先はありません。products.jsonが読み込まれると実際のアフィリエイトリンクに変わります。'); return false;">商品を見る</a>`
+        : `<a class="buy" href="#" onclick="alert('サンプルのため実際のリンク先はありません。'); return false;">商品を見る</a>`
       }
     `;
     list.appendChild(card);
   });
-
-  document.getElementById('results').classList.add('show');
-  document.getElementById('guideText').textContent = '近い色のジェルカラーを見つけたよ。気になる商品をタップしてみて!';
 }
 
-document.getElementById('uploadBox').addEventListener('click', () => {
-  document.getElementById('fileInput').click();
+document.getElementById('moreColorsBtn').addEventListener('click', () => {
+  colorPage += 1;
+  renderColorPage();
+  document.getElementById('guideText').textContent = `次の候補を見てみよう(${colorPage * 5 + 1}〜${colorPage * 5 + 5}位)`;
 });
 
-document.getElementById('fileInput').addEventListener('change', (e) => {
-  const file = e.target.files[0];
-  if(!file) return;
-  const reader = new FileReader();
-  reader.onload = (ev) => {
-    const img = new Image();
-    img.onload = () => {
-      document.getElementById('previewImg').src = ev.target.result;
-      document.getElementById('previewRow').style.display = 'flex';
-      const rgb = extractDominantColor(img);
-      document.getElementById('extractedSwatch').style.background = rgbToHex(rgb);
-      renderResults(rgb);
-    };
-    img.src = ev.target.result;
-  };
-  reader.readAsDataURL(file);
+function goToArtPrompt(){
+  showStep('stepArtPrompt');
+  document.getElementById('guideText').textContent = 'ネイルアートやパーツも見てみる?';
+}
+
+// 色の結果を見たら、アートの案内に進めるボタンを追加する
+(function addArtPromptButton(){
+  const section = document.getElementById('stepResults');
+  const btn = document.createElement('button');
+  btn.textContent = 'ネイルアートも見てみる';
+  btn.style.width = '100%';
+  btn.style.marginTop = '10px';
+  btn.addEventListener('click', goToArtPrompt);
+  section.appendChild(btn);
+})();
+
+document.getElementById('wantPartsBtn').addEventListener('click', () => {
+  partsPage = 0;
+  renderPartsPage();
+  document.getElementById('guideText').textContent = '人気のパーツはこちら!';
+  showStep('stepParts');
 });
+document.getElementById('skipPartsBtn').addEventListener('click', () => {
+  document.getElementById('guideText').textContent = 'また色を選び直したくなったらいつでもどうぞ!';
+});
+
+function partsSortScore(p){
+  // 10個以下を優先しつつ、人気順(レビュー数)も考慮する
+  const qtyScore = p.quantity == null ? 500 : (p.quantity <= 10 ? (10 - p.quantity) * 10 : 100 + p.quantity);
+  return qtyScore - (p.reviewCount || 0) / 100;
+}
+
+function getRankedParts(){
+  return allProducts
+    .filter(p => p.isPartsProduct)
+    .sort((a, b) => partsSortScore(a) - partsSortScore(b));
+}
+
+function renderPartsPage(){
+  const ranked = getRankedParts();
+  const start = partsPage * 5;
+  const pageItems = ranked.slice(start, start + 5);
+  const list = document.getElementById('partsList');
+  list.innerHTML = '';
+
+  if(pageItems.length === 0){
+    list.innerHTML = `<p class="empty-msg">${start === 0 ? 'パーツの商品がまだ見つかりませんでした。' : 'これ以上の候補はありません。'}</p>`;
+    document.getElementById('morePartsBtn').disabled = true;
+    return;
+  }
+  document.getElementById('morePartsBtn').disabled = (start + 5) >= ranked.length;
+
+  pageItems.forEach((p, i) => {
+    const isRealLink = usingLiveData && p.affiliateUrl && p.affiliateUrl !== '#';
+    const qtyLabel = p.quantity ? `${p.quantity}個入り` : '個数記載なし';
+    const card = document.createElement('div');
+    card.className = 'product-card';
+    card.innerHTML = `
+      <div class="rank-badge">${start + i + 1}</div>
+      <div class="product-swatch" style="background:${p.hexColor || '#E8D4D6'}"></div>
+      <div class="product-info">
+        <p class="name">${p.name}</p>
+        <p class="meta">¥${p.price} ・ ${p.aspSource} <span class="match-pill">${qtyLabel}</span></p>
+      </div>
+      ${isRealLink
+        ? `<a class="buy" href="${p.affiliateUrl}" target="_blank" rel="noopener">商品を見る</a>`
+        : `<a class="buy" href="#" onclick="alert('サンプルのため実際のリンク先はありません。'); return false;">商品を見る</a>`
+      }
+    `;
+    list.appendChild(card);
+  });
+}
+
+document.getElementById('morePartsBtn').addEventListener('click', () => {
+  partsPage += 1;
+  renderPartsPage();
+});
+
+function resetAll(){
+  selectedColor = null;
+  selectedFinish = null;
+  colorPage = 0;
+  partsPage = 0;
+  document.getElementById('guideText').textContent = 'まずは気になる色の系統を選んでね!';
+  showStep('stepColor');
+}
+document.getElementById('retryBtn').addEventListener('click', resetAll);
+document.getElementById('retryBtn2').addEventListener('click', resetAll);
 </script>
 </body>
 </html>
