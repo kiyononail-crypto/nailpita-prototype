@@ -27,6 +27,7 @@ const OUTPUT_PATH = 'products.json';
 // バッチで巡回する検索キーワード(トレンドに応じて増減させる想定)
 const SEARCH_KEYWORDS = [
   'ジェルカラー',
+  'ジェルネイル カラージェル',
   'ジェルネイル パーツ',
   'ネイルストーン',
 ];
@@ -135,6 +136,14 @@ function assignSceneTags(name) {
   return tags;
 }
 
+// --- ③-2 色マッチングに使ってよい「ジェルカラー商品」かどうかを商品名から判定 ---
+// パーツ・ストーン・接着剤・クリア/ベース/トップジェルなど「色を選ぶ商品ではないもの」を除外する
+function isColorProduct(name) {
+  const isColorLike = /ジェルカラー|カラージェル|ワンカラー|ジェルポリッシュ|マニキュア/.test(name);
+  const isExcluded = /パーツ|ストーン|ラインストーン|パウダー|ラメ(?!.*カラー)|粘土|接着|グルー|ネイルチップ(?!.*カラー)|ファイル|フィルター|クリアジェル|ベースジェル|トップジェル|ビルダー|マグネット|3D/.test(name);
+  return isColorLike && !isExcluded;
+}
+
 // --- ④ 商品データの保存
 // 本格的なDBを用意するまでの間は、リポジトリ内のproducts.jsonに書き出す方式にしている。
 // (GitHub Actionsでこのファイルを自動コミットすれば、簡易的な「商品DB」として機能する)
@@ -178,6 +187,7 @@ async function runBatch() {
           ...item,
           hexColor,
           sceneTags,
+          isColorProduct: isColorProduct(item.name),
           updatedAt: new Date().toISOString(),
         });
       } catch (err) {
