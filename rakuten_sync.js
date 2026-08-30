@@ -24,7 +24,18 @@ const AFFILIATE_ID = process.env.RAKUTEN_AFFILIATE_ID;
 const SITE_ORIGIN = process.env.RAKUTEN_SITE_ORIGIN || 'https://github.com/kiyononail-crypto/nailpita-prototype';
 const OUTPUT_PATH = 'products.json';
 
-// バッチで巡回する検索キーワード(トレンドに応じて増減させる想定)
+// 優先的に検索したい楽天ショップ(コードはショップURLの一部)
+// ※一部未検証のため、実際に0件が続くショップがあれば、そのショップのURL(rakuten.co.jp/◯◯◯/)を見て修正してください
+const PRIORITY_SHOPS = [
+  { shopCode: 'nail-koubouu', keyword: 'ジェルカラー' },
+  { shopCode: 'nailtown', keyword: 'ジェルカラー' },
+  { shopCode: 'putiel', keyword: 'ジェルカラー' },
+  { shopCode: 'gracegarden', keyword: 'ジェルカラー' },
+  { shopCode: 'japannail', keyword: 'ジェルカラー' },
+  { shopCode: 'cocoronail', keyword: 'ネイルパーツ' },
+  { shopCode: 'charmymarket', keyword: 'ネイルパーツ' },
+  { shopCode: 's-sheri', keyword: 'ネイルパーツ' },
+];
 const SEARCH_KEYWORDS = [
   'ジェルカラー',
   'ジェルネイル カラージェル',
@@ -37,9 +48,9 @@ function sleep(ms) {
 }
 
 // --- ① 楽天商品検索APIから商品を取得(2026年新仕様: openapi.rakuten.co.jp + accessKey) ---
-async function fetchRakutenProducts(keyword, page = 1, retriesLeft = 3) {
+async function fetchRakutenProducts(keyword, { page = 1, retriesLeft = 3, shopCode = null } = {}) {
   const endpoint = 'https://openapi.rakuten.co.jp/ichibams/api/IchibaItem/Search/20260701';
-  const params = new URLSearchParams({
+  const paramsObj = {
     applicationId: APP_ID,
     accessKey: ACCESS_KEY, // ヘッダーに加えてクエリにも含めておく(仕様のブレに対する保険)
     affiliateId: AFFILIATE_ID, // これを付けると商品URLに自動でアフィリエイトIDが反映される
@@ -48,8 +59,10 @@ async function fetchRakutenProducts(keyword, page = 1, retriesLeft = 3) {
     hits: '30',
     format: 'json',
     formatVersion: '2',
-    sort: '-updateTimestamp', // 新着・更新順(トレンド反映)
-  });
+    sort: '-reviewCount', // 「売上順」は非公開のため、レビュー件数の多い順(人気順の代用)
+  };
+  if (shopCode) paramsObj.shopCode = shopCode;
+  const params = new URLSearchParams(paramsObj);
   const url = `${endpoint}?${params.toString()}`;
 
   const { statusCode, body } = await undiciRequest(url, {
@@ -75,7 +88,7 @@ async function fetchRakutenProducts(keyword, page = 1, retriesLeft = 3) {
     }
     console.log(`  レート制限のため ${waitMs}ms 待機して再試行します(残り${retriesLeft}回)`);
     await sleep(waitMs);
-    return fetchRakutenProducts(keyword, page, retriesLeft - 1);
+    return fetchRakutenProducts(keyword, { page, retriesLeft: retriesLeft - 1, shopCode });
   }
 
   if (statusCode < 200 || statusCode >= 300) {
@@ -96,6 +109,9 @@ async function fetchRakutenProducts(keyword, page = 1, retriesLeft = 3) {
       imageUrl: (rawImageUrl || '').replace('?_ex=128x128', ''),
       affiliateUrl: item.affiliateUrl || item.itemUrl, // affiliateIdを渡していればここに反映済みのリンクが入る
       aspSource: '楽天',
+      // 楽天APIは実際の「売上順」は非公開のため、レビュー件数を人気順の代わりに使う
+      reviewCount: item.reviewCount || 0,
+      reviewAverage: item.reviewAverage || 0,
     };
   });
 }
@@ -149,7 +165,7 @@ function assignSceneTags(name) {
 // パーツ・ストーン・接着剤・ベース/トップジェルなど「色を選ぶ商品ではないもの」を除外する
 function isColorProduct(name) {
   const isColorLike = /ジェルカラー|カラージェル|ワンカラー|ジェルポリッシュ|マニキュア/.test(name);
-  const isExcluded = /パーツ|ストーン|ラインストーン|パウダー|粘土|接着|グルー|ネイルチップ|ファイル|フィルター|ベースジェル|トップジェル|ビルダー/.test(name);
+  const isExcluded = /パーツ|ストーン|ラインストーン|パウダー|粘土|接着|グルー|ネイルチップ|ファイル|フィルター|ベースジェル|トップジェル|ビルダー|セット/.test(name);
   return isColorLike && !isExcluded;
 }
 
@@ -160,7 +176,42 @@ function isPartsProduct(name) {
   return isPartsLike && !isTool;
 }
 
-// --- ③-4 商品名から個数を読み取る(パーツを個数優先で並べるための下ごしらえ) ---
+// --- ③-6 HEXカラーから系統(レッド/ピンク/オレンジなど)を判定 ---
+function hexToHsl(hex) {
+  const n = parseInt(hex.replace('#', ''), 16);
+  let r = ((n >> 16) & 255) / 255, g = ((n >> 8) & 255) / 255, b = (n & 255) / 255;
+  const max = Math.max(r, g, b), min = Math.min(r, g, b);
+  let h = 0, s = 0;
+  const l = (max + min) / 2;
+  const d = max - min;
+  if (d !== 0) {
+    s = d / (1 - Math.abs(2 * l - 1));
+    switch (max) {
+      case r: h = 60 * (((g - b) / d) % 6); break;
+      case g: h = 60 * ((b - r) / d + 2); break;
+      case b: h = 60 * ((r - g) / d + 4); break;
+    }
+  }
+  if (h < 0) h += 360;
+  return { h, s, l };
+}
+
+function classifyColorFamily(hex) {
+  if (!hex) return null;
+  const { h, s, l } = hexToHsl(hex);
+  if (l > 0.90) return 'ホワイト';
+  if (l < 0.15) return 'ブラック';
+  if (s < 0.12) return 'グレー';
+  if (h >= 10 && h < 45 && l < 0.45 && s < 0.65) return 'ブラウン';
+  if (h >= 345 || h < 10) return 'レッド';
+  if (h >= 10 && h < 40) return 'オレンジ';
+  if (h >= 40 && h < 65) return 'イエロー';
+  if (h >= 65 && h < 170) return 'グリーン/イエローグリーン';
+  if (h >= 170 && h < 255) return 'ブルー/ライトブルー';
+  if (h >= 255 && h < 320) return 'パープル';
+  if (h >= 320 && h < 345) return 'ピンク';
+  return null;
+}
 function extractQuantity(name) {
   const match = /(\d+)\s*(個|本|枚|粒|P|pcs|pc)(?![a-zA-Z])/i.exec(name);
   return match ? Number(match[1]) : null;
@@ -205,6 +256,37 @@ async function runBatch() {
   const existing = loadExistingProducts();
   const productMap = new Map(existing.map((p) => [p.productId, p]));
 
+  // ① 優先ショップから先に検索する
+  for (const { shopCode, keyword } of PRIORITY_SHOPS) {
+    console.log(`--- [優先ショップ:${shopCode}] 「${keyword}」を検索中 ---`);
+    try {
+      const items = await fetchRakutenProducts(keyword, { shopCode });
+      await sleep(1000);
+      for (const item of items) {
+        try {
+          const hexColor = item.imageUrl ? await extractDominantColor(item.imageUrl) : null;
+          productMap.set(item.productId, {
+            ...item,
+            hexColor,
+            colorFamily: classifyColorFamily(hexColor),
+            sceneTags: assignSceneTags(item.name),
+            finishTypes: assignFinishTypes(item.name),
+            quantity: extractQuantity(item.name),
+            isColorProduct: isColorProduct(item.name),
+            isPartsProduct: isPartsProduct(item.name),
+            priorityShop: true,
+            updatedAt: new Date().toISOString(),
+          });
+        } catch (err) {
+          console.error(`商品処理エラー(${item.name}):`, err.message);
+        }
+      }
+    } catch (err) {
+      console.error(`ショップ検索エラー(${shopCode}):`, err.message);
+    }
+  }
+
+  // ② 一般キーワードでの検索(優先ショップ以外も含めて幅広く集める)
   for (const keyword of SEARCH_KEYWORDS) {
     console.log(`--- 「${keyword}」を検索中 ---`);
     const items = await fetchRakutenProducts(keyword);
@@ -220,6 +302,7 @@ async function runBatch() {
         productMap.set(item.productId, {
           ...item,
           hexColor,
+          colorFamily: classifyColorFamily(hexColor),
           sceneTags,
           finishTypes,
           quantity,
