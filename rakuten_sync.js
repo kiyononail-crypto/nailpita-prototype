@@ -100,28 +100,37 @@ async function fetchRakutenProducts(keyword, page = 1, retriesLeft = 3) {
   });
 }
 
-// --- ② 商品画像から代表色を自動抽出(Lab値の簡易版としてRGBを保存) ---
+// --- ② 商品画像から代表色を自動抽出(中央クロップ+中央値方式で精度向上) ---
 async function extractDominantColor(imageUrl) {
   const res = await fetch(imageUrl);
   const buffer = Buffer.from(await res.arrayBuffer());
 
-  // 60x60にリサイズしてから平均色を計算(処理を軽くするため)
+  // 画像の中央60%だけを切り抜いてから縮小する(パッケージの縁・背景・文字を避けるため)
+  const meta = await sharp(buffer).metadata();
+  const cropSize = Math.floor(Math.min(meta.width, meta.height) * 0.6);
+  const left = Math.floor((meta.width - cropSize) / 2);
+  const top = Math.floor((meta.height - cropSize) / 2);
+
   const { data, info } = await sharp(buffer)
-    .resize(60, 60, { fit: 'cover' })
+    .extract({ left, top, width: cropSize, height: cropSize })
+    .resize(40, 40, { fit: 'cover' })
     .removeAlpha()
     .raw()
     .toBuffer({ resolveWithObject: true });
 
-  let r = 0, g = 0, b = 0;
-  const pixelCount = info.width * info.height;
+  const rs = [], gs = [], bs = [];
   for (let i = 0; i < data.length; i += info.channels) {
-    r += data[i];
-    g += data[i + 1];
-    b += data[i + 2];
+    rs.push(data[i]);
+    gs.push(data[i + 1]);
+    bs.push(data[i + 2]);
   }
-  r = Math.round(r / pixelCount);
-  g = Math.round(g / pixelCount);
-  b = Math.round(b / pixelCount);
+
+  // 平均ではなく中央値を使う(白背景や黒文字などの外れ値に引っ張られにくくするため)
+  const median = (arr) => {
+    const sorted = [...arr].sort((a, b) => a - b);
+    return sorted[Math.floor(sorted.length / 2)];
+  };
+  const r = median(rs), g = median(gs), b = median(bs);
 
   const toHex = (v) => v.toString(16).padStart(2, '0');
   return `#${toHex(r)}${toHex(g)}${toHex(b)}`;
@@ -137,11 +146,34 @@ function assignSceneTags(name) {
 }
 
 // --- ③-2 色マッチングに使ってよい「ジェルカラー商品」かどうかを商品名から判定 ---
-// パーツ・ストーン・接着剤・クリア/ベース/トップジェルなど「色を選ぶ商品ではないもの」を除外する
+// パーツ・ストーン・接着剤・ベース/トップジェルなど「色を選ぶ商品ではないもの」を除外する
 function isColorProduct(name) {
   const isColorLike = /ジェルカラー|カラージェル|ワンカラー|ジェルポリッシュ|マニキュア/.test(name);
-  const isExcluded = /パーツ|ストーン|ラインストーン|パウダー|ラメ(?!.*カラー)|粘土|接着|グルー|ネイルチップ(?!.*カラー)|ファイル|フィルター|クリアジェル|ベースジェル|トップジェル|ビルダー|マグネット|3D/.test(name);
+  const isExcluded = /パーツ|ストーン|ラインストーン|パウダー|粘土|接着|グルー|ネイルチップ|ファイル|フィルター|ベースジェル|トップジェル|ビルダー/.test(name);
   return isColorLike && !isExcluded;
+}
+
+// --- ③-5 ネイルパーツ商品かどうかを判定(接着剤やツール類は除く) ---
+function isPartsProduct(name) {
+  const isPartsLike = /パーツ|ストーン|ラインストーン|パール|ラメ|グリッター|ホログラム/.test(name);
+  const isTool = /接着|グルー|ファイル|フィルター|ペン(?!.*パーツ)/.test(name);
+  return isPartsLike && !isTool;
+}
+
+// --- ③-4 商品名から個数を読み取る(パーツを個数優先で並べるための下ごしらえ) ---
+function extractQuantity(name) {
+  const match = /(\d+)\s*(個|本|枚|粒|P|pcs|pc)(?![a-zA-Z])/i.exec(name);
+  return match ? Number(match[1]) : null;
+}
+function assignFinishTypes(name) {
+  const types = [];
+  if (/グリッター|ラメ/.test(name)) types.push('グリッター');
+  if (/シアー|透け感|透明感/.test(name)) types.push('シアー');
+  if (/マット/.test(name)) types.push('マット');
+  if (/クリア/.test(name)) types.push('クリア');
+  if (/メタリック|ミラー/.test(name)) types.push('メタリック');
+  if (/マグネット|キャッツアイ/.test(name)) types.push('マグネット');
+  return types;
 }
 
 // --- ④ 商品データの保存
@@ -182,12 +214,17 @@ async function runBatch() {
       try {
         const hexColor = item.imageUrl ? await extractDominantColor(item.imageUrl) : null;
         const sceneTags = assignSceneTags(item.name);
+        const finishTypes = assignFinishTypes(item.name);
+        const quantity = extractQuantity(item.name);
 
         productMap.set(item.productId, {
           ...item,
           hexColor,
           sceneTags,
+          finishTypes,
+          quantity,
           isColorProduct: isColorProduct(item.name),
+          isPartsProduct: isPartsProduct(item.name),
           updatedAt: new Date().toISOString(),
         });
       } catch (err) {
