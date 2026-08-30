@@ -31,8 +31,12 @@ const SEARCH_KEYWORDS = [
   'ネイルストーン',
 ];
 
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
 // --- ① 楽天商品検索APIから商品を取得(2026年新仕様: openapi.rakuten.co.jp + accessKey) ---
-async function fetchRakutenProducts(keyword, page = 1) {
+async function fetchRakutenProducts(keyword, page = 1, retriesLeft = 3) {
   const endpoint = 'https://openapi.rakuten.co.jp/ichibams/api/IchibaItem/Search/20260701';
   const params = new URLSearchParams({
     applicationId: APP_ID,
@@ -57,6 +61,22 @@ async function fetchRakutenProducts(keyword, page = 1) {
     },
   });
 
+  // レート制限にかかった場合は、少し待って自動で再試行する
+  if (statusCode === 429 && retriesLeft > 0) {
+    const errorText = await body.text();
+    let waitMs = 2000;
+    try {
+      const parsed = JSON.parse(errorText);
+      const match = /(\d+)\s*seconds?/.exec(parsed.message || '');
+      if (match) waitMs = (Number(match[1]) + 1) * 1000; // 指定秒数+1秒待つ
+    } catch {
+      /* パース失敗時はデフォルトの待機時間を使う */
+    }
+    console.log(`  レート制限のため ${waitMs}ms 待機して再試行します(残り${retriesLeft}回)`);
+    await sleep(waitMs);
+    return fetchRakutenProducts(keyword, page, retriesLeft - 1);
+  }
+
   if (statusCode < 200 || statusCode >= 300) {
     const errorText = await body.text();
     throw new Error(`楽天API呼び出し失敗: ${statusCode} ${errorText}`);
@@ -65,11 +85,14 @@ async function fetchRakutenProducts(keyword, page = 1) {
   const data = await body.json();
   return (data.Items || []).map((entry) => {
     const item = entry.Item || entry; // formatVersion=2ではItemでラップされず直接オブジェクトになる
+    const firstImage = item.mediumImageUrls?.[0];
+    // formatVersion=2ではmediumImageUrlsが文字列の配列になる(旧仕様は{imageUrl:"..."}のオブジェクト配列)
+    const rawImageUrl = typeof firstImage === 'string' ? firstImage : firstImage?.imageUrl;
     return {
       productId: item.itemCode,
       name: item.itemName,
       price: item.itemPrice,
-      imageUrl: (item.mediumImageUrls?.[0]?.imageUrl || '').replace('?_ex=128x128', ''),
+      imageUrl: (rawImageUrl || '').replace('?_ex=128x128', ''),
       affiliateUrl: item.affiliateUrl || item.itemUrl, // affiliateIdを渡していればここに反映済みのリンクが入る
       aspSource: '楽天',
     };
@@ -144,6 +167,7 @@ async function runBatch() {
   for (const keyword of SEARCH_KEYWORDS) {
     console.log(`--- 「${keyword}」を検索中 ---`);
     const items = await fetchRakutenProducts(keyword);
+    await sleep(1000); // 次のキーワード検索まで1秒あける(レート制限対策)
 
     for (const item of items) {
       try {
