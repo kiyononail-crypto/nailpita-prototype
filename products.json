@@ -59,7 +59,7 @@
     "quantity": 30,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:41:57.311Z"
+    "updatedAt": "2026-08-30T14:48:27.948Z"
   },
   {
     "productId": "colorcolle:10001650",
@@ -132,7 +132,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:41:52.952Z"
+    "updatedAt": "2026-08-30T14:48:21.680Z"
   },
   {
     "productId": "kikiplaza:10006512",
@@ -376,7 +376,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:08.755Z"
+    "updatedAt": "2026-08-30T14:48:45.031Z"
   },
   {
     "productId": "deconail-seisakujo:10001622",
@@ -396,7 +396,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:10.367Z"
+    "updatedAt": "2026-08-30T14:48:47.764Z"
   },
   {
     "productId": "deconail-seisakujo:10000001",
@@ -416,7 +416,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:07.891Z"
+    "updatedAt": "2026-08-30T14:48:43.984Z"
   },
   {
     "productId": "deconail-seisakujo:10006563",
@@ -798,7 +798,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:17.591Z"
+    "updatedAt": "2026-08-30T14:49:00.620Z"
   },
   {
     "productId": "thrmiracle:10077169",
@@ -1248,7 +1248,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:02.927Z"
+    "updatedAt": "2026-08-30T14:48:38.225Z"
   },
   {
     "productId": "ess-lifestyle:10012249",
@@ -2154,7 +2154,7 @@
     "quantity": 60,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:11.678Z"
+    "updatedAt": "2026-08-30T14:48:51.364Z"
   },
   {
     "productId": "slife:10138855",
@@ -3408,7 +3408,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:13.400Z"
+    "updatedAt": "2026-08-30T14:48:55.579Z"
   },
   {
     "productId": "hellodear:10081949",
@@ -3789,7 +3789,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:42:00.173Z"
+    "updatedAt": "2026-08-30T14:48:31.552Z"
   },
   {
     "productId": "neo-neo:10003149",
@@ -3907,7 +3907,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:42:02.938Z"
+    "updatedAt": "2026-08-30T14:48:38.705Z"
   },
   {
     "productId": "7esthe-pro:10033544",
@@ -3946,7 +3946,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:42:00.184Z"
+    "updatedAt": "2026-08-30T14:48:32.048Z"
   },
   {
     "productId": "mannishboy:24838193",
@@ -4412,7 +4412,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:41:59.831Z"
+    "updatedAt": "2026-08-30T14:48:30.897Z"
   },
   {
     "productId": "nail-koubouu:10012097",
@@ -4433,7 +4433,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:41:53.699Z"
+    "updatedAt": "2026-08-30T14:48:23.203Z"
   },
   {
     "productId": "nail-koubouu:10007241",
@@ -4451,7 +4451,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:41:55.729Z"
+    "updatedAt": "2026-08-30T14:48:25.027Z"
   },
   {
     "productId": "nail-koubouu:10013920",
@@ -4471,7 +4471,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:41:56.502Z"
+    "updatedAt": "2026-08-30T14:48:26.728Z"
   },
   {
     "productId": "nail-koubouu:10006983",
@@ -4491,7 +4491,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:41:56.511Z"
+    "updatedAt": "2026-08-30T14:48:26.737Z"
   },
   {
     "productId": "nail-koubouu:10013748",
@@ -4510,7 +4510,7 @@
     "isColorProduct": false,
     "isPartsProduct": true,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:26.336Z"
+    "updatedAt": "2026-08-30T14:47:47.418Z"
   },
   {
     "productId": "nail-koubouu:10013950",
@@ -4533,7 +4533,7 @@
     "isColorProduct": true,
     "isPartsProduct": true,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:26.497Z"
+    "updatedAt": "2026-08-30T14:47:47.585Z"
   },
   {
     "productId": "nail-koubouu:10006826",
@@ -4552,7 +4552,7 @@
     "isColorProduct": false,
     "isPartsProduct": true,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:26.665Z"
+    "updatedAt": "2026-08-30T14:47:47.747Z"
   },
   {
     "productId": "nail-koubouu:10013878",
@@ -4573,7 +4573,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:26.878Z"
+    "updatedAt": "2026-08-30T14:47:48.117Z"
   },
   {
     "productId": "nail-koubouu:10011524",
@@ -4595,7 +4595,7 @@
     "isColorProduct": false,
     "isPartsProduct": true,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:27.051Z"
+    "updatedAt": "2026-08-30T14:47:48.526Z"
   },
   {
     "productId": "nail-koubouu:10008168",
@@ -4616,7 +4616,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:27.233Z"
+    "updatedAt": "2026-08-30T14:47:48.904Z"
   },
   {
     "productId": "nail-koubouu:10006457",
@@ -4637,7 +4637,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:27.416Z"
+    "updatedAt": "2026-08-30T14:47:49.274Z"
   },
   {
     "productId": "nail-koubouu:10007564",
@@ -4659,7 +4659,7 @@
     "isColorProduct": false,
     "isPartsProduct": true,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:27.581Z"
+    "updatedAt": "2026-08-30T14:47:49.683Z"
   },
   {
     "productId": "nail-koubouu:10011881",
@@ -4681,7 +4681,7 @@
     "isColorProduct": false,
     "isPartsProduct": true,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:27.755Z"
+    "updatedAt": "2026-08-30T14:47:49.855Z"
   },
   {
     "productId": "nail-koubouu:10011764",
@@ -4703,7 +4703,7 @@
     "isColorProduct": false,
     "isPartsProduct": true,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:28.273Z"
+    "updatedAt": "2026-08-30T14:47:50.347Z"
   },
   {
     "productId": "nail-koubouu:10012098",
@@ -4722,7 +4722,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:28.491Z"
+    "updatedAt": "2026-08-30T14:47:50.737Z"
   },
   {
     "productId": "nail-koubouu:10013516",
@@ -4743,7 +4743,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:28.665Z"
+    "updatedAt": "2026-08-30T14:47:51.127Z"
   },
   {
     "productId": "nail-koubouu:10012187",
@@ -4766,7 +4766,7 @@
     "isColorProduct": false,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:28.857Z"
+    "updatedAt": "2026-08-30T14:47:51.502Z"
   },
   {
     "productId": "nail-koubouu:10011879",
@@ -4787,7 +4787,7 @@
     "isColorProduct": false,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:29.026Z"
+    "updatedAt": "2026-08-30T14:47:52.043Z"
   },
   {
     "productId": "nail-koubouu:10011878",
@@ -4806,7 +4806,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:29.201Z"
+    "updatedAt": "2026-08-30T14:47:52.586Z"
   },
   {
     "productId": "nail-koubouu:10013423",
@@ -4828,7 +4828,7 @@
     "isColorProduct": false,
     "isPartsProduct": true,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:29.381Z"
+    "updatedAt": "2026-08-30T14:47:52.978Z"
   },
   {
     "productId": "nail-koubouu:10013947",
@@ -4850,7 +4850,7 @@
     "isColorProduct": false,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:29.585Z"
+    "updatedAt": "2026-08-30T14:47:53.391Z"
   },
   {
     "productId": "nail-koubouu:10013936",
@@ -4871,7 +4871,7 @@
     "isColorProduct": false,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:29.759Z"
+    "updatedAt": "2026-08-30T14:47:53.918Z"
   },
   {
     "productId": "nail-koubouu:10013880",
@@ -4893,7 +4893,7 @@
     "isColorProduct": true,
     "isPartsProduct": true,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:29.989Z"
+    "updatedAt": "2026-08-30T14:47:54.089Z"
   },
   {
     "productId": "nail-koubouu:10012310",
@@ -4912,7 +4912,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:30.542Z"
+    "updatedAt": "2026-08-30T14:47:54.499Z"
   },
   {
     "productId": "nail-koubouu:10012057",
@@ -4933,7 +4933,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:30.723Z"
+    "updatedAt": "2026-08-30T14:47:54.872Z"
   },
   {
     "productId": "nail-koubouu:10011573",
@@ -4956,7 +4956,7 @@
     "isColorProduct": false,
     "isPartsProduct": true,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:30.900Z"
+    "updatedAt": "2026-08-30T14:47:55.276Z"
   },
   {
     "productId": "nail-koubouu:10013173",
@@ -4978,7 +4978,7 @@
     "isColorProduct": true,
     "isPartsProduct": true,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:31.098Z"
+    "updatedAt": "2026-08-30T14:47:55.683Z"
   },
   {
     "productId": "nail-koubouu:10007833",
@@ -5000,7 +5000,7 @@
     "isColorProduct": false,
     "isPartsProduct": true,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:31.273Z"
+    "updatedAt": "2026-08-30T14:47:56.078Z"
   },
   {
     "productId": "nail-koubouu:10013587",
@@ -5021,7 +5021,7 @@
     "isColorProduct": false,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:31.454Z"
+    "updatedAt": "2026-08-30T14:47:56.601Z"
   },
   {
     "productId": "gracegarden:10006103",
@@ -5042,7 +5042,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:36.513Z"
+    "updatedAt": "2026-08-30T14:47:59.257Z"
   },
   {
     "productId": "gracegarden:10005649",
@@ -5063,7 +5063,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:36.696Z"
+    "updatedAt": "2026-08-30T14:47:59.771Z"
   },
   {
     "productId": "gracegarden:10006091",
@@ -5084,7 +5084,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:37.214Z"
+    "updatedAt": "2026-08-30T14:48:00.280Z"
   },
   {
     "productId": "gracegarden:10005909",
@@ -5103,7 +5103,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:37.391Z"
+    "updatedAt": "2026-08-30T14:48:00.808Z"
   },
   {
     "productId": "gracegarden:10006405",
@@ -5122,7 +5122,7 @@
     "isColorProduct": false,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:37.561Z"
+    "updatedAt": "2026-08-30T14:48:01.406Z"
   },
   {
     "productId": "gracegarden:10006152",
@@ -5143,7 +5143,7 @@
     "isColorProduct": false,
     "isPartsProduct": true,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:37.744Z"
+    "updatedAt": "2026-08-30T14:48:01.818Z"
   },
   {
     "productId": "gracegarden:10005327",
@@ -5162,7 +5162,7 @@
     "isColorProduct": false,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:37.938Z"
+    "updatedAt": "2026-08-30T14:48:02.194Z"
   },
   {
     "productId": "gracegarden:10005283",
@@ -5181,7 +5181,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:38.114Z"
+    "updatedAt": "2026-08-30T14:48:02.592Z"
   },
   {
     "productId": "gracegarden:10005279",
@@ -5200,7 +5200,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:38.279Z"
+    "updatedAt": "2026-08-30T14:48:02.966Z"
   },
   {
     "productId": "gracegarden:10005366",
@@ -5219,7 +5219,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:38.450Z"
+    "updatedAt": "2026-08-30T14:48:03.336Z"
   },
   {
     "productId": "gracegarden:10006065",
@@ -5238,7 +5238,7 @@
     "isColorProduct": false,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:38.676Z"
+    "updatedAt": "2026-08-30T14:48:03.937Z"
   },
   {
     "productId": "gracegarden:10005260",
@@ -5259,7 +5259,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:38.856Z"
+    "updatedAt": "2026-08-30T14:48:04.395Z"
   },
   {
     "productId": "gracegarden:10005264",
@@ -5278,7 +5278,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:39.097Z"
+    "updatedAt": "2026-08-30T14:48:04.949Z"
   },
   {
     "productId": "gracegarden:10005312",
@@ -5297,7 +5297,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:39.259Z"
+    "updatedAt": "2026-08-30T14:48:05.103Z"
   },
   {
     "productId": "gracegarden:10005336",
@@ -5316,7 +5316,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:39.436Z"
+    "updatedAt": "2026-08-30T14:48:05.615Z"
   },
   {
     "productId": "gracegarden:10006164",
@@ -5337,7 +5337,7 @@
     "isColorProduct": false,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:39.616Z"
+    "updatedAt": "2026-08-30T14:48:06.142Z"
   },
   {
     "productId": "gracegarden:10005367",
@@ -5356,7 +5356,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:39.799Z"
+    "updatedAt": "2026-08-30T14:48:06.536Z"
   },
   {
     "productId": "gracegarden:10005338",
@@ -5375,7 +5375,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:39.981Z"
+    "updatedAt": "2026-08-30T14:48:06.924Z"
   },
   {
     "productId": "gracegarden:10006429",
@@ -5394,7 +5394,7 @@
     "isColorProduct": false,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:40.192Z"
+    "updatedAt": "2026-08-30T14:48:07.323Z"
   },
   {
     "productId": "gracegarden:10005339",
@@ -5413,7 +5413,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:40.382Z"
+    "updatedAt": "2026-08-30T14:48:07.462Z"
   },
   {
     "productId": "gracegarden:10006428",
@@ -5432,7 +5432,7 @@
     "isColorProduct": false,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:40.542Z"
+    "updatedAt": "2026-08-30T14:48:07.858Z"
   },
   {
     "productId": "gracegarden:10005461",
@@ -5451,7 +5451,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:40.708Z"
+    "updatedAt": "2026-08-30T14:48:08.031Z"
   },
   {
     "productId": "gracegarden:10005321",
@@ -5470,7 +5470,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:41.097Z"
+    "updatedAt": "2026-08-30T14:48:08.545Z"
   },
   {
     "productId": "gracegarden:10006214",
@@ -5489,7 +5489,7 @@
     "isColorProduct": false,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:41.262Z"
+    "updatedAt": "2026-08-30T14:48:11.634Z"
   },
   {
     "productId": "gracegarden:10005331",
@@ -5508,7 +5508,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:41.431Z"
+    "updatedAt": "2026-08-30T14:48:09.320Z"
   },
   {
     "productId": "gracegarden:10005254",
@@ -5527,7 +5527,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:41.608Z"
+    "updatedAt": "2026-08-30T14:48:09.825Z"
   },
   {
     "productId": "gracegarden:10005311",
@@ -5546,7 +5546,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:41.776Z"
+    "updatedAt": "2026-08-30T14:48:10.339Z"
   },
   {
     "productId": "gracegarden:10005276",
@@ -5565,7 +5565,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:41.943Z"
+    "updatedAt": "2026-08-30T14:48:08.921Z"
   },
   {
     "productId": "gracegarden:10005292",
@@ -5586,7 +5586,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:42.120Z"
+    "updatedAt": "2026-08-30T14:48:11.241Z"
   },
   {
     "productId": "gracegarden:10005365",
@@ -5605,7 +5605,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-08-30T14:41:42.291Z"
+    "updatedAt": "2026-08-30T14:48:10.846Z"
   },
   {
     "productId": "queeneyes:10000286",
@@ -5623,7 +5623,7 @@
     "quantity": 10,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:41:51.348Z"
+    "updatedAt": "2026-08-30T14:48:17.877Z"
   },
   {
     "productId": "shopdeclinic:10103829",
@@ -5643,7 +5643,7 @@
     "quantity": 10,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:41:51.521Z"
+    "updatedAt": "2026-08-30T14:48:18.423Z"
   },
   {
     "productId": "shopdeclinic:10103830",
@@ -5663,7 +5663,7 @@
     "quantity": 30,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:41:52.004Z"
+    "updatedAt": "2026-08-30T14:48:19.038Z"
   },
   {
     "productId": "takaranail:10000192",
@@ -5683,7 +5683,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:42:02.915Z"
+    "updatedAt": "2026-08-30T14:48:38.211Z"
   },
   {
     "productId": "deconail-seisakujo:10004415",
@@ -5701,7 +5701,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:42:04.196Z"
+    "updatedAt": "2026-08-30T14:48:39.571Z"
   },
   {
     "productId": "shibuyawalker:10000113",
@@ -5719,7 +5719,7 @@
     "quantity": 10,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:41:52.777Z"
+    "updatedAt": "2026-08-30T14:48:21.309Z"
   },
   {
     "productId": "morecon2:10000044",
@@ -5737,7 +5737,7 @@
     "quantity": 10,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:41:53.319Z"
+    "updatedAt": "2026-08-30T14:48:22.209Z"
   },
   {
     "productId": "deconail-seisakujo:10003074",
@@ -5757,7 +5757,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:41:53.493Z"
+    "updatedAt": "2026-08-30T14:48:22.622Z"
   },
   {
     "productId": "queeneyes:10000452",
@@ -5775,7 +5775,7 @@
     "quantity": 10,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:41:53.689Z"
+    "updatedAt": "2026-08-30T14:48:23.193Z"
   },
   {
     "productId": "deconail-seisakujo:10002954",
@@ -5793,7 +5793,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:41:54.052Z"
+    "updatedAt": "2026-08-30T14:48:23.705Z"
   },
   {
     "productId": "candy:10166453",
@@ -5811,7 +5811,7 @@
     "quantity": 30,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:41:54.228Z"
+    "updatedAt": "2026-08-30T14:48:24.132Z"
   },
   {
     "productId": "deconail-seisakujo:10004769",
@@ -5831,7 +5831,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:41:54.925Z"
+    "updatedAt": "2026-08-30T14:48:24.746Z"
   },
   {
     "productId": "deconail-seisakujo:10006000",
@@ -5851,7 +5851,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:41:55.720Z"
+    "updatedAt": "2026-08-30T14:48:25.017Z"
   },
   {
     "productId": "deconail-seisakujo:10004879",
@@ -5869,7 +5869,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:41:55.901Z"
+    "updatedAt": "2026-08-30T14:48:25.522Z"
   },
   {
     "productId": "colorful-nail:10000396",
@@ -5887,7 +5887,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:41:56.072Z"
+    "updatedAt": "2026-08-30T14:48:25.920Z"
   },
   {
     "productId": "deconail-seisakujo:10004233",
@@ -5905,7 +5905,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:41:56.247Z"
+    "updatedAt": "2026-08-30T14:48:26.423Z"
   },
   {
     "productId": "deconail-seisakujo:10004570",
@@ -5923,7 +5923,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:41:56.492Z"
+    "updatedAt": "2026-08-30T14:48:26.719Z"
   },
   {
     "productId": "candy:10166452",
@@ -5941,7 +5941,7 @@
     "quantity": 10,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:41:56.522Z"
+    "updatedAt": "2026-08-30T14:48:26.748Z"
   },
   {
     "productId": "colorful-nail:10000040",
@@ -5961,7 +5961,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:41:56.699Z"
+    "updatedAt": "2026-08-30T14:48:27.011Z"
   },
   {
     "productId": "shibuyawalker:10000115",
@@ -5979,7 +5979,7 @@
     "quantity": 10,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:41:56.711Z"
+    "updatedAt": "2026-08-30T14:48:27.023Z"
   },
   {
     "productId": "deconail-seisakujo:10004578",
@@ -5997,7 +5997,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:41:57.128Z"
+    "updatedAt": "2026-08-30T14:48:27.570Z"
   },
   {
     "productId": "morecon2:10000090",
@@ -6015,7 +6015,7 @@
     "quantity": 10,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:41:57.474Z"
+    "updatedAt": "2026-08-30T14:48:28.458Z"
   },
   {
     "productId": "japannail:10000676",
@@ -6035,7 +6035,7 @@
     "quantity": 10,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:41:59.823Z"
+    "updatedAt": "2026-08-30T14:48:30.888Z"
   },
   {
     "productId": "petitprice:10000993",
@@ -6053,7 +6053,7 @@
     "quantity": 5,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:41:59.998Z"
+    "updatedAt": "2026-08-30T14:48:31.147Z"
   },
   {
     "productId": "nailkoubou:10003747",
@@ -6071,7 +6071,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:42:00.612Z"
+    "updatedAt": "2026-08-30T14:48:32.592Z"
   },
   {
     "productId": "deconail-seisakujo:10002837",
@@ -6089,7 +6089,7 @@
     "quantity": 5,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:42:00.788Z"
+    "updatedAt": "2026-08-30T14:48:32.961Z"
   },
   {
     "productId": "deconail-seisakujo:10001727",
@@ -6113,7 +6113,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:00.976Z"
+    "updatedAt": "2026-08-30T14:48:33.583Z"
   },
   {
     "productId": "japannail:10001496",
@@ -6131,7 +6131,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:42:01.154Z"
+    "updatedAt": "2026-08-30T14:48:34.110Z"
   },
   {
     "productId": "deconail-seisakujo:10001728",
@@ -6155,7 +6155,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:01.351Z"
+    "updatedAt": "2026-08-30T14:48:34.612Z"
   },
   {
     "productId": "deconail-seisakujo:10004856",
@@ -6175,7 +6175,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:42:01.539Z"
+    "updatedAt": "2026-08-30T14:48:34.900Z"
   },
   {
     "productId": "nail-koubouu:10013795",
@@ -6198,7 +6198,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:42:01.705Z"
+    "updatedAt": "2026-08-30T14:48:35.272Z"
   },
   {
     "productId": "japannail:10000766",
@@ -6216,7 +6216,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:42:01.880Z"
+    "updatedAt": "2026-08-30T14:48:35.807Z"
   },
   {
     "productId": "deconail-seisakujo:10001799",
@@ -6234,7 +6234,7 @@
     "quantity": 4,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:42:02.129Z"
+    "updatedAt": "2026-08-30T14:48:36.216Z"
   },
   {
     "productId": "7esthe-pro:10032844",
@@ -6254,7 +6254,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:42:02.144Z"
+    "updatedAt": "2026-08-30T14:48:36.617Z"
   },
   {
     "productId": "deconail-seisakujo:10003286",
@@ -6274,7 +6274,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:42:02.506Z"
+    "updatedAt": "2026-08-30T14:48:37.119Z"
   },
   {
     "productId": "nail-koubouu:10003108",
@@ -6292,7 +6292,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:42:02.514Z"
+    "updatedAt": "2026-08-30T14:48:37.128Z"
   },
   {
     "productId": "deconail-seisakujo:10004356",
@@ -6312,7 +6312,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:42:02.693Z"
+    "updatedAt": "2026-08-30T14:48:37.807Z"
   },
   {
     "productId": "petitprice:10000187",
@@ -6332,7 +6332,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:42:02.904Z"
+    "updatedAt": "2026-08-30T14:48:38.199Z"
   },
   {
     "productId": "japannail:10000675",
@@ -6350,7 +6350,7 @@
     "quantity": 10,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:42:03.109Z"
+    "updatedAt": "2026-08-30T14:48:38.859Z"
   },
   {
     "productId": "nail-koubouu:10011950",
@@ -6372,7 +6372,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:03.284Z"
+    "updatedAt": "2026-08-30T14:48:39.023Z"
   },
   {
     "productId": "clarabeauty:10000320",
@@ -6393,7 +6393,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:04.185Z"
+    "updatedAt": "2026-08-30T14:48:39.560Z"
   },
   {
     "productId": "g-nail:10017635",
@@ -6411,7 +6411,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:42:05.084Z"
+    "updatedAt": "2026-08-30T14:48:40.065Z"
   },
   {
     "productId": "nail-koubouu:10012881",
@@ -6433,7 +6433,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:42:05.260Z"
+    "updatedAt": "2026-08-30T14:48:40.470Z"
   },
   {
     "productId": "world-holdings:10000143",
@@ -6451,7 +6451,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:42:05.447Z"
+    "updatedAt": "2026-08-30T14:48:40.997Z"
   },
   {
     "productId": "candy:10452445",
@@ -6471,7 +6471,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:42:05.623Z"
+    "updatedAt": "2026-08-30T14:48:41.527Z"
   },
   {
     "productId": "nail-koubouu:10001604",
@@ -6491,7 +6491,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:17.361Z"
+    "updatedAt": "2026-08-30T14:49:00.097Z"
   },
   {
     "productId": "deconail-seisakujo:10001446",
@@ -6511,7 +6511,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:17.373Z"
+    "updatedAt": "2026-08-30T14:49:00.109Z"
   },
   {
     "productId": "deconail-seisakujo:10000005",
@@ -6531,7 +6531,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:09.116Z"
+    "updatedAt": "2026-08-30T14:48:46.069Z"
   },
   {
     "productId": "deconail-seisakujo:10000002",
@@ -6551,7 +6551,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:09.983Z"
+    "updatedAt": "2026-08-30T14:48:46.705Z"
   },
   {
     "productId": "deconail-seisakujo:10000683",
@@ -6571,7 +6571,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:10.192Z"
+    "updatedAt": "2026-08-30T14:48:47.242Z"
   },
   {
     "productId": "deconail-seisakujo:10001637",
@@ -6589,7 +6589,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:10.574Z"
+    "updatedAt": "2026-08-30T14:48:48.431Z"
   },
   {
     "productId": "deconail-seisakujo:10001342",
@@ -6609,7 +6609,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:10.771Z"
+    "updatedAt": "2026-08-30T14:48:48.950Z"
   },
   {
     "productId": "nail-koubouu:10000373",
@@ -6629,7 +6629,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:10.950Z"
+    "updatedAt": "2026-08-30T14:48:49.475Z"
   },
   {
     "productId": "deconail-seisakujo:10001447",
@@ -6649,7 +6649,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:17.409Z"
+    "updatedAt": "2026-08-30T14:49:00.119Z"
   },
   {
     "productId": "deconail-seisakujo:10002957",
@@ -6667,7 +6667,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:11.308Z"
+    "updatedAt": "2026-08-30T14:48:50.575Z"
   },
   {
     "productId": "deconail-seisakujo:10000619",
@@ -6687,7 +6687,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:11.491Z"
+    "updatedAt": "2026-08-30T14:48:50.988Z"
   },
   {
     "productId": "faithmiracle:10000061",
@@ -6707,7 +6707,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:11.847Z"
+    "updatedAt": "2026-08-30T14:48:51.909Z"
   },
   {
     "productId": "deconail-seisakujo:10001093",
@@ -6727,7 +6727,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:12.092Z"
+    "updatedAt": "2026-08-30T14:48:52.518Z"
   },
   {
     "productId": "deconail-seisakujo:10000661",
@@ -6747,7 +6747,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:12.336Z"
+    "updatedAt": "2026-08-30T14:48:52.939Z"
   },
   {
     "productId": "deconail-seisakujo:10001195",
@@ -6767,7 +6767,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:12.511Z"
+    "updatedAt": "2026-08-30T14:48:53.426Z"
   },
   {
     "productId": "deconail-seisakujo:10000704",
@@ -6787,7 +6787,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:12.690Z"
+    "updatedAt": "2026-08-30T14:48:54.054Z"
   },
   {
     "productId": "deconail-seisakujo:10000920",
@@ -6807,7 +6807,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:12.994Z"
+    "updatedAt": "2026-08-30T14:48:54.654Z"
   },
   {
     "productId": "deconail-seisakujo:10001605",
@@ -6827,7 +6827,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:13.167Z"
+    "updatedAt": "2026-08-30T14:48:55.155Z"
   },
   {
     "productId": "nail-koubouu:10001620",
@@ -6847,7 +6847,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:17.601Z"
+    "updatedAt": "2026-08-30T14:49:00.629Z"
   },
   {
     "productId": "deconail-seisakujo:10000003",
@@ -6867,7 +6867,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:13.579Z"
+    "updatedAt": "2026-08-30T14:48:55.952Z"
   },
   {
     "productId": "deconail-seisakujo:10001635",
@@ -6887,7 +6887,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:13.947Z"
+    "updatedAt": "2026-08-30T14:48:56.475Z"
   },
   {
     "productId": "deconail-seisakujo:10000007",
@@ -6907,7 +6907,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:14.127Z"
+    "updatedAt": "2026-08-30T14:48:56.892Z"
   },
   {
     "productId": "deconail-seisakujo:10002850",
@@ -6927,7 +6927,7 @@
     "quantity": 12,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:14.305Z"
+    "updatedAt": "2026-08-30T14:48:57.370Z"
   },
   {
     "productId": "nail-koubouu:10002482",
@@ -6947,7 +6947,7 @@
     "quantity": 10,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:15.143Z"
+    "updatedAt": "2026-08-30T14:48:57.890Z"
   },
   {
     "productId": "deconail-seisakujo:10000011",
@@ -6967,7 +6967,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:15.313Z"
+    "updatedAt": "2026-08-30T14:48:58.168Z"
   },
   {
     "productId": "deconail-seisakujo:10001110",
@@ -6987,7 +6987,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:17.772Z"
+    "updatedAt": "2026-08-30T14:49:00.802Z"
   },
   {
     "productId": "deconail-seisakujo:10001624",
@@ -7007,7 +7007,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:17.945Z"
+    "updatedAt": "2026-08-30T14:49:01.326Z"
   },
   {
     "productId": "nail-koubouu:10003106",
@@ -7027,7 +7027,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:18.137Z"
+    "updatedAt": "2026-08-30T14:49:01.496Z"
   },
   {
     "productId": "deconail-seisakujo:10000990",
@@ -7047,7 +7047,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:18.857Z"
+    "updatedAt": "2026-08-30T14:49:01.793Z"
   },
   {
     "productId": "decodahlia:10028177",
@@ -7065,7 +7065,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-08-30T14:42:19.027Z"
+    "updatedAt": "2026-08-30T14:49:02.279Z"
   },
   {
     "productId": "deconail-seisakujo:10000838",
@@ -7085,7 +7085,7 @@
     "quantity": 100,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:19.219Z"
+    "updatedAt": "2026-08-30T14:49:02.418Z"
   },
   {
     "productId": "petitprice:10000119",
@@ -7105,7 +7105,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:19.386Z"
+    "updatedAt": "2026-08-30T14:49:02.568Z"
   },
   {
     "productId": "stones2004:10000888",
@@ -7125,7 +7125,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:19.546Z"
+    "updatedAt": "2026-08-30T14:49:03.070Z"
   },
   {
     "productId": "nail-koubouu:10003406",
@@ -7145,7 +7145,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:19.751Z"
+    "updatedAt": "2026-08-30T14:49:03.466Z"
   },
   {
     "productId": "deconail-seisakujo:10001625",
@@ -7165,7 +7165,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:19.922Z"
+    "updatedAt": "2026-08-30T14:49:03.952Z"
   },
   {
     "productId": "decopanic:10000464",
@@ -7185,7 +7185,7 @@
     "quantity": 1440,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:20.087Z"
+    "updatedAt": "2026-08-30T14:49:04.596Z"
   },
   {
     "productId": "deconail-seisakujo:10001462",
@@ -7205,7 +7205,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:20.250Z"
+    "updatedAt": "2026-08-30T14:49:05.118Z"
   },
   {
     "productId": "kokemomo:10002605",
@@ -7225,7 +7225,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:20.448Z"
+    "updatedAt": "2026-08-30T14:49:05.305Z"
   },
   {
     "productId": "nail-koubouu:10003410",
@@ -7245,7 +7245,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:20.651Z"
+    "updatedAt": "2026-08-30T14:49:05.823Z"
   },
   {
     "productId": "nail-koubouu:10002677",
@@ -7265,7 +7265,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:20.823Z"
+    "updatedAt": "2026-08-30T14:49:06.216Z"
   },
   {
     "productId": "kokemomo:10000016",
@@ -7285,7 +7285,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:21.001Z"
+    "updatedAt": "2026-08-30T14:49:06.472Z"
   },
   {
     "productId": "nail-koubouu:10001923",
@@ -7305,7 +7305,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:21.169Z"
+    "updatedAt": "2026-08-30T14:49:06.853Z"
   },
   {
     "productId": "stones2004:10000894",
@@ -7325,7 +7325,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:21.340Z"
+    "updatedAt": "2026-08-30T14:49:07.369Z"
   },
   {
     "productId": "embellirshop:10001871",
@@ -7346,7 +7346,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:21.514Z"
+    "updatedAt": "2026-08-30T14:49:07.847Z"
   },
   {
     "productId": "coco3370:10000682",
@@ -7366,7 +7366,7 @@
     "quantity": 2,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:21.698Z"
+    "updatedAt": "2026-08-30T14:49:08.144Z"
   },
   {
     "productId": "kokemomo:10001446",
@@ -7386,7 +7386,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:21.880Z"
+    "updatedAt": "2026-08-30T14:49:08.656Z"
   },
   {
     "productId": "embellirshop:10001972",
@@ -7406,7 +7406,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:22.048Z"
+    "updatedAt": "2026-08-30T14:49:09.142Z"
   },
   {
     "productId": "nail-koubouu:10003110",
@@ -7426,7 +7426,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:22.227Z"
+    "updatedAt": "2026-08-30T14:49:09.745Z"
   },
   {
     "productId": "deconail-seisakujo:10004120",
@@ -7446,7 +7446,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:22.439Z"
+    "updatedAt": "2026-08-30T14:49:10.043Z"
   },
   {
     "productId": "deconail-seisakujo:10001936",
@@ -7466,6 +7466,6 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-08-30T14:42:22.633Z"
+    "updatedAt": "2026-08-30T14:49:10.431Z"
   }
 ]
