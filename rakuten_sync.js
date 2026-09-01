@@ -35,13 +35,36 @@ const PRIORITY_SHOPS = [
   { shopCode: 'cocoronail', keyword: 'ネイルパーツ' },
   { shopCode: 'charmymarket', keyword: 'ネイルパーツ' },
   { shopCode: 's-sheri', keyword: 'ネイルパーツ' },
+  { shopCode: 'nailforall', keyword: 'MOMO ジェル' }, // MOMOジェル
 ];
+
+// 実在するジェルネイルブランド名(このいずれかを含む商品名だけを色マッチングの対象にする)
+// カラコンなど無関係な商品が「ジェルカラー」等の語に偶然ヒットして紛れ込むのを防ぐため
+const KNOWN_GEL_BRANDS = [
+  'MOMO', 'irogel', 'イロジェル', 'ネイル工房', 'ペロリン',
+  'グレースジェル', 'Grace Gel', 'PREGEL', 'プリジェル',
+  'Gel Me', 'ジェルミーワン', 'HOMEI', 'cirila', 'シリラ',
+  'nail for all', 'ネイルフォーオール',
+];
+function isKnownGelBrand(name) {
+  return KNOWN_GEL_BRANDS.some((brand) => name.includes(brand));
+}
+
 const SEARCH_KEYWORDS = [
   'ジェルカラー',
   'ジェルネイル カラージェル',
   'ジェルネイル パーツ',
   'ネイルストーン',
+  'irogel',
+  'グレースジェル',
+  'PREGEL',
+  'Gel Me 1',
+  'HOMEI ジェル',
+  'cirila',
 ];
+
+// 楽天の「ジェルネイル」ジャンルID(このカテゴリ以外は検索対象にしない)
+const NAIL_GENRE_ID = '563784';
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
@@ -53,6 +76,7 @@ async function fetchRakutenProducts(keyword, { page = 1, retriesLeft = 3, shopCo
   const paramsObj = {
     applicationId: APP_ID,
     accessKey: ACCESS_KEY, // ヘッダーに加えてクエリにも含めておく(仕様のブレに対する保険)
+    genreId: NAIL_GENRE_ID, // ネイル用品ジャンルに限定し、コンタクトレンズなど無関係な商品を除外
     affiliateId: AFFILIATE_ID, // これを付けると商品URLに自動でアフィリエイトIDが反映される
     keyword,
     page: String(page),
@@ -196,7 +220,10 @@ function hexToHsl(hex) {
   return { h, s, l };
 }
 
-function classifyColorFamily(hex) {
+function classifyColorFamily(hex, name = '') {
+  // シルバー・ゴールドは色相だけでは判定しづらいため、商品名を優先して判定する
+  if (/シルバー|silver/i.test(name)) return 'シルバー';
+  if (/ゴールド|gold/i.test(name)) return 'ゴールド';
   if (!hex) return null;
   const { h, s, l } = hexToHsl(hex);
   if (l > 0.90) return 'ホワイト';
@@ -268,7 +295,7 @@ async function runBatch() {
           productMap.set(item.productId, {
             ...item,
             hexColor,
-            colorFamily: classifyColorFamily(hexColor),
+            colorFamily: classifyColorFamily(hexColor, item.name),
             sceneTags: assignSceneTags(item.name),
             finishTypes: assignFinishTypes(item.name),
             quantity: extractQuantity(item.name),
@@ -302,7 +329,7 @@ async function runBatch() {
         productMap.set(item.productId, {
           ...item,
           hexColor,
-          colorFamily: classifyColorFamily(hexColor),
+          colorFamily: classifyColorFamily(hexColor, item.name),
           sceneTags,
           finishTypes,
           quantity,
