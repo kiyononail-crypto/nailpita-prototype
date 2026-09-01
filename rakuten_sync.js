@@ -58,7 +58,7 @@ const SEARCH_KEYWORDS = [
   'irogel',
   'グレースジェル',
   'PREGEL',
-  'Gel Me 1',
+  'ジェルミーワン',
   'HOMEI ジェル',
   'cirila',
 ];
@@ -316,7 +316,14 @@ async function runBatch() {
   // ② 一般キーワードでの検索(優先ショップ以外も含めて幅広く集める)
   for (const keyword of SEARCH_KEYWORDS) {
     console.log(`--- 「${keyword}」を検索中 ---`);
-    const items = await fetchRakutenProducts(keyword);
+    let items = [];
+    try {
+      items = await fetchRakutenProducts(keyword);
+    } catch (err) {
+      console.error(`キーワード検索エラー(${keyword}):`, err.message);
+      await sleep(1000);
+      continue; // このキーワードだけスキップして次に進む
+    }
     await sleep(1000); // 次のキーワード検索まで1秒あける(レート制限対策)
 
     for (const item of items) {
