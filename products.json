@@ -15,7 +15,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:36.650Z"
+    "updatedAt": "2026-09-03T21:11:55.795Z"
   },
   {
     "productId": "nail-koubouu:10007241",
@@ -33,7 +33,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:43.106Z"
+    "updatedAt": "2026-09-03T21:12:02.876Z"
   },
   {
     "productId": "nail-koubouu:10013920",
@@ -53,7 +53,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:30.903Z"
+    "updatedAt": "2026-09-03T21:11:52.014Z"
   },
   {
     "productId": "nail-koubouu:10013748",
@@ -71,7 +71,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:43.776Z"
+    "updatedAt": "2026-09-03T21:12:03.616Z"
   },
   {
     "productId": "nail-koubouu:10013950",
@@ -93,7 +93,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:32.791Z"
+    "updatedAt": "2026-09-03T21:11:52.690Z"
   },
   {
     "productId": "nail-koubouu:10006826",
@@ -111,7 +111,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:43.797Z"
+    "updatedAt": "2026-09-03T21:12:03.636Z"
   },
   {
     "productId": "nail-koubouu:10013878",
@@ -131,7 +131,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:33.128Z"
+    "updatedAt": "2026-09-03T21:11:52.892Z"
   },
   {
     "productId": "nail-koubouu:10011524",
@@ -152,7 +152,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:14:12.376Z"
+    "updatedAt": "2026-09-03T21:14:16.036Z"
   },
   {
     "productId": "nail-koubouu:10008168",
@@ -172,7 +172,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:06.648Z"
+    "updatedAt": "2026-09-03T21:14:11.987Z"
   },
   {
     "productId": "nail-koubouu:10006457",
@@ -192,7 +192,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:45.515Z"
+    "updatedAt": "2026-09-03T21:13:53.569Z"
   },
   {
     "productId": "nail-koubouu:10012098",
@@ -210,7 +210,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:37.964Z"
+    "updatedAt": "2026-09-03T21:13:47.291Z"
   },
   {
     "productId": "nail-koubouu:10013516",
@@ -221,7 +221,7 @@
     "aspSource": "楽天",
     "reviewCount": 92,
     "reviewAverage": 4.66,
-    "hexColor": "#f1e9e6",
+    "hexColor": "#f0e9e4",
     "colorFamily": "ホワイト",
     "sceneTags": [],
     "finishTypes": [
@@ -231,7 +231,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:10:30.613Z"
+    "updatedAt": "2026-09-03T21:11:23.363Z"
   },
   {
     "productId": "nail-koubouu:10011879",
@@ -252,7 +252,7 @@
     "isColorProduct": false,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:10:31.470Z"
+    "updatedAt": "2026-09-03T21:11:23.518Z"
   },
   {
     "productId": "nail-koubouu:10011878",
@@ -271,7 +271,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:10:32.332Z"
+    "updatedAt": "2026-09-03T21:11:23.684Z"
   },
   {
     "productId": "nail-koubouu:10013947",
@@ -293,7 +293,7 @@
     "isColorProduct": false,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:10:33.219Z"
+    "updatedAt": "2026-09-03T21:11:23.852Z"
   },
   {
     "productId": "nail-koubouu:10013936",
@@ -314,7 +314,7 @@
     "isColorProduct": false,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:10:34.211Z"
+    "updatedAt": "2026-09-03T21:11:24.042Z"
   },
   {
     "productId": "nail-koubouu:10013880",
@@ -336,7 +336,7 @@
     "isColorProduct": true,
     "isPartsProduct": true,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:10:35.092Z"
+    "updatedAt": "2026-09-03T21:11:24.200Z"
   },
   {
     "productId": "nail-koubouu:10012310",
@@ -347,7 +347,7 @@
     "aspSource": "楽天",
     "reviewCount": 47,
     "reviewAverage": 4.43,
-    "hexColor": "#dacdc9",
+    "hexColor": "#dacdc8",
     "colorFamily": "オレンジ",
     "sceneTags": [],
     "finishTypes": [],
@@ -355,7 +355,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:10:35.985Z"
+    "updatedAt": "2026-09-03T21:11:24.369Z"
   },
   {
     "productId": "nail-koubouu:10012057",
@@ -375,7 +375,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:07.161Z"
+    "updatedAt": "2026-09-03T21:14:12.081Z"
   },
   {
     "productId": "nail-koubouu:10013173",
@@ -397,7 +397,7 @@
     "isColorProduct": true,
     "isPartsProduct": true,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:10:37.788Z"
+    "updatedAt": "2026-09-03T21:11:24.681Z"
   },
   {
     "productId": "nail-koubouu:10013587",
@@ -408,7 +408,7 @@
     "aspSource": "楽天",
     "reviewCount": 40,
     "reviewAverage": 4.28,
-    "hexColor": "#f1e2dd",
+    "hexColor": "#f0e2dc",
     "colorFamily": "ホワイト",
     "sceneTags": [],
     "finishTypes": [
@@ -418,7 +418,7 @@
     "isColorProduct": false,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:10:38.715Z"
+    "updatedAt": "2026-09-03T21:11:24.843Z"
   },
   {
     "productId": "nail-koubouu:10013961",
@@ -439,7 +439,7 @@
     "isColorProduct": true,
     "isPartsProduct": true,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:10:39.686Z"
+    "updatedAt": "2026-09-03T21:11:25.025Z"
   },
   {
     "productId": "nail-koubouu:10006615",
@@ -460,7 +460,7 @@
     "isColorProduct": true,
     "isPartsProduct": true,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:10:40.613Z"
+    "updatedAt": "2026-09-03T21:11:25.178Z"
   },
   {
     "productId": "nail-koubouu:10013940",
@@ -483,7 +483,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:10:41.560Z"
+    "updatedAt": "2026-09-03T21:11:25.366Z"
   },
   {
     "productId": "nail-koubouu:10013464",
@@ -503,7 +503,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:38.283Z"
+    "updatedAt": "2026-09-03T21:13:47.340Z"
   },
   {
     "productId": "nail-koubouu:10006952",
@@ -522,7 +522,7 @@
     "isColorProduct": false,
     "isPartsProduct": true,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:10:42.436Z"
+    "updatedAt": "2026-09-03T21:11:25.544Z"
   },
   {
     "productId": "nail-koubouu:10013945",
@@ -543,7 +543,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:10:43.324Z"
+    "updatedAt": "2026-09-03T21:11:25.736Z"
   },
   {
     "productId": "nail-koubouu:10013407",
@@ -563,7 +563,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:13:38.439Z"
+    "updatedAt": "2026-09-03T21:13:47.361Z"
   },
   {
     "productId": "nail-koubouu:10012204",
@@ -583,7 +583,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:14:13.999Z"
+    "updatedAt": "2026-09-03T21:14:12.339Z"
   },
   {
     "productId": "nail-koubouu:10013975",
@@ -604,7 +604,7 @@
     "isColorProduct": true,
     "isPartsProduct": true,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:10:46.153Z"
+    "updatedAt": "2026-09-03T21:11:26.269Z"
   },
   {
     "productId": "gracegarden:10005649",
@@ -615,7 +615,7 @@
     "aspSource": "楽天",
     "reviewCount": 6,
     "reviewAverage": 3.5,
-    "hexColor": "#e2d9d3",
+    "hexColor": "#e1d9d2",
     "colorFamily": "オレンジ",
     "sceneTags": [],
     "finishTypes": [
@@ -625,7 +625,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:10:49.910Z"
+    "updatedAt": "2026-09-03T21:11:31.236Z"
   },
   {
     "productId": "gracegarden:10006091",
@@ -646,7 +646,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:10:50.783Z"
+    "updatedAt": "2026-09-03T21:11:31.398Z"
   },
   {
     "productId": "gracegarden:10005909",
@@ -657,7 +657,7 @@
     "aspSource": "楽天",
     "reviewCount": 2,
     "reviewAverage": 3,
-    "hexColor": "#c6cbc9",
+    "hexColor": "#c5cbc9",
     "colorFamily": "グレー",
     "sceneTags": [],
     "finishTypes": [],
@@ -665,7 +665,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:10:51.923Z"
+    "updatedAt": "2026-09-03T21:11:31.569Z"
   },
   {
     "productId": "gracegarden:10006405",
@@ -676,7 +676,7 @@
     "aspSource": "楽天",
     "reviewCount": 2,
     "reviewAverage": 5,
-    "hexColor": "#e0d7cf",
+    "hexColor": "#dfd5ce",
     "colorFamily": "オレンジ",
     "sceneTags": [],
     "finishTypes": [],
@@ -684,7 +684,7 @@
     "isColorProduct": false,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:10:52.941Z"
+    "updatedAt": "2026-09-03T21:11:31.731Z"
   },
   {
     "productId": "gracegarden:10006152",
@@ -705,7 +705,7 @@
     "isColorProduct": false,
     "isPartsProduct": true,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:10:53.906Z"
+    "updatedAt": "2026-09-03T21:11:31.890Z"
   },
   {
     "productId": "gracegarden:10005321",
@@ -724,7 +724,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:09.380Z"
+    "updatedAt": "2026-09-03T21:11:32.056Z"
   },
   {
     "productId": "gracegarden:10005283",
@@ -735,7 +735,7 @@
     "aspSource": "楽天",
     "reviewCount": 0,
     "reviewAverage": 0,
-    "hexColor": "#f4b993",
+    "hexColor": "#f4ba94",
     "colorFamily": "オレンジ",
     "sceneTags": [],
     "finishTypes": [],
@@ -743,7 +743,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:10:55.570Z"
+    "updatedAt": "2026-09-03T21:11:32.591Z"
   },
   {
     "productId": "gracegarden:10005279",
@@ -761,7 +761,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:10.001Z"
+    "updatedAt": "2026-09-03T21:12:26.091Z"
   },
   {
     "productId": "gracegarden:10005366",
@@ -772,7 +772,7 @@
     "aspSource": "楽天",
     "reviewCount": 0,
     "reviewAverage": 0,
-    "hexColor": "#d1d2d0",
+    "hexColor": "#d0d1cf",
     "colorFamily": "グレー",
     "sceneTags": [],
     "finishTypes": [],
@@ -780,7 +780,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:10:57.176Z"
+    "updatedAt": "2026-09-03T21:11:32.911Z"
   },
   {
     "productId": "gracegarden:10006065",
@@ -791,7 +791,7 @@
     "aspSource": "楽天",
     "reviewCount": 0,
     "reviewAverage": 0,
-    "hexColor": "#d4c5c0",
+    "hexColor": "#d3c4c0",
     "colorFamily": "オレンジ",
     "sceneTags": [],
     "finishTypes": [],
@@ -799,7 +799,7 @@
     "isColorProduct": false,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:10:58.278Z"
+    "updatedAt": "2026-09-03T21:11:33.068Z"
   },
   {
     "productId": "gracegarden:10005260",
@@ -820,7 +820,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:10:59.202Z"
+    "updatedAt": "2026-09-03T21:11:33.228Z"
   },
   {
     "productId": "gracegarden:10005264",
@@ -839,7 +839,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:00.132Z"
+    "updatedAt": "2026-09-03T21:11:33.415Z"
   },
   {
     "productId": "gracegarden:10005331",
@@ -858,7 +858,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:10.585Z"
+    "updatedAt": "2026-09-03T21:11:35.383Z"
   },
   {
     "productId": "gracegarden:10005336",
@@ -869,7 +869,7 @@
     "aspSource": "楽天",
     "reviewCount": 0,
     "reviewAverage": 0,
-    "hexColor": "#d9503e",
+    "hexColor": "#d84f3f",
     "colorFamily": "レッド",
     "sceneTags": [],
     "finishTypes": [],
@@ -877,7 +877,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:01.795Z"
+    "updatedAt": "2026-09-03T21:11:33.734Z"
   },
   {
     "productId": "gracegarden:10006164",
@@ -888,7 +888,7 @@
     "aspSource": "楽天",
     "reviewCount": 0,
     "reviewAverage": 0,
-    "hexColor": "#c2bab5",
+    "hexColor": "#c2bab4",
     "colorFamily": "グレー",
     "sceneTags": [],
     "finishTypes": [
@@ -898,7 +898,7 @@
     "isColorProduct": false,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:03.056Z"
+    "updatedAt": "2026-09-03T21:11:33.912Z"
   },
   {
     "productId": "gracegarden:10005367",
@@ -917,7 +917,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:03.886Z"
+    "updatedAt": "2026-09-03T21:11:34.076Z"
   },
   {
     "productId": "gracegarden:10005338",
@@ -936,7 +936,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:04.755Z"
+    "updatedAt": "2026-09-03T21:11:34.228Z"
   },
   {
     "productId": "gracegarden:10006429",
@@ -955,7 +955,7 @@
     "isColorProduct": false,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:05.635Z"
+    "updatedAt": "2026-09-03T21:11:35.548Z"
   },
   {
     "productId": "gracegarden:10005339",
@@ -974,7 +974,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:06.463Z"
+    "updatedAt": "2026-09-03T21:11:34.551Z"
   },
   {
     "productId": "gracegarden:10006428",
@@ -993,7 +993,7 @@
     "isColorProduct": false,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:07.303Z"
+    "updatedAt": "2026-09-03T21:11:34.712Z"
   },
   {
     "productId": "gracegarden:10005461",
@@ -1004,7 +1004,7 @@
     "aspSource": "楽天",
     "reviewCount": 0,
     "reviewAverage": 0,
-    "hexColor": "#e4a340",
+    "hexColor": "#e4a240",
     "colorFamily": "ゴールド",
     "sceneTags": [],
     "finishTypes": [],
@@ -1012,7 +1012,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:08.268Z"
+    "updatedAt": "2026-09-03T21:11:34.871Z"
   },
   {
     "productId": "gracegarden:10005327",
@@ -1031,7 +1031,7 @@
     "isColorProduct": false,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:10:54.776Z"
+    "updatedAt": "2026-09-03T21:11:35.030Z"
   },
   {
     "productId": "gracegarden:10005365",
@@ -1042,7 +1042,7 @@
     "aspSource": "楽天",
     "reviewCount": 0,
     "reviewAverage": 0,
-    "hexColor": "#d5dcd1",
+    "hexColor": "#d4dbd0",
     "colorFamily": "グリーン/イエローグリーン",
     "sceneTags": [],
     "finishTypes": [],
@@ -1050,7 +1050,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:10.239Z"
+    "updatedAt": "2026-09-03T21:11:36.193Z"
   },
   {
     "productId": "gracegarden:10005312",
@@ -1069,7 +1069,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:00.892Z"
+    "updatedAt": "2026-09-03T21:11:33.572Z"
   },
   {
     "productId": "gracegarden:10005254",
@@ -1088,7 +1088,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:11.577Z"
+    "updatedAt": "2026-09-03T21:11:34.385Z"
   },
   {
     "productId": "gracegarden:10005311",
@@ -1099,7 +1099,7 @@
     "aspSource": "楽天",
     "reviewCount": 0,
     "reviewAverage": 0,
-    "hexColor": "#e4988a",
+    "hexColor": "#e39789",
     "colorFamily": "レッド",
     "sceneTags": [],
     "finishTypes": [],
@@ -1107,7 +1107,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:12.424Z"
+    "updatedAt": "2026-09-03T21:11:35.707Z"
   },
   {
     "productId": "gracegarden:10005276",
@@ -1126,7 +1126,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:14.627Z"
+    "updatedAt": "2026-09-03T21:11:35.193Z"
   },
   {
     "productId": "gracegarden:10005292",
@@ -1147,7 +1147,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:13.809Z"
+    "updatedAt": "2026-09-03T21:11:36.032Z"
   },
   {
     "productId": "gracegarden:10006214",
@@ -1158,7 +1158,7 @@
     "aspSource": "楽天",
     "reviewCount": 0,
     "reviewAverage": 0,
-    "hexColor": "#d7d4cf",
+    "hexColor": "#d6d3ce",
     "colorFamily": "グレー",
     "sceneTags": [],
     "finishTypes": [],
@@ -1166,7 +1166,7 @@
     "isColorProduct": false,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:13.400Z"
+    "updatedAt": "2026-09-03T21:11:35.867Z"
   },
   {
     "productId": "nailforall:10008843",
@@ -1185,7 +1185,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:19.726Z"
+    "updatedAt": "2026-09-03T21:11:42.581Z"
   },
   {
     "productId": "nailforall:10009186",
@@ -1194,7 +1194,7 @@
     "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/nailforall/cabinet/13/2m-005-0000.jpg",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qq01o.4emtb362.g00qq01o.4emtc222/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnailforall%2F2m-005-0000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnailforall%2Fi%2F10009186%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
     "aspSource": "楽天",
-    "reviewCount": 109,
+    "reviewCount": 110,
     "reviewAverage": 4.82,
     "hexColor": "#fafafa",
     "colorFamily": "ホワイト",
@@ -1204,7 +1204,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:19.883Z"
+    "updatedAt": "2026-09-03T21:11:42.766Z"
   },
   {
     "productId": "nailforall:10008952",
@@ -1223,7 +1223,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:20.043Z"
+    "updatedAt": "2026-09-03T21:11:42.926Z"
   },
   {
     "productId": "nailforall:10009047",
@@ -1242,7 +1242,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:20.070Z"
+    "updatedAt": "2026-09-03T21:11:43.082Z"
   },
   {
     "productId": "nailforall:10008951",
@@ -1261,7 +1261,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:20.493Z"
+    "updatedAt": "2026-09-03T21:11:43.248Z"
   },
   {
     "productId": "nailforall:10009004",
@@ -1280,7 +1280,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:20.649Z"
+    "updatedAt": "2026-09-03T21:11:43.410Z"
   },
   {
     "productId": "nailforall:10009054",
@@ -1299,7 +1299,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:20.806Z"
+    "updatedAt": "2026-09-03T21:11:43.594Z"
   },
   {
     "productId": "nailforall:10009312",
@@ -1320,7 +1320,7 @@
     "isColorProduct": false,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:21.221Z"
+    "updatedAt": "2026-09-03T21:11:43.747Z"
   },
   {
     "productId": "nailforall:10009076",
@@ -1339,7 +1339,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:21.383Z"
+    "updatedAt": "2026-09-03T21:11:43.907Z"
   },
   {
     "productId": "nailforall:10009532",
@@ -1358,7 +1358,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:21.828Z"
+    "updatedAt": "2026-09-03T21:11:44.064Z"
   },
   {
     "productId": "nailforall:10008751",
@@ -1377,7 +1377,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:21.983Z"
+    "updatedAt": "2026-09-03T21:11:44.219Z"
   },
   {
     "productId": "nailforall:10009144",
@@ -1396,7 +1396,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:22.420Z"
+    "updatedAt": "2026-09-03T21:11:44.383Z"
   },
   {
     "productId": "nailforall:10009253",
@@ -1405,8 +1405,8 @@
     "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/nailforall/cabinet/14/2m-001-07.jpg",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qq01o.4emtb362.g00qq01o.4emtc222/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnailforall%2F2m-001-07%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnailforall%2Fi%2F10009253%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
     "aspSource": "楽天",
-    "reviewCount": 28,
-    "reviewAverage": 4.64,
+    "reviewCount": 29,
+    "reviewAverage": 4.66,
     "hexColor": "#b7a89e",
     "colorFamily": "オレンジ",
     "sceneTags": [],
@@ -1415,7 +1415,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:22.583Z"
+    "updatedAt": "2026-09-03T21:11:44.542Z"
   },
   {
     "productId": "nailforall:10008953",
@@ -1434,7 +1434,7 @@
     "isColorProduct": false,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:22.742Z"
+    "updatedAt": "2026-09-03T21:11:44.697Z"
   },
   {
     "productId": "nailforall:10009046",
@@ -1453,7 +1453,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:22.896Z"
+    "updatedAt": "2026-09-03T21:11:45.134Z"
   },
   {
     "productId": "nailforall:10009095",
@@ -1472,7 +1472,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:23.058Z"
+    "updatedAt": "2026-09-03T21:11:45.299Z"
   },
   {
     "productId": "nailforall:10009077",
@@ -1491,7 +1491,7 @@
     "isColorProduct": false,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:23.489Z"
+    "updatedAt": "2026-09-03T21:11:45.456Z"
   },
   {
     "productId": "nailforall:10008844",
@@ -1510,7 +1510,7 @@
     "isColorProduct": false,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:23.647Z"
+    "updatedAt": "2026-09-03T21:11:45.612Z"
   },
   {
     "productId": "nailforall:10009655",
@@ -1529,7 +1529,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:23.803Z"
+    "updatedAt": "2026-09-03T21:11:45.803Z"
   },
   {
     "productId": "nailforall:10008977",
@@ -1548,7 +1548,7 @@
     "isColorProduct": false,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:23.970Z"
+    "updatedAt": "2026-09-03T21:11:45.972Z"
   },
   {
     "productId": "nailforall:10009092",
@@ -1567,7 +1567,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:24.123Z"
+    "updatedAt": "2026-09-03T21:11:46.156Z"
   },
   {
     "productId": "nailforall:10009005",
@@ -1586,7 +1586,7 @@
     "isColorProduct": false,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:24.279Z"
+    "updatedAt": "2026-09-03T21:11:46.318Z"
   },
   {
     "productId": "nailforall:10008752",
@@ -1605,7 +1605,7 @@
     "isColorProduct": false,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:24.441Z"
+    "updatedAt": "2026-09-03T21:11:46.479Z"
   },
   {
     "productId": "nailforall:10009676",
@@ -1624,7 +1624,7 @@
     "isColorProduct": false,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:24.871Z"
+    "updatedAt": "2026-09-03T21:11:46.644Z"
   },
   {
     "productId": "nailforall:10009636",
@@ -1643,7 +1643,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:25.038Z"
+    "updatedAt": "2026-09-03T21:11:46.805Z"
   },
   {
     "productId": "nailforall:10009431",
@@ -1662,7 +1662,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:25.201Z"
+    "updatedAt": "2026-09-03T21:11:46.961Z"
   },
   {
     "productId": "nailforall:10009021",
@@ -1681,7 +1681,7 @@
     "isColorProduct": false,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:25.359Z"
+    "updatedAt": "2026-09-03T21:11:47.121Z"
   },
   {
     "productId": "nailforall:10009207",
@@ -1700,7 +1700,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:25.788Z"
+    "updatedAt": "2026-09-03T21:11:47.280Z"
   },
   {
     "productId": "nailforall:10009094",
@@ -1719,7 +1719,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:25.944Z"
+    "updatedAt": "2026-09-03T21:11:47.435Z"
   },
   {
     "productId": "nailforall:10009430",
@@ -1738,7 +1738,7 @@
     "isColorProduct": true,
     "isPartsProduct": false,
     "priorityShop": true,
-    "updatedAt": "2026-09-02T21:11:26.108Z"
+    "updatedAt": "2026-09-03T21:11:47.601Z"
   },
   {
     "productId": "takaranail:10000192",
@@ -1758,7 +1758,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:38.785Z"
+    "updatedAt": "2026-09-03T21:11:58.428Z"
   },
   {
     "productId": "neo-neo:10002848",
@@ -1767,7 +1767,7 @@
     "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/neo-neo/cabinet/page/j-200color/main2.jpg",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rjseo.4emtb350.g00rjseo.4emtccb4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fneo-neo%2Fj-200color%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fneo-neo%2Fi%2F10002848%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
     "aspSource": "楽天",
-    "reviewCount": 1803,
+    "reviewCount": 1804,
     "reviewAverage": 4.57,
     "hexColor": "#eddbdf",
     "colorFamily": "レッド",
@@ -1782,7 +1782,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:38.814Z"
+    "updatedAt": "2026-09-03T21:11:58.454Z"
   },
   {
     "productId": "deconail-seisakujo:10004415",
@@ -1800,7 +1800,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:12.131Z"
+    "updatedAt": "2026-09-03T21:14:15.803Z"
   },
   {
     "productId": "petitprice:10000192",
@@ -1818,7 +1818,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:40.109Z"
+    "updatedAt": "2026-09-03T21:11:59.925Z"
   },
   {
     "productId": "deconail-seisakujo:10003074",
@@ -1838,7 +1838,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:14:12.155Z"
+    "updatedAt": "2026-09-03T21:14:15.824Z"
   },
   {
     "productId": "deconail-seisakujo:10002954",
@@ -1856,7 +1856,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:12.179Z"
+    "updatedAt": "2026-09-03T21:14:15.850Z"
   },
   {
     "productId": "deconail-seisakujo:10004769",
@@ -1876,7 +1876,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:14:12.204Z"
+    "updatedAt": "2026-09-03T21:14:15.875Z"
   },
   {
     "productId": "deconail-seisakujo:10006000",
@@ -1896,7 +1896,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:12.229Z"
+    "updatedAt": "2026-09-03T21:14:15.898Z"
   },
   {
     "productId": "deconail-seisakujo:10004879",
@@ -1914,7 +1914,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:12.253Z"
+    "updatedAt": "2026-09-03T21:14:15.921Z"
   },
   {
     "productId": "colorful-nail:10000396",
@@ -1932,7 +1932,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:30.239Z"
+    "updatedAt": "2026-09-03T21:11:51.627Z"
   },
   {
     "productId": "deconail-seisakujo:10004233",
@@ -1950,7 +1950,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:12.278Z"
+    "updatedAt": "2026-09-03T21:14:15.945Z"
   },
   {
     "productId": "deconail-seisakujo:10004570",
@@ -1968,7 +1968,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:12.305Z"
+    "updatedAt": "2026-09-03T21:14:15.969Z"
   },
   {
     "productId": "colorful-nail:10000040",
@@ -1988,7 +1988,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:31.465Z"
+    "updatedAt": "2026-09-03T21:11:52.170Z"
   },
   {
     "productId": "deconail-seisakujo:10004578",
@@ -2006,7 +2006,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:12.330Z"
+    "updatedAt": "2026-09-03T21:14:15.993Z"
   },
   {
     "productId": "eenail:10002410",
@@ -2024,7 +2024,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:32.054Z"
+    "updatedAt": "2026-09-03T21:11:52.490Z"
   },
   {
     "productId": "neo-neo:10003167",
@@ -2042,7 +2042,7 @@
     "quantity": 1,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:32.218Z"
+    "updatedAt": "2026-09-03T21:11:52.648Z"
   },
   {
     "productId": "deconail-seisakujo:10004675",
@@ -2060,7 +2060,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:12.354Z"
+    "updatedAt": "2026-09-03T21:14:16.017Z"
   },
   {
     "productId": "eenail:10002394",
@@ -2078,7 +2078,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:33.757Z"
+    "updatedAt": "2026-09-03T21:11:53.113Z"
   },
   {
     "productId": "deconail-seisakujo:10005412",
@@ -2096,7 +2096,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:12.399Z"
+    "updatedAt": "2026-09-03T21:14:16.058Z"
   },
   {
     "productId": "arknail:10001088",
@@ -2118,7 +2118,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:34.363Z"
+    "updatedAt": "2026-09-03T21:11:53.463Z"
   },
   {
     "productId": "japannail:10000676",
@@ -2138,7 +2138,7 @@
     "quantity": 10,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:36.626Z"
+    "updatedAt": "2026-09-03T21:11:55.774Z"
   },
   {
     "productId": "petitprice:10000993",
@@ -2156,7 +2156,7 @@
     "quantity": 5,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:36.812Z"
+    "updatedAt": "2026-09-03T21:11:55.949Z"
   },
   {
     "productId": "7esthe-pro:10031939",
@@ -2176,7 +2176,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:36.836Z"
+    "updatedAt": "2026-09-03T21:11:56.115Z"
   },
   {
     "productId": "petitprice:10000880",
@@ -2194,7 +2194,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:36.999Z"
+    "updatedAt": "2026-09-03T21:11:56.274Z"
   },
   {
     "productId": "nailkoubou:10003747",
@@ -2212,7 +2212,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:37.163Z"
+    "updatedAt": "2026-09-03T21:11:56.431Z"
   },
   {
     "productId": "deconail-seisakujo:10002837",
@@ -2230,7 +2230,7 @@
     "quantity": 5,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:59.660Z"
+    "updatedAt": "2026-09-03T21:12:16.956Z"
   },
   {
     "productId": "deconail-seisakujo:10001727",
@@ -2254,7 +2254,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:59.686Z"
+    "updatedAt": "2026-09-03T21:12:16.981Z"
   },
   {
     "productId": "japannail:10001496",
@@ -2272,7 +2272,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:37.846Z"
+    "updatedAt": "2026-09-03T21:11:57.019Z"
   },
   {
     "productId": "deconail-seisakujo:10001728",
@@ -2296,7 +2296,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:59.712Z"
+    "updatedAt": "2026-09-03T21:12:17.007Z"
   },
   {
     "productId": "deconail-seisakujo:10004856",
@@ -2316,7 +2316,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:37.898Z"
+    "updatedAt": "2026-09-03T21:11:57.444Z"
   },
   {
     "productId": "nail-koubouu:10013795",
@@ -2339,7 +2339,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:38.051Z"
+    "updatedAt": "2026-09-03T21:11:57.465Z"
   },
   {
     "productId": "japannail:10000766",
@@ -2357,7 +2357,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:38.221Z"
+    "updatedAt": "2026-09-03T21:11:57.627Z"
   },
   {
     "productId": "deconail-seisakujo:10001799",
@@ -2395,7 +2395,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:38.382Z"
+    "updatedAt": "2026-09-03T21:11:57.810Z"
   },
   {
     "productId": "deconail-seisakujo:10003286",
@@ -2415,7 +2415,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:59.737Z"
+    "updatedAt": "2026-09-03T21:12:17.033Z"
   },
   {
     "productId": "nail-koubouu:10003108",
@@ -2433,7 +2433,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:38.427Z"
+    "updatedAt": "2026-09-03T21:11:58.036Z"
   },
   {
     "productId": "deconail-seisakujo:10004356",
@@ -2453,7 +2453,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:38.594Z"
+    "updatedAt": "2026-09-03T21:11:58.244Z"
   },
   {
     "productId": "petitprice:10000187",
@@ -2473,7 +2473,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:38.756Z"
+    "updatedAt": "2026-09-03T21:11:58.403Z"
   },
   {
     "productId": "7esthe-pro:10031937",
@@ -2491,7 +2491,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:38.977Z"
+    "updatedAt": "2026-09-03T21:11:58.609Z"
   },
   {
     "productId": "nail-koubouu:10011950",
@@ -2513,7 +2513,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:39.132Z"
+    "updatedAt": "2026-09-03T21:11:58.767Z"
   },
   {
     "productId": "clarabeauty:10000320",
@@ -2534,7 +2534,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:39.287Z"
+    "updatedAt": "2026-09-03T21:11:59.218Z"
   },
   {
     "productId": "g-nail:10017635",
@@ -2552,7 +2552,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:39.477Z"
+    "updatedAt": "2026-09-03T21:11:59.401Z"
   },
   {
     "productId": "nail-koubouu:10012881",
@@ -2574,7 +2574,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:39.637Z"
+    "updatedAt": "2026-09-03T21:11:59.572Z"
   },
   {
     "productId": "world-holdings:10000143",
@@ -2592,7 +2592,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:39.673Z"
+    "updatedAt": "2026-09-03T21:11:59.744Z"
   },
   {
     "productId": "candy:10452445",
@@ -2612,7 +2612,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:21.735Z"
+    "updatedAt": "2026-09-03T21:12:36.566Z"
   },
   {
     "productId": "petitprice:10000256",
@@ -2632,7 +2632,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:43.083Z"
+    "updatedAt": "2026-09-03T21:12:02.856Z"
   },
   {
     "productId": "fiorello:10026139",
@@ -2650,7 +2650,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:43.275Z"
+    "updatedAt": "2026-09-03T21:12:03.037Z"
   },
   {
     "productId": "neo-neo:10002839",
@@ -2671,7 +2671,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:43.431Z"
+    "updatedAt": "2026-09-03T21:12:03.228Z"
   },
   {
     "productId": "neo-neo:10003018",
@@ -2689,7 +2689,7 @@
     "quantity": 4,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:43.593Z"
+    "updatedAt": "2026-09-03T21:12:03.401Z"
   },
   {
     "productId": "neo-neo:10002991",
@@ -2707,7 +2707,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:43.754Z"
+    "updatedAt": "2026-09-03T21:12:03.596Z"
   },
   {
     "productId": "nailndecoshop:10000876",
@@ -2725,7 +2725,7 @@
     "quantity": 1000,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:44.213Z"
+    "updatedAt": "2026-09-03T21:12:03.798Z"
   },
   {
     "productId": "deconail-seisakujo:10004137",
@@ -2743,7 +2743,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:12:02.122Z"
+    "updatedAt": "2026-09-03T21:12:19.964Z"
   },
   {
     "productId": "nail-koubouu:10006819",
@@ -2763,7 +2763,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:44.396Z"
+    "updatedAt": "2026-09-03T21:12:04.272Z"
   },
   {
     "productId": "deconail-seisakujo:10003273",
@@ -2783,7 +2783,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:12:02.147Z"
+    "updatedAt": "2026-09-03T21:12:19.988Z"
   },
   {
     "productId": "embellirshop:10007347",
@@ -2804,7 +2804,7 @@
     "quantity": 1,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:12:14.126Z"
+    "updatedAt": "2026-09-03T21:12:30.123Z"
   },
   {
     "productId": "petitprice:10003244",
@@ -2822,7 +2822,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:45.418Z"
+    "updatedAt": "2026-09-03T21:12:04.843Z"
   },
   {
     "productId": "annuum:10000910",
@@ -2842,7 +2842,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:45.574Z"
+    "updatedAt": "2026-09-03T21:12:05.005Z"
   },
   {
     "productId": "oyanagimart:10001694",
@@ -2862,7 +2862,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:45.741Z"
+    "updatedAt": "2026-09-03T21:12:05.260Z"
   },
   {
     "productId": "nail-recipe:10001483",
@@ -2880,7 +2880,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:46.321Z"
+    "updatedAt": "2026-09-03T21:12:05.420Z"
   },
   {
     "productId": "annuum:10000939",
@@ -2900,7 +2900,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:46.477Z"
+    "updatedAt": "2026-09-03T21:12:05.575Z"
   },
   {
     "productId": "nail-koubouu:10013777",
@@ -2921,7 +2921,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:46.634Z"
+    "updatedAt": "2026-09-03T21:12:05.733Z"
   },
   {
     "productId": "annuum:10000918",
@@ -2941,7 +2941,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:46.790Z"
+    "updatedAt": "2026-09-03T21:12:05.901Z"
   },
   {
     "productId": "nail-recipe:10001858",
@@ -2959,7 +2959,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:46.976Z"
+    "updatedAt": "2026-09-03T21:12:06.082Z"
   },
   {
     "productId": "colorful-nail:10000197",
@@ -2979,7 +2979,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:47.424Z"
+    "updatedAt": "2026-09-03T21:12:06.254Z"
   },
   {
     "productId": "annuum:10001002",
@@ -2999,7 +2999,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:47.590Z"
+    "updatedAt": "2026-09-03T21:12:06.427Z"
   },
   {
     "productId": "faithmiracle:10000225",
@@ -3017,7 +3017,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:47.747Z"
+    "updatedAt": "2026-09-03T21:12:06.588Z"
   },
   {
     "productId": "petitprice:10005881",
@@ -3037,7 +3037,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:48.171Z"
+    "updatedAt": "2026-09-03T21:12:06.753Z"
   },
   {
     "productId": "world-holdings:10001719",
@@ -3057,7 +3057,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:48.325Z"
+    "updatedAt": "2026-09-03T21:12:06.915Z"
   },
   {
     "productId": "elelerueru:10009005",
@@ -3075,7 +3075,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:48.480Z"
+    "updatedAt": "2026-09-03T21:12:07.105Z"
   },
   {
     "productId": "petitprice:10001717",
@@ -3095,7 +3095,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:51.022Z"
+    "updatedAt": "2026-09-03T21:12:09.589Z"
   },
   {
     "productId": "aihome:10000210",
@@ -3113,7 +3113,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:49.078Z"
+    "updatedAt": "2026-09-03T21:12:07.429Z"
   },
   {
     "productId": "nail-recipe:10001545",
@@ -3149,7 +3149,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:50.999Z"
+    "updatedAt": "2026-09-03T21:12:09.567Z"
   },
   {
     "productId": "petitprice:10000783",
@@ -3169,7 +3169,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:51.440Z"
+    "updatedAt": "2026-09-03T21:12:09.756Z"
   },
   {
     "productId": "petitprice:10001786",
@@ -3189,7 +3189,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:51.598Z"
+    "updatedAt": "2026-09-03T21:12:09.931Z"
   },
   {
     "productId": "arknail:10001617",
@@ -3209,7 +3209,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:51.756Z"
+    "updatedAt": "2026-09-03T21:12:10.088Z"
   },
   {
     "productId": "nailsmile:10000748",
@@ -3229,7 +3229,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:51.916Z"
+    "updatedAt": "2026-09-03T21:12:10.245Z"
   },
   {
     "productId": "nailmania:10007011",
@@ -3247,7 +3247,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:52.079Z"
+    "updatedAt": "2026-09-03T21:12:10.434Z"
   },
   {
     "productId": "mpetitnail:10000022",
@@ -3269,7 +3269,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:52.251Z"
+    "updatedAt": "2026-09-03T21:12:10.589Z"
   },
   {
     "productId": "eenail:10005172",
@@ -3291,7 +3291,7 @@
     "quantity": 3,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:52.415Z"
+    "updatedAt": "2026-09-03T21:12:10.751Z"
   },
   {
     "productId": "la-primavera:10002859",
@@ -3311,7 +3311,7 @@
     "quantity": 5,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:52.589Z"
+    "updatedAt": "2026-09-03T21:12:11.025Z"
   },
   {
     "productId": "ecjoy:92217242",
@@ -3331,7 +3331,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:53.026Z"
+    "updatedAt": "2026-09-03T21:12:11.191Z"
   },
   {
     "productId": "elelerueru:10015986",
@@ -3355,7 +3355,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:53.572Z"
+    "updatedAt": "2026-09-03T21:12:11.359Z"
   },
   {
     "productId": "la-primavera:10003141",
@@ -3375,7 +3375,7 @@
     "quantity": 12,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:53.739Z"
+    "updatedAt": "2026-09-03T21:12:11.528Z"
   },
   {
     "productId": "akihiro-1204:10003757",
@@ -3415,7 +3415,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:54.356Z"
+    "updatedAt": "2026-09-03T21:12:12.037Z"
   },
   {
     "productId": "la-primavera:10002874",
@@ -3455,7 +3455,7 @@
     "quantity": 12,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:55.145Z"
+    "updatedAt": "2026-09-03T21:12:12.553Z"
   },
   {
     "productId": "komorebizakka:10049378",
@@ -3475,7 +3475,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:55.330Z"
+    "updatedAt": "2026-09-03T21:12:12.724Z"
   },
   {
     "productId": "la-primavera:10002517",
@@ -3515,7 +3515,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:55.928Z"
+    "updatedAt": "2026-09-03T21:12:13.072Z"
   },
   {
     "productId": "neighbor111:10009232",
@@ -3535,7 +3535,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:56.108Z"
+    "updatedAt": "2026-09-03T21:12:13.271Z"
   },
   {
     "productId": "kanachairs:10018323",
@@ -3555,25 +3555,25 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:56.301Z"
+    "updatedAt": "2026-09-03T21:12:13.439Z"
   },
   {
     "productId": "mannishboy:24722230",
     "name": "by Nail Labo バイネイルラボ コーティングジェル 7g 117763",
     "price": 2068,
-    "imageUrl": "",
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/mannishboy/cabinet/item/312/20081834311_1.jpg",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00t3p0o.4emtb563.g00t3p0o.4emtcefc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmannishboy%2F20081834311%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmannishboy%2Fi%2F24722230%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
     "aspSource": "楽天",
     "reviewCount": 0,
     "reviewAverage": 0,
-    "hexColor": null,
-    "colorFamily": null,
+    "hexColor": "#f2ecd5",
+    "colorFamily": "イエロー",
     "sceneTags": [],
     "finishTypes": [],
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:56.301Z"
+    "updatedAt": "2026-09-03T21:12:13.595Z"
   },
   {
     "productId": "la-primavera:10003277",
@@ -3593,7 +3593,7 @@
     "quantity": 2,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:56.480Z"
+    "updatedAt": "2026-09-03T21:12:13.766Z"
   },
   {
     "productId": "la-primavera:10003320",
@@ -3613,7 +3613,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-01T21:12:07.621Z"
+    "updatedAt": "2026-09-03T21:12:13.930Z"
   },
   {
     "productId": "la-primavera:10003143",
@@ -3633,7 +3633,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:56.830Z"
+    "updatedAt": "2026-09-03T21:12:14.098Z"
   },
   {
     "productId": "la-primavera:10002857",
@@ -3653,7 +3653,7 @@
     "quantity": 12,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:56.995Z"
+    "updatedAt": "2026-09-03T21:12:14.271Z"
   },
   {
     "productId": "la-primavera:10002515",
@@ -3673,7 +3673,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:57.186Z"
+    "updatedAt": "2026-09-03T21:12:14.437Z"
   },
   {
     "productId": "nailan:10000003",
@@ -3693,7 +3693,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:57.354Z"
+    "updatedAt": "2026-09-03T21:12:14.600Z"
   },
   {
     "productId": "azon-shop00:10002804",
@@ -3713,7 +3713,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:57.514Z"
+    "updatedAt": "2026-09-03T21:12:14.770Z"
   },
   {
     "productId": "deconail-seisakujo:10001923",
@@ -3733,7 +3733,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:59.785Z"
+    "updatedAt": "2026-09-03T21:12:17.244Z"
   },
   {
     "productId": "deconail-seisakujo:10004609",
@@ -3751,7 +3751,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:59.976Z"
+    "updatedAt": "2026-09-03T21:12:17.556Z"
   },
   {
     "productId": "deconail-seisakujo:10006125",
@@ -3772,7 +3772,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:00.001Z"
+    "updatedAt": "2026-09-03T21:12:17.750Z"
   },
   {
     "productId": "deconail-seisakujo:10004459",
@@ -3790,7 +3790,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:00.026Z"
+    "updatedAt": "2026-09-03T21:12:17.924Z"
   },
   {
     "productId": "deconail-seisakujo:10002761",
@@ -3810,7 +3810,7 @@
     "quantity": 3,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:00.052Z"
+    "updatedAt": "2026-09-03T21:12:18.089Z"
   },
   {
     "productId": "deconail-seisakujo:10005779",
@@ -3819,7 +3819,7 @@
     "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/deconail-seisakujo/cabinet/eventmain/irogel-mg3_50.jpg",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qml3o.4emtb14a.g00qml3o.4emtcd73/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdeconail-seisakujo%2Firogel-mg3%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdeconail-seisakujo%2Fi%2F10005779%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
     "aspSource": "楽天",
-    "reviewCount": 285,
+    "reviewCount": 286,
     "reviewAverage": 4.59,
     "hexColor": "#cfb3bc",
     "colorFamily": "ピンク",
@@ -3830,7 +3830,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:00.300Z"
+    "updatedAt": "2026-09-03T21:12:18.278Z"
   },
   {
     "productId": "deconail-seisakujo:10004313",
@@ -3848,7 +3848,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:00.902Z"
+    "updatedAt": "2026-09-03T21:12:18.491Z"
   },
   {
     "productId": "deconail-seisakujo:10005862",
@@ -3868,7 +3868,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:01.066Z"
+    "updatedAt": "2026-09-03T21:12:18.666Z"
   },
   {
     "productId": "deconail-seisakujo:10005182",
@@ -3888,7 +3888,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:01.094Z"
+    "updatedAt": "2026-09-03T21:12:18.852Z"
   },
   {
     "productId": "nailmania:10004932",
@@ -3906,7 +3906,7 @@
     "quantity": 5,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:01.271Z"
+    "updatedAt": "2026-09-03T21:12:19.018Z"
   },
   {
     "productId": "deconail-seisakujo:10005507",
@@ -3924,7 +3924,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:01.454Z"
+    "updatedAt": "2026-09-03T21:12:19.191Z"
   },
   {
     "productId": "deconail-seisakujo:10003804",
@@ -3964,7 +3964,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:01.481Z"
+    "updatedAt": "2026-09-03T21:12:19.410Z"
   },
   {
     "productId": "deconail-seisakujo:10006124",
@@ -3984,7 +3984,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:01.770Z"
+    "updatedAt": "2026-09-03T21:12:19.611Z"
   },
   {
     "productId": "deconail-seisakujo:10004920",
@@ -4002,7 +4002,7 @@
     "quantity": 10,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:01.935Z"
+    "updatedAt": "2026-09-03T21:12:19.772Z"
   },
   {
     "productId": "deconail-seisakujo:10004576",
@@ -4020,7 +4020,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:02.095Z"
+    "updatedAt": "2026-09-03T21:12:19.940Z"
   },
   {
     "productId": "deconail-seisakujo:10004577",
@@ -4040,7 +4040,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:02.307Z"
+    "updatedAt": "2026-09-03T21:12:20.237Z"
   },
   {
     "productId": "deconail-seisakujo:10006244",
@@ -4060,7 +4060,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:02.490Z"
+    "updatedAt": "2026-09-03T21:12:20.407Z"
   },
   {
     "productId": "deconail-seisakujo:10005573",
@@ -4078,7 +4078,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:02.857Z"
+    "updatedAt": "2026-09-03T21:12:20.636Z"
   },
   {
     "productId": "gracegarden:10002276",
@@ -4098,7 +4098,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:05.481Z"
+    "updatedAt": "2026-09-03T21:12:23.419Z"
   },
   {
     "productId": "gracegarden:10002210",
@@ -4116,7 +4116,7 @@
     "quantity": 10,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:05.949Z"
+    "updatedAt": "2026-09-03T21:12:23.578Z"
   },
   {
     "productId": "gracegarden:10006101",
@@ -4134,7 +4134,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:06.106Z"
+    "updatedAt": "2026-09-03T21:12:23.731Z"
   },
   {
     "productId": "gracegarden:10003069",
@@ -4152,11 +4152,11 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:06.271Z"
+    "updatedAt": "2026-09-03T21:12:23.886Z"
   },
   {
     "productId": "netsbee:10058090",
-    "name": "（欠品中・9月上旬入荷予定）グレースジェル ノンサンディング ベース 15mL [ 密着力 浮かない ジェルベース ジェルネイル 爪 サロン ネイリスト 人気 おすすめ ] 定形外 対応 GRACE",
+    "name": "グレースジェル ノンサンディング ベース 15mL [ 密着力 浮かない ジェルベース ジェルネイル 爪 サロン ネイリスト 人気 おすすめ ] 定形外 対応 GRACE",
     "price": 1540,
     "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/netsbee/cabinet/gracegel/gracegel013_n.jpg",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qehgo.4emtb0bb.g00qehgo.4emtc9b7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetsbee%2Fgracegel013%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetsbee%2Fi%2F10058090%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
@@ -4170,7 +4170,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:06.430Z"
+    "updatedAt": "2026-09-03T21:12:24.053Z"
   },
   {
     "productId": "cutienail:10030358",
@@ -4188,7 +4188,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:06.846Z"
+    "updatedAt": "2026-09-03T21:12:24.213Z"
   },
   {
     "productId": "cutienail:10030356",
@@ -4206,7 +4206,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:07.013Z"
+    "updatedAt": "2026-09-03T21:12:24.376Z"
   },
   {
     "productId": "cutienail:10032484",
@@ -4226,7 +4226,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:07.037Z"
+    "updatedAt": "2026-09-03T21:12:24.535Z"
   },
   {
     "productId": "cutienail:10030359",
@@ -4244,7 +4244,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:07.196Z"
+    "updatedAt": "2026-09-03T21:12:24.691Z"
   },
   {
     "productId": "netsbee:10058095",
@@ -4264,7 +4264,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:07.359Z"
+    "updatedAt": "2026-09-03T21:12:24.854Z"
   },
   {
     "productId": "cutienail:10032648",
@@ -4282,7 +4282,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:07.532Z"
+    "updatedAt": "2026-09-03T21:12:25.019Z"
   },
   {
     "productId": "netsbee:10058118",
@@ -4300,7 +4300,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:07.694Z"
+    "updatedAt": "2026-09-03T21:12:25.178Z"
   },
   {
     "productId": "gracegarden:10006052",
@@ -4320,7 +4320,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:08.285Z"
+    "updatedAt": "2026-09-03T21:12:25.336Z"
   },
   {
     "productId": "gramsky2nd:10002878",
@@ -4340,7 +4340,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-01T21:12:20.647Z"
+    "updatedAt": "2026-09-03T21:12:25.336Z"
   },
   {
     "productId": "cutienail:10033427",
@@ -4376,7 +4376,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:09.370Z"
+    "updatedAt": "2026-09-03T21:12:25.898Z"
   },
   {
     "productId": "gramsky2nd:10002678",
@@ -4396,7 +4396,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:09.370Z"
+    "updatedAt": "2026-09-03T21:12:25.898Z"
   },
   {
     "productId": "gramsky2nd:10002581",
@@ -4416,7 +4416,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:09.370Z"
+    "updatedAt": "2026-09-03T21:12:25.898Z"
   },
   {
     "productId": "gramsky2nd:10002524",
@@ -4454,7 +4454,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:10.159Z"
+    "updatedAt": "2026-09-03T21:12:26.258Z"
   },
   {
     "productId": "netsbee:10058101",
@@ -4490,7 +4490,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:10.494Z"
+    "updatedAt": "2026-09-03T21:12:26.590Z"
   },
   {
     "productId": "netsbee:10058103",
@@ -4530,7 +4530,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:10.838Z"
+    "updatedAt": "2026-09-03T21:12:26.914Z"
   },
   {
     "productId": "gramsky2nd:10002323",
@@ -4548,7 +4548,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:10.838Z"
+    "updatedAt": "2026-09-03T21:12:26.914Z"
   },
   {
     "productId": "gramsky2nd:10001845",
@@ -4568,7 +4568,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:10.838Z"
+    "updatedAt": "2026-09-03T21:12:26.914Z"
   },
   {
     "productId": "ssk-1:20852088",
@@ -4606,7 +4606,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:11.424Z"
+    "updatedAt": "2026-09-03T21:12:27.667Z"
   },
   {
     "productId": "nailstudy:10038400",
@@ -4626,7 +4626,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:13.513Z"
+    "updatedAt": "2026-09-03T21:12:29.784Z"
   },
   {
     "productId": "nailstudy:10000025",
@@ -4635,7 +4635,7 @@
     "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/nailstudy/cabinet/96501.jpg",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00sioko.4emtb829.g00sioko.4emtcd81/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnailstudy%2F11449%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnailstudy%2Fi%2F10000025%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
     "aspSource": "楽天",
-    "reviewCount": 154,
+    "reviewCount": 155,
     "reviewAverage": 4.73,
     "hexColor": "#faf9f9",
     "colorFamily": "ホワイト",
@@ -4644,7 +4644,7 @@
     "quantity": 2,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:13.668Z"
+    "updatedAt": "2026-09-03T21:12:29.939Z"
   },
   {
     "productId": "elelerueru:10010832",
@@ -4664,7 +4664,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:14.104Z"
+    "updatedAt": "2026-09-03T21:12:30.100Z"
   },
   {
     "productId": "netsbee:10048542",
@@ -4684,7 +4684,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:14.542Z"
+    "updatedAt": "2026-09-03T21:12:30.290Z"
   },
   {
     "productId": "elelerueru:10010648",
@@ -4702,7 +4702,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:14.984Z"
+    "updatedAt": "2026-09-03T21:12:30.444Z"
   },
   {
     "productId": "nailstudy:10000056",
@@ -4722,7 +4722,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:15.191Z"
+    "updatedAt": "2026-09-03T21:12:30.598Z"
   },
   {
     "productId": "cutienail:10004905",
@@ -4742,7 +4742,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:15.353Z"
+    "updatedAt": "2026-09-03T21:12:30.760Z"
   },
   {
     "productId": "g-nail:10049583",
@@ -4760,7 +4760,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:15.784Z"
+    "updatedAt": "2026-09-03T21:12:30.914Z"
   },
   {
     "productId": "nailstudy:10027187",
@@ -4780,7 +4780,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:15.945Z"
+    "updatedAt": "2026-09-03T21:12:31.065Z"
   },
   {
     "productId": "cutienail:10006327",
@@ -4798,7 +4798,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:16.098Z"
+    "updatedAt": "2026-09-03T21:12:31.227Z"
   },
   {
     "productId": "nailstudy:10000040",
@@ -4818,7 +4818,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:16.254Z"
+    "updatedAt": "2026-09-03T21:12:31.390Z"
   },
   {
     "productId": "g-nail:10047890",
@@ -4836,7 +4836,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:16.412Z"
+    "updatedAt": "2026-09-03T21:12:31.839Z"
   },
   {
     "productId": "cutienail:10006195",
@@ -4854,7 +4854,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:16.432Z"
+    "updatedAt": "2026-09-03T21:12:31.991Z"
   },
   {
     "productId": "nailstudy:10039822",
@@ -4872,7 +4872,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:16.592Z"
+    "updatedAt": "2026-09-03T21:12:32.155Z"
   },
   {
     "productId": "elelerueru:10010831",
@@ -4892,7 +4892,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:16.753Z"
+    "updatedAt": "2026-09-03T21:12:32.312Z"
   },
   {
     "productId": "netsbee:10033214",
@@ -4910,7 +4910,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:16.914Z"
+    "updatedAt": "2026-09-03T21:12:32.485Z"
   },
   {
     "productId": "elelerueru:10010919",
@@ -4931,7 +4931,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:17.076Z"
+    "updatedAt": "2026-09-03T21:12:32.638Z"
   },
   {
     "productId": "netsbee:10042198",
@@ -4951,7 +4951,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:17.492Z"
+    "updatedAt": "2026-09-03T21:12:32.801Z"
   },
   {
     "productId": "callaca:10006701",
@@ -4969,7 +4969,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:17.652Z"
+    "updatedAt": "2026-09-03T21:12:32.963Z"
   },
   {
     "productId": "netsbee:10052151",
@@ -4987,7 +4987,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:17.810Z"
+    "updatedAt": "2026-09-03T21:12:33.123Z"
   },
   {
     "productId": "cutienail:10008124",
@@ -5007,7 +5007,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:18.237Z"
+    "updatedAt": "2026-09-03T21:12:33.289Z"
   },
   {
     "productId": "nailco:10005097",
@@ -5025,7 +5025,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:18.391Z"
+    "updatedAt": "2026-09-03T21:12:33.469Z"
   },
   {
     "productId": "elelerueru:10011058",
@@ -5045,7 +5045,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:18.552Z"
+    "updatedAt": "2026-09-03T21:12:33.622Z"
   },
   {
     "productId": "nailnotonya:10000062",
@@ -5063,7 +5063,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:18.705Z"
+    "updatedAt": "2026-09-03T21:12:33.778Z"
   },
   {
     "productId": "cutienail:10014245",
@@ -5083,7 +5083,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:18.861Z"
+    "updatedAt": "2026-09-03T21:12:33.947Z"
   },
   {
     "productId": "elelerueru:10011354",
@@ -5103,7 +5103,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:19.284Z"
+    "updatedAt": "2026-09-03T21:12:34.110Z"
   },
   {
     "productId": "elelerueru:10010660",
@@ -5123,7 +5123,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:19.440Z"
+    "updatedAt": "2026-09-03T21:12:34.268Z"
   },
   {
     "productId": "nailco:10005965",
@@ -5141,7 +5141,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:19.601Z"
+    "updatedAt": "2026-09-03T21:12:34.427Z"
   },
   {
     "productId": "callaca:10022540",
@@ -5162,7 +5162,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:19.755Z"
+    "updatedAt": "2026-09-03T21:12:34.582Z"
   },
   {
     "productId": "londobell:10000389",
@@ -5180,7 +5180,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:21.895Z"
+    "updatedAt": "2026-09-03T21:12:36.718Z"
   },
   {
     "productId": "eyelove:10000407",
@@ -5200,7 +5200,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:22.068Z"
+    "updatedAt": "2026-09-03T21:12:36.890Z"
   },
   {
     "productId": "andbelle:10000367",
@@ -5220,7 +5220,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:22.510Z"
+    "updatedAt": "2026-09-03T21:12:37.051Z"
   },
   {
     "productId": "cuteair:10036157",
@@ -5240,7 +5240,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:22.942Z"
+    "updatedAt": "2026-09-03T21:12:37.223Z"
   },
   {
     "productId": "candy:10455117",
@@ -5261,7 +5261,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:23.358Z"
+    "updatedAt": "2026-09-03T21:12:37.389Z"
   },
   {
     "productId": "candy:10452874",
@@ -5281,7 +5281,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:23.513Z"
+    "updatedAt": "2026-09-03T21:12:37.544Z"
   },
   {
     "productId": "candy:10455690",
@@ -5299,7 +5299,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:23.929Z"
+    "updatedAt": "2026-09-03T21:12:37.701Z"
   },
   {
     "productId": "eyelove:10001061",
@@ -5319,7 +5319,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:24.109Z"
+    "updatedAt": "2026-09-03T21:12:37.868Z"
   },
   {
     "productId": "birays:10209654",
@@ -5339,7 +5339,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:24.276Z"
+    "updatedAt": "2026-09-03T21:12:38.038Z"
   },
   {
     "productId": "auc-cosmestreet:10002329",
@@ -5357,7 +5357,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:24.431Z"
+    "updatedAt": "2026-09-03T21:12:38.207Z"
   },
   {
     "productId": "candy:10455034",
@@ -5377,7 +5377,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:24.849Z"
+    "updatedAt": "2026-09-03T21:12:38.373Z"
   },
   {
     "productId": "cuteair:10033898",
@@ -5397,7 +5397,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:24.870Z"
+    "updatedAt": "2026-09-03T21:12:38.394Z"
   },
   {
     "productId": "auc-cosmestreet:10003962",
@@ -5415,7 +5415,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:12:25.192Z"
+    "updatedAt": "2026-09-03T21:12:38.730Z"
   },
   {
     "productId": "candy:10511226",
@@ -5436,7 +5436,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:12:25.030Z"
+    "updatedAt": "2026-09-03T21:12:38.556Z"
   },
   {
     "productId": "auc-cosmestreet:10002265",
@@ -5454,7 +5454,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:12:25.349Z"
+    "updatedAt": "2026-09-03T21:12:38.896Z"
   },
   {
     "productId": "andbelle:10000433",
@@ -5474,7 +5474,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:25.536Z"
+    "updatedAt": "2026-09-03T21:12:39.073Z"
   },
   {
     "productId": "birays:10210529",
@@ -5492,7 +5492,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:25.711Z"
+    "updatedAt": "2026-09-03T21:12:39.232Z"
   },
   {
     "productId": "birays:10207416",
@@ -5512,7 +5512,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:25.734Z"
+    "updatedAt": "2026-09-03T21:12:39.254Z"
   },
   {
     "productId": "cuteair:10036000",
@@ -5533,7 +5533,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:25.902Z"
+    "updatedAt": "2026-09-03T21:12:39.421Z"
   },
   {
     "productId": "auc-cosmestreet:10002335",
@@ -5551,7 +5551,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:26.059Z"
+    "updatedAt": "2026-09-03T21:12:39.579Z"
   },
   {
     "productId": "gapou:10000117",
@@ -5569,7 +5569,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:26.480Z"
+    "updatedAt": "2026-09-03T21:12:39.740Z"
   },
   {
     "productId": "auc-athomecare:10005183",
@@ -5587,7 +5587,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:26.639Z"
+    "updatedAt": "2026-09-03T21:12:39.898Z"
   },
   {
     "productId": "auc-cosmestreet:10002266",
@@ -5605,7 +5605,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:26.823Z"
+    "updatedAt": "2026-09-03T21:12:40.067Z"
   },
   {
     "productId": "b-faith:10001272",
@@ -5623,7 +5623,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:26.983Z"
+    "updatedAt": "2026-09-03T21:12:40.222Z"
   },
   {
     "productId": "londobell:10000680",
@@ -5641,7 +5641,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:27.424Z"
+    "updatedAt": "2026-09-03T21:12:40.395Z"
   },
   {
     "productId": "londobell:10000681",
@@ -5659,7 +5659,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:27.577Z"
+    "updatedAt": "2026-09-03T21:12:40.969Z"
   },
   {
     "productId": "londobell:10000712",
@@ -5677,7 +5677,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:28.019Z"
+    "updatedAt": "2026-09-03T21:12:41.132Z"
   },
   {
     "productId": "beautyhair:10011593",
@@ -5695,7 +5695,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:28.181Z"
+    "updatedAt": "2026-09-03T21:12:41.292Z"
   },
   {
     "productId": "candy:10483427",
@@ -5731,7 +5731,7 @@
     "quantity": 1,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:31.005Z"
+    "updatedAt": "2026-09-03T21:12:43.494Z"
   },
   {
     "productId": "0101marui:12573457",
@@ -5749,7 +5749,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:31.166Z"
+    "updatedAt": "2026-09-03T21:12:43.659Z"
   },
   {
     "productId": "0101marui:12573404",
@@ -5769,7 +5769,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:31.325Z"
+    "updatedAt": "2026-09-03T21:12:43.827Z"
   },
   {
     "productId": "0101marui:12573421",
@@ -5787,7 +5787,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:31.485Z"
+    "updatedAt": "2026-09-03T21:12:43.987Z"
   },
   {
     "productId": "0101marui:12670273",
@@ -5805,7 +5805,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:31.662Z"
+    "updatedAt": "2026-09-03T21:12:44.156Z"
   },
   {
     "productId": "0101marui:12573496",
@@ -5823,7 +5823,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:32.091Z"
+    "updatedAt": "2026-09-03T21:12:44.321Z"
   },
   {
     "productId": "0101marui:13007591",
@@ -5841,7 +5841,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:32.253Z"
+    "updatedAt": "2026-09-03T21:12:44.490Z"
   },
   {
     "productId": "0101marui:12807935",
@@ -5859,7 +5859,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:32.415Z"
+    "updatedAt": "2026-09-03T21:12:44.658Z"
   },
   {
     "productId": "biccamera:14778762",
@@ -5877,7 +5877,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:32.572Z"
+    "updatedAt": "2026-09-03T21:12:44.818Z"
   },
   {
     "productId": "0101marui:12477642",
@@ -5895,7 +5895,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:32.730Z"
+    "updatedAt": "2026-09-03T21:12:44.982Z"
   },
   {
     "productId": "0101marui:12573306",
@@ -5913,7 +5913,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:32.888Z"
+    "updatedAt": "2026-09-03T21:12:45.148Z"
   },
   {
     "productId": "0101marui:12748468",
@@ -5931,7 +5931,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:33.964Z"
+    "updatedAt": "2026-09-03T21:12:45.954Z"
   },
   {
     "productId": "0101marui:12573183",
@@ -5949,7 +5949,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:33.214Z"
+    "updatedAt": "2026-09-03T21:12:45.477Z"
   },
   {
     "productId": "0101marui:12670270",
@@ -5967,7 +5967,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:33.642Z"
+    "updatedAt": "2026-09-03T21:12:45.640Z"
   },
   {
     "productId": "plazastyle:10031562",
@@ -5985,7 +5985,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:33.799Z"
+    "updatedAt": "2026-09-03T21:12:45.797Z"
   },
   {
     "productId": "0101marui:12573452",
@@ -6005,7 +6005,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:33.042Z"
+    "updatedAt": "2026-09-03T21:12:45.308Z"
   },
   {
     "productId": "rakuten24:11402386",
@@ -6023,7 +6023,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:34.131Z"
+    "updatedAt": "2026-09-03T21:12:46.518Z"
   },
   {
     "productId": "housing-reformfair:10129291",
@@ -6061,7 +6061,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:34.471Z"
+    "updatedAt": "2026-09-03T21:12:46.893Z"
   },
   {
     "productId": "hosket:10131935",
@@ -6079,7 +6079,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:35.045Z"
+    "updatedAt": "2026-09-03T21:12:47.062Z"
   },
   {
     "productId": "nova2021:10228126",
@@ -6099,7 +6099,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-01T21:12:45.922Z"
+    "updatedAt": "2026-09-03T21:12:47.230Z"
   },
   {
     "productId": "rakuten24-cosmetics:10053568",
@@ -6117,7 +6117,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:35.362Z"
+    "updatedAt": "2026-09-03T21:12:47.385Z"
   },
   {
     "productId": "plazastyle:10040324",
@@ -6135,7 +6135,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:35.515Z"
+    "updatedAt": "2026-09-03T21:12:47.543Z"
   },
   {
     "productId": "plazastyle:10033748",
@@ -6153,7 +6153,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:35.709Z"
+    "updatedAt": "2026-09-03T21:12:47.706Z"
   },
   {
     "productId": "plazastyle:10033747",
@@ -6171,7 +6171,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-01T10:38:42.003Z"
+    "updatedAt": "2026-09-03T21:12:47.875Z"
   },
   {
     "productId": "shopaz:10148873",
@@ -6227,7 +6227,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:36.639Z"
+    "updatedAt": "2026-09-03T21:12:48.398Z"
   },
   {
     "productId": "rakuten24-cosmetics:10053561",
@@ -6245,7 +6245,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-01T10:38:42.709Z"
+    "updatedAt": "2026-09-03T21:12:48.585Z"
   },
   {
     "productId": "0101marui:13223486",
@@ -6263,7 +6263,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:36.971Z"
+    "updatedAt": "2026-09-03T21:12:48.744Z"
   },
   {
     "productId": "jellynail:10000455",
@@ -6281,7 +6281,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:39.060Z"
+    "updatedAt": "2026-09-03T21:12:50.824Z"
   },
   {
     "productId": "jellynail:10000503",
@@ -6299,7 +6299,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:39.496Z"
+    "updatedAt": "2026-09-03T21:12:50.990Z"
   },
   {
     "productId": "jellynail:10000666",
@@ -6317,7 +6317,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:39.656Z"
+    "updatedAt": "2026-09-03T21:12:51.164Z"
   },
   {
     "productId": "jellynail:10000513",
@@ -6335,7 +6335,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:39.820Z"
+    "updatedAt": "2026-09-03T21:12:51.324Z"
   },
   {
     "productId": "jellynail:10000621",
@@ -6353,7 +6353,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:39.979Z"
+    "updatedAt": "2026-09-03T21:12:51.483Z"
   },
   {
     "productId": "jellynail:10000561",
@@ -6371,7 +6371,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:40.138Z"
+    "updatedAt": "2026-09-03T21:12:51.652Z"
   },
   {
     "productId": "jellynail:10000537",
@@ -6389,7 +6389,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:40.300Z"
+    "updatedAt": "2026-09-03T21:12:51.816Z"
   },
   {
     "productId": "jellynail:10000514",
@@ -6407,7 +6407,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:40.460Z"
+    "updatedAt": "2026-09-03T21:12:52.008Z"
   },
   {
     "productId": "jellynail:10000487",
@@ -6425,7 +6425,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:40.619Z"
+    "updatedAt": "2026-09-03T21:12:52.169Z"
   },
   {
     "productId": "jellynail:10000667",
@@ -6443,7 +6443,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:40.773Z"
+    "updatedAt": "2026-09-03T21:12:52.327Z"
   },
   {
     "productId": "jellynail:10000495",
@@ -6461,7 +6461,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:40.931Z"
+    "updatedAt": "2026-09-03T21:12:52.484Z"
   },
   {
     "productId": "jellynail:10000497",
@@ -6481,7 +6481,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:41.095Z"
+    "updatedAt": "2026-09-03T21:12:52.643Z"
   },
   {
     "productId": "jellynail:10000622",
@@ -6499,7 +6499,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:41.251Z"
+    "updatedAt": "2026-09-03T21:12:52.809Z"
   },
   {
     "productId": "jellynail:10000494",
@@ -6517,7 +6517,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:41.275Z"
+    "updatedAt": "2026-09-03T21:12:52.833Z"
   },
   {
     "productId": "jellynail:10000536",
@@ -6535,7 +6535,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:41.438Z"
+    "updatedAt": "2026-09-03T21:12:53.296Z"
   },
   {
     "productId": "jellynail:10000665",
@@ -6553,7 +6553,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:41.867Z"
+    "updatedAt": "2026-09-03T21:12:53.482Z"
   },
   {
     "productId": "jellynail:10000582",
@@ -6571,7 +6571,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:42.030Z"
+    "updatedAt": "2026-09-03T21:12:53.641Z"
   },
   {
     "productId": "jellynail:10000535",
@@ -6589,7 +6589,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:42.193Z"
+    "updatedAt": "2026-09-03T21:12:53.802Z"
   },
   {
     "productId": "jellynail:10000504",
@@ -6607,7 +6607,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:42.353Z"
+    "updatedAt": "2026-09-03T21:12:53.962Z"
   },
   {
     "productId": "jellynail:10000523",
@@ -6625,7 +6625,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:42.510Z"
+    "updatedAt": "2026-09-03T21:12:54.138Z"
   },
   {
     "productId": "jellynail:10000502",
@@ -6643,7 +6643,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:42.672Z"
+    "updatedAt": "2026-09-03T21:12:54.321Z"
   },
   {
     "productId": "jellynail:10000507",
@@ -6661,7 +6661,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:42.846Z"
+    "updatedAt": "2026-09-03T21:12:54.497Z"
   },
   {
     "productId": "jellynail:10000530",
@@ -6679,7 +6679,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:43.004Z"
+    "updatedAt": "2026-09-03T21:12:54.676Z"
   },
   {
     "productId": "jellynail:10000499",
@@ -6697,7 +6697,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:43.162Z"
+    "updatedAt": "2026-09-03T21:12:54.832Z"
   },
   {
     "productId": "jellynail:10000584",
@@ -6733,7 +6733,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:43.484Z"
+    "updatedAt": "2026-09-03T21:12:55.014Z"
   },
   {
     "productId": "jellynail:10000532",
@@ -6751,7 +6751,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:43.901Z"
+    "updatedAt": "2026-09-03T21:12:55.176Z"
   },
   {
     "productId": "jellynail:10000506",
@@ -6769,7 +6769,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:44.058Z"
+    "updatedAt": "2026-09-03T21:12:55.338Z"
   },
   {
     "productId": "jellynail:10000660",
@@ -6787,7 +6787,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:44.499Z"
+    "updatedAt": "2026-09-03T21:12:55.529Z"
   },
   {
     "productId": "jellynail:10000697",
@@ -6805,7 +6805,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:44.663Z"
+    "updatedAt": "2026-09-03T21:12:55.708Z"
   },
   {
     "productId": "callaca:10065594",
@@ -6916,7 +6916,7 @@
     "aspSource": "楽天",
     "reviewCount": 0,
     "reviewAverage": 0,
-    "hexColor": "#f9f8f8",
+    "hexColor": "#f8f8f8",
     "colorFamily": "ホワイト",
     "sceneTags": [
       "ロングネイル・ラグジュアリー"
@@ -6927,7 +6927,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:34.310Z"
+    "updatedAt": "2026-09-03T21:12:46.733Z"
   },
   {
     "productId": "1000cut-carpediem:10123679",
@@ -6985,7 +6985,7 @@
   },
   {
     "productId": "cozyspace:10000024",
-    "name": "【本日限定！ポイント2倍】【12ml・18色選べる】アンコーラレッドシリーズ ジェルネイル 赤 マグネットネイル ジェルネイル レッド キャットアイ ネイルジェル カラージェル アートジェル ネイルポリッシュ 磁石で簡単 初心者OK 自宅で簡単プロ仕上げ",
+    "name": "【要エントリー★最大100%ポイントバック】【12ml・18色選べる】アンコーラレッドシリーズ ジェルネイル 赤 マグネットネイル ジェルネイル レッド キャットアイ ネイルジェル カラージェル アートジェル ネイルポリッシュ 磁石で簡単 初心者OK 自宅で簡単プロ仕上げ",
     "price": 990,
     "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/cozyspace/cabinet/aklh/fang_01.jpg",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00ur9vo.4emtb8dd.g00ur9vo.4emtc94a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcozyspace%2Faklh%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcozyspace%2Fi%2F10000024%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
@@ -7001,7 +7001,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:46.729Z"
+    "updatedAt": "2026-09-03T21:12:57.734Z"
   },
   {
     "productId": "eenail:10007820",
@@ -7021,7 +7021,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:22.873Z"
+    "updatedAt": "2026-09-03T21:13:33.195Z"
   },
   {
     "productId": "petitprice:10006628",
@@ -7039,7 +7039,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:01.413Z"
+    "updatedAt": "2026-09-03T21:14:07.711Z"
   },
   {
     "productId": "y2market:10003279",
@@ -7059,7 +7059,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:47.212Z"
+    "updatedAt": "2026-09-03T21:12:58.371Z"
   },
   {
     "productId": "y2market:10003328",
@@ -7079,7 +7079,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:47.237Z"
+    "updatedAt": "2026-09-03T21:12:58.395Z"
   },
   {
     "productId": "g-nail:10040034",
@@ -7097,11 +7097,11 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:47.398Z"
+    "updatedAt": "2026-09-03T21:12:58.564Z"
   },
   {
     "productId": "linogel:10000661",
-    "name": "マグネットネイル 8g マグネットジェル くすみカラー フラッシュマグ キラキラ クリア 透明感 UV LED対応 アートジェル カラージェル ジェルネイル 磁石 セルフネイル リノジェル ジェル ネイル マグ 日本製 16ミクロン",
+    "name": "【スーパーdeal 20%ポイントバック 11(金) 09:59迄】マグネットネイル 8g マグネットジェル くすみカラー フラッシュマグ キラキラ クリア 透明感 UV LED対応 アートジェル カラージェル ジェルネイル 磁石 セルフネイル リノジェル ジェル ネイル マグ 日本製 16ミクロン",
     "price": 1300,
     "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/linogel/cabinet/10433711/11759625/13018317/item0234-rakuten.jpg",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00uix1o.4emtb8a4.g00uix1o.4emtcdcc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flinogel%2F215%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flinogel%2Fi%2F10000661%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
@@ -7119,7 +7119,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:39.255Z"
+    "updatedAt": "2026-09-03T21:13:48.664Z"
   },
   {
     "productId": "elelerueru:10012414",
@@ -7137,7 +7137,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:59.451Z"
+    "updatedAt": "2026-09-03T21:13:11.269Z"
   },
   {
     "productId": "g-nail:10054818",
@@ -7157,7 +7157,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:47.916Z"
+    "updatedAt": "2026-09-03T21:12:59.094Z"
   },
   {
     "productId": "netsbee:10023592",
@@ -7175,7 +7175,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:48.085Z"
+    "updatedAt": "2026-09-03T21:12:59.262Z"
   },
   {
     "productId": "urbanbloomhonten:10001645",
@@ -7198,7 +7198,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:48.237Z"
+    "updatedAt": "2026-09-03T21:12:59.423Z"
   },
   {
     "productId": "callaca:10066151",
@@ -7216,7 +7216,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:48.412Z"
+    "updatedAt": "2026-09-03T21:12:59.986Z"
   },
   {
     "productId": "mamachan443:10000524",
@@ -7234,7 +7234,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:48.981Z"
+    "updatedAt": "2026-09-03T21:13:00.163Z"
   },
   {
     "productId": "m-si-ring:10010102",
@@ -7252,7 +7252,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-01T21:13:00.942Z"
+    "updatedAt": "2026-09-03T21:13:00.505Z"
   },
   {
     "productId": "callaca:10074141",
@@ -7272,7 +7272,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:49.479Z"
+    "updatedAt": "2026-09-03T21:13:00.673Z"
   },
   {
     "productId": "callaca:10057082",
@@ -7328,7 +7328,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:49.988Z"
+    "updatedAt": "2026-09-03T21:13:01.574Z"
   },
   {
     "productId": "callaca:10069197",
@@ -7367,7 +7367,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:50.593Z"
+    "updatedAt": "2026-09-03T21:13:01.965Z"
   },
   {
     "productId": "nailstudy:10047439",
@@ -7387,7 +7387,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-01T10:38:56.816Z"
+    "updatedAt": "2026-09-03T21:13:02.148Z"
   },
   {
     "productId": "papass:10016463",
@@ -7447,7 +7447,7 @@
     "quantity": 1,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-01T21:13:02.896Z"
+    "updatedAt": "2026-09-03T21:13:02.666Z"
   },
   {
     "productId": "rizelife-hacks:10010764",
@@ -7468,7 +7468,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:51.453Z"
+    "updatedAt": "2026-09-03T21:13:02.980Z"
   },
   {
     "productId": "nailstudy:10037044",
@@ -7488,7 +7488,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-01T10:38:57.740Z"
+    "updatedAt": "2026-09-03T21:13:03.141Z"
   },
   {
     "productId": "nailstudy:10053479",
@@ -7506,7 +7506,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:12.060Z"
+    "updatedAt": "2026-09-03T21:13:23.087Z"
   },
   {
     "productId": "callaca:10058416",
@@ -7524,7 +7524,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:51.960Z"
+    "updatedAt": "2026-09-03T21:13:03.483Z"
   },
   {
     "productId": "hobbyroute:10014274",
@@ -7542,7 +7542,7 @@
     "quantity": 2,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:52.128Z"
+    "updatedAt": "2026-09-03T21:13:03.671Z"
   },
   {
     "productId": "kiranavi:10012997",
@@ -7569,7 +7569,7 @@
     "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/deconail-seisakujo/cabinet/eventmain/nt-ao_50.jpg",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qml3o.4emtb14a.g00qml3o.4emtcd73/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdeconail-seisakujo%2Fnt-ao%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdeconail-seisakujo%2Fi%2F10004639%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
     "aspSource": "楽天",
-    "reviewCount": 109,
+    "reviewCount": 110,
     "reviewAverage": 4.45,
     "hexColor": "#e5e4dd",
     "colorFamily": "イエロー",
@@ -7578,7 +7578,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:12.579Z"
+    "updatedAt": "2026-09-03T21:14:16.081Z"
   },
   {
     "productId": "eenail:10007763",
@@ -7600,7 +7600,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:54.538Z"
+    "updatedAt": "2026-09-03T21:13:05.983Z"
   },
   {
     "productId": "decopanic:10000877",
@@ -7620,11 +7620,11 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:54.695Z"
+    "updatedAt": "2026-09-03T21:13:06.909Z"
   },
   {
     "productId": "cocobeaumo:10002024",
-    "name": "【対象アイテム3個購入でほぼ1個無料】ジェリーバイ デコラティブネイル カラージェル 21色 HEMAフリー ジェリバイ パール ラメ オーロラ ゴールド シルバー ボルドー ベージュ モーヴピンク 地爪風 SHOBIDO 粧美堂 ネイル ジェルネイル ジェル UV ぷっくり 美爪 つるつる",
+    "name": "【先着50名50%OFFクーポン】ジェリーバイ デコラティブネイル カラージェル 21色 HEMAフリー ジェリバイ パール ラメ オーロラ ゴールド シルバー ボルドー ベージュ モーヴピンク 地爪風 SHOBIDO 粧美堂 ネイル ジェルネイル ジェル UV ぷっくり 美爪 つるつる",
     "price": 880,
     "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/cocobeaumo/cabinet/12409579/260821_tn12810_12824.jpg",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00sqyfo.4emtb43e.g00sqyfo.4emtc4a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcocobeaumo%2Ftn12810_12824%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcocobeaumo%2Fi%2F10002024%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
@@ -7639,10 +7639,10 @@
     "finishTypes": [
       "グリッター"
     ],
-    "quantity": 3,
+    "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:14:12.818Z"
+    "updatedAt": "2026-09-03T21:14:16.877Z"
   },
   {
     "productId": "arknail:10001803",
@@ -7660,11 +7660,11 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:01.657Z"
+    "updatedAt": "2026-09-03T21:13:13.372Z"
   },
   {
     "productId": "linogel:10000635",
-    "name": "全色セット特典付 マグネットジェル 8g マグネットネイル くすみカラー フラッシュマグ キラキラ クリア 透明感 UV LED対応 アートジェル カラージェル ジェルネイル 磁石 セルフネイル リノジェル ジェル ネイル マグ",
+    "name": "【スーパーdeal 20%ポイントバック 11(金) 09:59迄】全色セット特典付 マグネットジェル 8g マグネットネイル くすみカラー フラッシュマグ キラキラ クリア 透明感 UV LED対応 アートジェル カラージェル ジェルネイル 磁石 セルフネイル リノジェル ジェル ネイル マグ",
     "price": 1300,
     "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/linogel/cabinet/12251466/imgrc0139301280.jpg",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00uix1o.4emtb8a4.g00uix1o.4emtcdcc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flinogel%2F203%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flinogel%2Fi%2F10000635%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
@@ -7682,7 +7682,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:22.816Z"
+    "updatedAt": "2026-09-03T21:14:18.367Z"
   },
   {
     "productId": "petitprice:10006374",
@@ -7702,7 +7702,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:07.183Z"
+    "updatedAt": "2026-09-03T21:14:12.102Z"
   },
   {
     "productId": "nailmania:10006051",
@@ -7722,7 +7722,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:07.540Z"
+    "updatedAt": "2026-09-03T21:14:12.364Z"
   },
   {
     "productId": "petitprice:10006371",
@@ -7743,7 +7743,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:28.642Z"
+    "updatedAt": "2026-09-03T21:13:39.506Z"
   },
   {
     "productId": "petitprice:10006375",
@@ -7763,7 +7763,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:22.920Z"
+    "updatedAt": "2026-09-03T21:13:33.241Z"
   },
   {
     "productId": "elelerueru:10006722",
@@ -7783,7 +7783,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:56.434Z"
+    "updatedAt": "2026-09-03T21:13:08.757Z"
   },
   {
     "productId": "elelerueru:10006622",
@@ -7801,7 +7801,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:56.590Z"
+    "updatedAt": "2026-09-03T21:13:08.923Z"
   },
   {
     "productId": "petitprice:10006588",
@@ -7822,7 +7822,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:28.664Z"
+    "updatedAt": "2026-09-03T21:13:39.527Z"
   },
   {
     "productId": "nail-koubouu:10012546",
@@ -7840,7 +7840,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:38.898Z"
+    "updatedAt": "2026-09-03T21:13:47.541Z"
   },
   {
     "productId": "elelerueru:10012713",
@@ -7862,7 +7862,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:12:57.495Z"
+    "updatedAt": "2026-09-03T21:13:09.501Z"
   },
   {
     "productId": "nailco:10005734",
@@ -7880,7 +7880,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:57.659Z"
+    "updatedAt": "2026-09-03T21:13:09.668Z"
   },
   {
     "productId": "decopanic:10000913",
@@ -7900,7 +7900,7 @@
     "quantity": 1,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:57.822Z"
+    "updatedAt": "2026-09-03T21:13:09.831Z"
   },
   {
     "productId": "oyanagi:10001143",
@@ -7921,7 +7921,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:13:15.819Z"
+    "updatedAt": "2026-09-03T21:13:27.356Z"
   },
   {
     "productId": "elelerueru:10000483",
@@ -7939,7 +7939,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:58.150Z"
+    "updatedAt": "2026-09-03T21:13:10.198Z"
   },
   {
     "productId": "petitprice:10006608",
@@ -7959,7 +7959,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:08.150Z"
+    "updatedAt": "2026-09-03T21:14:13.038Z"
   },
   {
     "productId": "elelerueru:10006778",
@@ -7979,7 +7979,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:12:58.484Z"
+    "updatedAt": "2026-09-03T21:13:10.542Z"
   },
   {
     "productId": "cutienail:10007236",
@@ -7997,7 +7997,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:58.917Z"
+    "updatedAt": "2026-09-03T21:13:10.697Z"
   },
   {
     "productId": "petitprice:10006487",
@@ -8017,7 +8017,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:08.128Z"
+    "updatedAt": "2026-09-03T21:14:13.017Z"
   },
   {
     "productId": "elelerueru:10010639",
@@ -8035,7 +8035,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:59.271Z"
+    "updatedAt": "2026-09-03T21:13:11.090Z"
   },
   {
     "productId": "elelerueru:10011169",
@@ -8055,12 +8055,12 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:59.430Z"
+    "updatedAt": "2026-09-03T21:13:11.249Z"
   },
   {
     "productId": "nailsmile:10001169",
     "name": "【&iii 白銀 UNICORN】アンドアイ ネイル ネイルアート ネイルグッズ ジェルネイル ネイルジェル カラージェル シルバー グリッター ラメ キラキラ ユニコーン セルフネイル ニュアンス 高発色 アートジェル 上品 パーツ フレンチ ラインアート グリッタージェル",
-    "price": 980,
+    "price": 931,
     "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/nailsmile/cabinet/itemimage/001/item-26052903.jpg",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tw0po.4emtb2ec.g00tw0po.4emtcb0f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnailsmile%2Fitem-26052903%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnailsmile%2Fi%2F10001169%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
     "aspSource": "楽天",
@@ -8075,7 +8075,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:14:08.197Z"
+    "updatedAt": "2026-09-03T21:14:13.083Z"
   },
   {
     "productId": "elelerueru:10012354",
@@ -8095,7 +8095,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:08.218Z"
+    "updatedAt": "2026-09-03T21:14:13.260Z"
   },
   {
     "productId": "elelerueru:10000515",
@@ -8113,7 +8113,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:02.138Z"
+    "updatedAt": "2026-09-03T21:13:13.590Z"
   },
   {
     "productId": "nailstudy:10023422",
@@ -8131,7 +8131,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:02.296Z"
+    "updatedAt": "2026-09-03T21:13:13.754Z"
   },
   {
     "productId": "elelerueru:10006759",
@@ -8153,7 +8153,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:13:02.461Z"
+    "updatedAt": "2026-09-03T21:13:13.930Z"
   },
   {
     "productId": "elelerueru:10012101",
@@ -8173,7 +8173,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:02.614Z"
+    "updatedAt": "2026-09-03T21:13:14.101Z"
   },
   {
     "productId": "urbanbloomhonten:10001604",
@@ -8252,7 +8252,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:25.225Z"
+    "updatedAt": "2026-09-03T21:13:50.177Z"
   },
   {
     "productId": "callaca:10004011",
@@ -8270,7 +8270,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:13:03.434Z"
+    "updatedAt": "2026-09-03T21:13:14.952Z"
   },
   {
     "productId": "urbanbloomhonten:10001551",
@@ -8288,7 +8288,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:03.598Z"
+    "updatedAt": "2026-09-03T21:13:15.295Z"
   },
   {
     "productId": "ainail:10003613",
@@ -8346,7 +8346,7 @@
     "quantity": 1,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:11.524Z"
+    "updatedAt": "2026-09-03T21:13:22.561Z"
   },
   {
     "productId": "rednails:10159714",
@@ -8364,7 +8364,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:04.527Z"
+    "updatedAt": "2026-09-03T21:13:16.016Z"
   },
   {
     "productId": "nailstudy:10023371",
@@ -8382,7 +8382,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:04.685Z"
+    "updatedAt": "2026-09-03T21:13:16.219Z"
   },
   {
     "productId": "nailstudy:10038724",
@@ -8400,7 +8400,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:05.132Z"
+    "updatedAt": "2026-09-03T21:13:16.389Z"
   },
   {
     "productId": "ainail:10003650",
@@ -8420,7 +8420,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:05.307Z"
+    "updatedAt": "2026-09-03T21:13:16.560Z"
   },
   {
     "productId": "ainail:10002489",
@@ -8438,7 +8438,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:05.476Z"
+    "updatedAt": "2026-09-03T21:13:16.726Z"
   },
   {
     "productId": "callaca:10069963",
@@ -8478,7 +8478,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-01T10:39:13.172Z"
+    "updatedAt": "2026-09-03T21:13:17.057Z"
   },
   {
     "productId": "urbanbloomhonten:10001713",
@@ -8501,7 +8501,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-01T21:13:18.728Z"
+    "updatedAt": "2026-09-03T21:13:17.215Z"
   },
   {
     "productId": "callaca:10065324",
@@ -8519,7 +8519,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:06.162Z"
+    "updatedAt": "2026-09-03T21:13:17.378Z"
   },
   {
     "productId": "cutienail:10027543",
@@ -8537,7 +8537,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:06.331Z"
+    "updatedAt": "2026-09-03T21:13:17.546Z"
   },
   {
     "productId": "studio-nail:10023812",
@@ -8555,7 +8555,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:06.493Z"
+    "updatedAt": "2026-09-03T21:13:17.713Z"
   },
   {
     "productId": "nailstudy:10053290",
@@ -8594,7 +8594,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:13:06.827Z"
+    "updatedAt": "2026-09-03T21:13:18.066Z"
   },
   {
     "productId": "ainail:10003663",
@@ -8632,7 +8632,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:09.125Z"
+    "updatedAt": "2026-09-03T21:13:20.284Z"
   },
   {
     "productId": "nailstudy:10029174",
@@ -8650,7 +8650,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:09.296Z"
+    "updatedAt": "2026-09-03T21:13:20.459Z"
   },
   {
     "productId": "nailstudy:10037749",
@@ -8668,7 +8668,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:09.756Z"
+    "updatedAt": "2026-09-03T21:13:20.630Z"
   },
   {
     "productId": "urbanbloomhonten:10001636",
@@ -8712,7 +8712,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:13:10.486Z"
+    "updatedAt": "2026-09-03T21:13:20.956Z"
   },
   {
     "productId": "urbanbloomhonten:10001585",
@@ -8734,7 +8734,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:13:10.643Z"
+    "updatedAt": "2026-09-03T21:13:21.150Z"
   },
   {
     "productId": "nailstudy:10023392",
@@ -8752,7 +8752,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-01T10:39:18.275Z"
+    "updatedAt": "2026-09-03T21:13:21.311Z"
   },
   {
     "productId": "nailstudy:10048504",
@@ -8770,7 +8770,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:10.984Z"
+    "updatedAt": "2026-09-03T21:13:21.479Z"
   },
   {
     "productId": "fiorello:10006984",
@@ -8806,7 +8806,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:11.342Z"
+    "updatedAt": "2026-09-03T21:13:21.846Z"
   },
   {
     "productId": "emi-nal:10001260",
@@ -8824,7 +8824,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:11.503Z"
+    "updatedAt": "2026-09-03T21:13:22.538Z"
   },
   {
     "productId": "urbanbloomhonten:10000508",
@@ -8864,7 +8864,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:11.860Z"
+    "updatedAt": "2026-09-03T21:13:22.913Z"
   },
   {
     "productId": "nailforall:10008564",
@@ -8882,7 +8882,7 @@
     "quantity": 10,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:12.038Z"
+    "updatedAt": "2026-09-03T21:13:23.066Z"
   },
   {
     "productId": "nailstudy:10054633",
@@ -8900,7 +8900,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:12.222Z"
+    "updatedAt": "2026-09-03T21:13:23.553Z"
   },
   {
     "productId": "gramsky2nd:10003828",
@@ -8918,7 +8918,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:12.222Z"
+    "updatedAt": "2026-09-03T21:13:23.553Z"
   },
   {
     "productId": "urbanbloomhonten:10000585",
@@ -8958,7 +8958,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:12.535Z"
+    "updatedAt": "2026-09-03T21:13:23.926Z"
   },
   {
     "productId": "callaca:10072146",
@@ -8998,7 +8998,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:13.137Z"
+    "updatedAt": "2026-09-03T21:13:24.244Z"
   },
   {
     "productId": "urbanbloomhonten:10001539",
@@ -9016,7 +9016,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:13.294Z"
+    "updatedAt": "2026-09-03T21:13:24.411Z"
   },
   {
     "productId": "nailstudy:10055002",
@@ -9056,7 +9056,7 @@
   },
   {
     "productId": "cozyspace:10000033",
-    "name": "【12ml・8色選べる】森語グリーン 春夏に大人気 マグネットネイル グリーン ジェルネイル キャットアイ ネイルジェル カラージェル アートジェル ネイルポリッシュ 磁石で簡単 初心者OK 自宅で簡単プロ仕上げ ギフト セルフネイル",
+    "name": "【要エントリー★最大100%ポイントバック】【12ml・8色選べる】森語グリーン 春夏に大人気 マグネットネイル グリーン ジェルネイル キャットアイ ネイルジェル カラージェル アートジェル ネイルポリッシュ 磁石で簡単 初心者OK 自宅で簡単プロ仕上げ ギフト セルフネイル",
     "price": 1480,
     "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/cozyspace/cabinet/bjlmy/fangg_01.jpg",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00ur9vo.4emtb8dd.g00ur9vo.4emtc94a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcozyspace%2Fbjlmy%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcozyspace%2Fi%2F10000033%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
@@ -9074,7 +9074,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:15.713Z"
+    "updatedAt": "2026-09-03T21:13:27.249Z"
   },
   {
     "productId": "callaca:10049732",
@@ -9094,7 +9094,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:13:15.984Z"
+    "updatedAt": "2026-09-03T21:13:27.523Z"
   },
   {
     "productId": "elelerueru:10012418",
@@ -9112,7 +9112,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:04.418Z"
+    "updatedAt": "2026-09-03T21:14:09.882Z"
   },
   {
     "productId": "callaca:10070118",
@@ -9130,7 +9130,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:16.304Z"
+    "updatedAt": "2026-09-03T21:13:27.851Z"
   },
   {
     "productId": "callaca:10073525",
@@ -9150,7 +9150,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:30.682Z"
+    "updatedAt": "2026-09-03T21:13:40.742Z"
   },
   {
     "productId": "elelerueru:10000517",
@@ -9170,7 +9170,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:13:16.646Z"
+    "updatedAt": "2026-09-03T21:13:28.342Z"
   },
   {
     "productId": "petitprice:10006372",
@@ -9190,7 +9190,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:13:24.229Z"
+    "updatedAt": "2026-09-03T21:13:35.581Z"
   },
   {
     "productId": "nelpara:10030567",
@@ -9208,7 +9208,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-01T21:13:29.743Z"
+    "updatedAt": "2026-09-03T21:13:28.692Z"
   },
   {
     "productId": "pro-nailbox:10000386",
@@ -9248,7 +9248,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:13:25.203Z"
+    "updatedAt": "2026-09-03T21:13:36.267Z"
   },
   {
     "productId": "gramsky2nd:10002036",
@@ -9266,7 +9266,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:17.856Z"
+    "updatedAt": "2026-09-03T21:13:29.021Z"
   },
   {
     "productId": "nailstudy:10053487",
@@ -9284,7 +9284,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-01T21:13:01.420Z"
+    "updatedAt": "2026-09-03T21:13:29.041Z"
   },
   {
     "productId": "nailstudy:10023784",
@@ -9338,7 +9338,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:18.740Z"
+    "updatedAt": "2026-09-03T21:13:29.980Z"
   },
   {
     "productId": "nailstudy:10023416",
@@ -9410,7 +9410,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:19.690Z"
+    "updatedAt": "2026-09-03T21:13:30.539Z"
   },
   {
     "productId": "urbanbloomhonten:10001537",
@@ -9430,7 +9430,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:20.138Z"
+    "updatedAt": "2026-09-03T21:13:30.701Z"
   },
   {
     "productId": "kiranavi:10012981",
@@ -9448,7 +9448,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-01T21:13:32.153Z"
+    "updatedAt": "2026-09-03T21:13:30.725Z"
   },
   {
     "productId": "callaca:10004014",
@@ -9466,7 +9466,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:13:20.477Z"
+    "updatedAt": "2026-09-03T21:13:30.889Z"
   },
   {
     "productId": "callaca:10070119",
@@ -9484,7 +9484,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:20.663Z"
+    "updatedAt": "2026-09-03T21:13:31.065Z"
   },
   {
     "productId": "nailstudy:10011125",
@@ -9524,7 +9524,7 @@
   },
   {
     "productId": "cozyspace:10000150",
-    "name": "【12ml・10色選べる】バブルオーシャンシリーズ マグネットネイル ブルー HEMAフリー 透明感 夏 ジェル カラージェルネイル ネイルジェル アートジェル ジェルネイル用品 ネイルポリッシュ 初心者OK ギフト セルフネイル",
+    "name": "【要エントリー★最大100%ポイントバック】【12ml・10色選べる】バブルオーシャンシリーズ マグネットネイル ブルー HEMAフリー 透明感 夏 ジェル カラージェルネイル ネイルジェル アートジェル ジェルネイル用品 ネイルポリッシュ 初心者OK ギフト セルフネイル",
     "price": 1380,
     "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/cozyspace/cabinet/medf/main.jpg",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00ur9vo.4emtb8dd.g00ur9vo.4emtc94a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcozyspace%2Fmedf%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcozyspace%2Fi%2F10000150%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
@@ -9543,11 +9543,11 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:23.044Z"
+    "updatedAt": "2026-09-03T21:13:33.504Z"
   },
   {
     "productId": "cozyspace:10000032",
-    "name": "【5ml・4色選べる】ブラウンブルーキャット ジェルネイル マグネットネイル キャットアイ ネイルジェル カラージェル アートジェル ネイルポリッシュ 磁石で簡単 初心者OK 自宅で簡単プロ仕上げ【塗布用ブラシ付き】",
+    "name": "【要エントリー★最大100%ポイントバック】【5ml・4色選べる】ブラウンブルーキャット ジェルネイル マグネットネイル キャットアイ ネイルジェル カラージェル アートジェル ネイルポリッシュ 磁石で簡単 初心者OK 自宅で簡単プロ仕上げ【塗布用ブラシ付き】",
     "price": 1480,
     "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/cozyspace/cabinet/zlxm/main.jpg",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00ur9vo.4emtb8dd.g00ur9vo.4emtc94a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcozyspace%2Fzlxm%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcozyspace%2Fi%2F10000032%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
@@ -9563,7 +9563,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:39.455Z"
+    "updatedAt": "2026-09-03T21:13:48.869Z"
   },
   {
     "productId": "callaca:10062863",
@@ -9584,7 +9584,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:13:53.510Z"
+    "updatedAt": "2026-09-03T21:14:00.289Z"
   },
   {
     "productId": "mamachan443:10000528",
@@ -9602,11 +9602,11 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:23.725Z"
+    "updatedAt": "2026-09-03T21:13:34.984Z"
   },
   {
     "productId": "linogel:10000205",
-    "name": "ジェルネイル カラージェル ブルー 82C ラピスラズリ 青 ネイル ジェル 化粧品登録 国産 5g LED/UVライト対応 プロ用 単品 ネイルアート ブルーネイル 青ネイル ディープブルー クリアブルー ネイルカラー ジェルカラー",
+    "name": "【スーパーdeal 20%ポイントバック 11(金) 09:59迄】ジェルネイル カラージェル ブルー 82C ラピスラズリ 青 ネイル ジェル 化粧品登録 国産 5g LED/UVライト対応 プロ用 単品 ネイルアート ブルーネイル 青ネイル ディープブルー クリアブルー ネイルカラー ジェルカラー",
     "price": 1650,
     "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/linogel/cabinet/10433711/imgrc0128175243.jpg",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00uix1o.4emtb8a4.g00uix1o.4emtcdcc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flinogel%2F128%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flinogel%2Fi%2F10000205%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
@@ -9622,7 +9622,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:23.884Z"
+    "updatedAt": "2026-09-03T21:13:35.210Z"
   },
   {
     "productId": "petitprice:10006489",
@@ -9642,7 +9642,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:24.044Z"
+    "updatedAt": "2026-09-03T21:13:35.388Z"
   },
   {
     "productId": "elelerueru:10006678",
@@ -9660,11 +9660,11 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:24.206Z"
+    "updatedAt": "2026-09-03T21:13:35.558Z"
   },
   {
     "productId": "linogel:10000206",
-    "name": "ジェルネイル カラージェル 青 コバルトブルー 90M 化粧品登録 国産 LED/UV対応 プロ用 5g ジェル ネイル ブルー 単品 夏ネイル ネイルアート 青ネイル 鮮やかブルー ネイルカラー ネイルカラージェル ジェルカラー",
+    "name": "【スーパーSALE限定15%off 11日(金)01:59迄】ジェルネイル カラージェル 青 コバルトブルー 90M 化粧品登録 国産 LED/UV対応 プロ用 5g ジェル ネイル ブルー 単品 夏ネイル ネイルアート 青ネイル 鮮やかブルー ネイルカラー ネイルカラージェル ジェルカラー",
     "price": 1400,
     "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/linogel/cabinet/10433711/imgrc0128175400.jpg",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00uix1o.4emtb8a4.g00uix1o.4emtcdcc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flinogel%2F129%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flinogel%2Fi%2F10000206%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
@@ -9680,7 +9680,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:24.396Z"
+    "updatedAt": "2026-09-03T21:13:35.844Z"
   },
   {
     "productId": "callaca:10062175",
@@ -9700,7 +9700,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:24.589Z"
+    "updatedAt": "2026-09-03T21:13:36.069Z"
   },
   {
     "productId": "urbanbloomhonten:10001548",
@@ -9756,7 +9756,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:25.839Z"
+    "updatedAt": "2026-09-03T21:13:36.621Z"
   },
   {
     "productId": "nailstudy:10038758",
@@ -9774,7 +9774,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-01T10:39:33.550Z"
+    "updatedAt": "2026-09-03T21:13:36.786Z"
   },
   {
     "productId": "urbanbloomhonten:10001592",
@@ -9796,7 +9796,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:13:26.156Z"
+    "updatedAt": "2026-09-03T21:13:37.235Z"
   },
   {
     "productId": "callaca:10067459",
@@ -9872,7 +9872,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:28.834Z"
+    "updatedAt": "2026-09-03T21:13:39.696Z"
   },
   {
     "productId": "horiku:10162915",
@@ -9892,7 +9892,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:46.422Z"
+    "updatedAt": "2026-09-03T21:13:54.211Z"
   },
   {
     "productId": "nailstudy:10029367",
@@ -9910,7 +9910,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:29.150Z"
+    "updatedAt": "2026-09-03T21:13:40.021Z"
   },
   {
     "productId": "elelerueru:10006806",
@@ -9928,7 +9928,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:29.335Z"
+    "updatedAt": "2026-09-03T21:13:40.192Z"
   },
   {
     "productId": "nailstudy:10023390",
@@ -9946,7 +9946,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:29.768Z"
+    "updatedAt": "2026-09-03T21:13:40.355Z"
   },
   {
     "productId": "elelerueru:10001976",
@@ -9964,7 +9964,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:30.216Z"
+    "updatedAt": "2026-09-03T21:13:40.534Z"
   },
   {
     "productId": "pro-nailbox:10000399",
@@ -9984,7 +9984,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:13:30.660Z"
+    "updatedAt": "2026-09-03T21:13:40.721Z"
   },
   {
     "productId": "urbanbloomhonten:10001714",
@@ -10006,7 +10006,7 @@
     "quantity": 3,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:31.147Z"
+    "updatedAt": "2026-09-03T21:13:40.907Z"
   },
   {
     "productId": "y2market:10003491",
@@ -10062,7 +10062,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:31.637Z"
+    "updatedAt": "2026-09-03T21:13:41.447Z"
   },
   {
     "productId": "studio-nail:10023932",
@@ -10080,7 +10080,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-01T10:39:38.387Z"
+    "updatedAt": "2026-09-03T21:13:41.633Z"
   },
   {
     "productId": "nailstudy:10038772",
@@ -10098,7 +10098,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:32.005Z"
+    "updatedAt": "2026-09-03T21:13:41.829Z"
   },
   {
     "productId": "ainail:10003593",
@@ -10119,7 +10119,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:32.172Z"
+    "updatedAt": "2026-09-03T21:13:42.008Z"
   },
   {
     "productId": "callaca:10071058",
@@ -10140,7 +10140,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:32.613Z"
+    "updatedAt": "2026-09-03T21:13:42.178Z"
   },
   {
     "productId": "shonankurashiplus:10008374",
@@ -10160,7 +10160,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-01T10:39:39.475Z"
+    "updatedAt": "2026-09-03T21:13:42.506Z"
   },
   {
     "productId": "nailstudy:10055004",
@@ -10178,7 +10178,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:32.941Z"
+    "updatedAt": "2026-09-03T21:13:56.884Z"
   },
   {
     "productId": "nailstudy:10054647",
@@ -10196,7 +10196,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:33.125Z"
+    "updatedAt": "2026-09-03T21:13:42.866Z"
   },
   {
     "productId": "urbanbloomhonten:10001563",
@@ -10219,7 +10219,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:13:33.286Z"
+    "updatedAt": "2026-09-03T21:13:43.035Z"
   },
   {
     "productId": "pro-nailbox:10000380",
@@ -10239,7 +10239,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:50.538Z"
+    "updatedAt": "2026-09-03T21:13:57.070Z"
   },
   {
     "productId": "nailstudy:10023377",
@@ -10257,7 +10257,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:34.197Z"
+    "updatedAt": "2026-09-03T21:13:43.769Z"
   },
   {
     "productId": "nailstudy:10038702",
@@ -10275,7 +10275,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:34.640Z"
+    "updatedAt": "2026-09-03T21:13:43.946Z"
   },
   {
     "productId": "callaca:10070110",
@@ -10313,7 +10313,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:34.990Z"
+    "updatedAt": "2026-09-03T21:13:44.993Z"
   },
   {
     "productId": "ainail:10003586",
@@ -10334,7 +10334,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:35.169Z"
+    "updatedAt": "2026-09-03T21:13:45.160Z"
   },
   {
     "productId": "callaca:10074143",
@@ -10354,11 +10354,11 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:35.353Z"
+    "updatedAt": "2026-09-03T21:13:45.374Z"
   },
   {
     "productId": "linogel:10000625",
-    "name": "超微粒子 マグネットネイル 8g 水光ネイル マグネット 水光 ネイル ジェル 4ミクロン うるうるマグネット マグネットジェル くすみカラー アートジェル カラージェル 磁石 セット UV LED対応 カラージェルネイル ジェルネイルカラー",
+    "name": "【スーパーdeal 20%ポイントバック 11(金) 09:59迄】超微粒子 マグネットネイル 8g 水光ネイル マグネット 水光 ネイル ジェル 4ミクロン マグネットジェル くすみカラー アートジェル カラージェル 磁石 セット UV LED対応 カラージェルネイル くすみ ピンク ぷっくり",
     "price": 1300,
     "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/linogel/cabinet/10433711/11759625/12095046/imgrc0131911432.jpg",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00uix1o.4emtb8a4.g00uix1o.4emtcdcc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flinogel%2F199%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flinogel%2Fi%2F10000625%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
@@ -10374,7 +10374,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:38.125Z"
+    "updatedAt": "2026-09-03T21:14:16.666Z"
   },
   {
     "productId": "nail-koubouu:10013465",
@@ -10394,7 +10394,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:38.877Z"
+    "updatedAt": "2026-09-03T21:13:47.521Z"
   },
   {
     "productId": "elelerueru:10001119",
@@ -10414,7 +10414,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:13:39.057Z"
+    "updatedAt": "2026-09-03T21:13:47.705Z"
   },
   {
     "productId": "y2market:10003366",
@@ -10434,7 +10434,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:45.754Z"
+    "updatedAt": "2026-09-03T21:13:53.817Z"
   },
   {
     "productId": "nail-koubouu:10013410",
@@ -10454,7 +10454,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:13:39.410Z"
+    "updatedAt": "2026-09-03T21:13:48.830Z"
   },
   {
     "productId": "callaca:10062864",
@@ -10475,7 +10475,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:13:53.489Z"
+    "updatedAt": "2026-09-03T21:14:00.268Z"
   },
   {
     "productId": "callaca:10059920",
@@ -10493,7 +10493,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:39.784Z"
+    "updatedAt": "2026-09-03T21:13:49.195Z"
   },
   {
     "productId": "nailstudy:10023384",
@@ -10511,7 +10511,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:40.201Z"
+    "updatedAt": "2026-09-03T21:13:49.355Z"
   },
   {
     "productId": "callaca:10050358",
@@ -10529,7 +10529,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:13:40.362Z"
+    "updatedAt": "2026-09-03T21:13:49.515Z"
   },
   {
     "productId": "urbanbloomhonten:10000390",
@@ -10552,7 +10552,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:13:47.819Z"
+    "updatedAt": "2026-09-03T21:13:55.155Z"
   },
   {
     "productId": "g-nail:10047275",
@@ -10570,7 +10570,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:40.686Z"
+    "updatedAt": "2026-09-03T21:13:49.830Z"
   },
   {
     "productId": "nailstudy:10053956",
@@ -10588,7 +10588,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:41.114Z"
+    "updatedAt": "2026-09-03T21:13:49.992Z"
   },
   {
     "productId": "callaca:10072475",
@@ -10610,7 +10610,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:41.563Z"
+    "updatedAt": "2026-09-03T21:13:50.157Z"
   },
   {
     "productId": "callaca:10067621",
@@ -10646,7 +10646,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:42.078Z"
+    "updatedAt": "2026-09-03T21:13:50.507Z"
   },
   {
     "productId": "urbanbloomhonten:10001559",
@@ -10669,7 +10669,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-01T21:13:53.025Z"
+    "updatedAt": "2026-09-03T21:13:50.678Z"
   },
   {
     "productId": "nailstudy:10053750",
@@ -10687,7 +10687,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:42.711Z"
+    "updatedAt": "2026-09-03T21:13:50.844Z"
   },
   {
     "productId": "callaca:10072470",
@@ -10709,7 +10709,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:42.876Z"
+    "updatedAt": "2026-09-03T21:13:51.006Z"
   },
   {
     "productId": "urbanbloomhonten:10000241",
@@ -10751,7 +10751,7 @@
     "quantity": 3,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:43.211Z"
+    "updatedAt": "2026-09-03T21:13:51.338Z"
   },
   {
     "productId": "fiorello:10006980",
@@ -10769,7 +10769,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-01T10:39:48.375Z"
+    "updatedAt": "2026-09-03T21:13:51.500Z"
   },
   {
     "productId": "callaca:10072340",
@@ -10810,7 +10810,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:13:45.718Z"
+    "updatedAt": "2026-09-03T21:13:53.783Z"
   },
   {
     "productId": "elelerueru:10000533",
@@ -10828,7 +10828,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:46.237Z"
+    "updatedAt": "2026-09-03T21:13:54.030Z"
   },
   {
     "productId": "g-nail:10040037",
@@ -10846,7 +10846,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:46.398Z"
+    "updatedAt": "2026-09-03T21:13:54.187Z"
   },
   {
     "productId": "g-nail:10047007",
@@ -10864,7 +10864,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:46.591Z"
+    "updatedAt": "2026-09-03T21:13:54.430Z"
   },
   {
     "productId": "chacha1:10001192",
@@ -10887,7 +10887,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:01.986Z"
+    "updatedAt": "2026-09-03T21:14:09.684Z"
   },
   {
     "productId": "g-nail:10047011",
@@ -10905,7 +10905,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:47.205Z"
+    "updatedAt": "2026-09-03T21:13:54.788Z"
   },
   {
     "productId": "elelerueru:10011210",
@@ -10925,7 +10925,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:47.629Z"
+    "updatedAt": "2026-09-03T21:13:54.957Z"
   },
   {
     "productId": "callaca:10065582",
@@ -10943,7 +10943,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:47.797Z"
+    "updatedAt": "2026-09-03T21:13:55.133Z"
   },
   {
     "productId": "g-nail:10040038",
@@ -10961,7 +10961,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:47.974Z"
+    "updatedAt": "2026-09-03T21:13:55.318Z"
   },
   {
     "productId": "siseil:10002847",
@@ -10979,7 +10979,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:48.408Z"
+    "updatedAt": "2026-09-03T21:13:55.497Z"
   },
   {
     "productId": "studio-nail:10024264",
@@ -10997,7 +10997,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-01T10:39:52.909Z"
+    "updatedAt": "2026-09-03T21:13:55.825Z"
   },
   {
     "productId": "callaca:10047297",
@@ -11033,7 +11033,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:49.235Z"
+    "updatedAt": "2026-09-03T21:13:56.164Z"
   },
   {
     "productId": "nailstudy:10038754",
@@ -11069,7 +11069,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:49.865Z"
+    "updatedAt": "2026-09-03T21:13:56.522Z"
   },
   {
     "productId": "nailstudy:10023380",
@@ -11087,7 +11087,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:50.017Z"
+    "updatedAt": "2026-09-03T21:13:56.684Z"
   },
   {
     "productId": "studio-nail:10023837",
@@ -11105,7 +11105,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-01T21:13:59.913Z"
+    "updatedAt": "2026-09-03T21:13:56.863Z"
   },
   {
     "productId": "nailstudy:10036347",
@@ -11125,7 +11125,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-01T21:14:00.358Z"
+    "updatedAt": "2026-09-03T21:13:57.050Z"
   },
   {
     "productId": "gramsky2nd:10003947",
@@ -11143,7 +11143,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:50.517Z"
+    "updatedAt": "2026-09-03T21:13:57.050Z"
   },
   {
     "productId": "deconail-seisakujo:10004474",
@@ -11163,7 +11163,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:14:12.625Z"
+    "updatedAt": "2026-09-03T21:14:16.322Z"
   },
   {
     "productId": "colorful-nail:10000606",
@@ -11183,7 +11183,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:14:13.977Z"
+    "updatedAt": "2026-09-03T21:14:12.318Z"
   },
   {
     "productId": "eternalwind:10026877",
@@ -11201,7 +11201,7 @@
     "quantity": 1,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:00.161Z"
+    "updatedAt": "2026-09-03T21:14:06.342Z"
   },
   {
     "productId": "elelerueru:10012259",
@@ -11221,7 +11221,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:13:52.943Z"
+    "updatedAt": "2026-09-03T21:13:59.685Z"
   },
   {
     "productId": "g-nail:10040044",
@@ -11239,7 +11239,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:53.130Z"
+    "updatedAt": "2026-09-03T21:13:59.872Z"
   },
   {
     "productId": "yu-kyu-no-kaze:10001143",
@@ -11257,7 +11257,7 @@
     "quantity": 1,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:01.589Z"
+    "updatedAt": "2026-09-03T21:14:07.885Z"
   },
   {
     "productId": "nailmania:10006311",
@@ -11277,7 +11277,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:14:08.173Z"
+    "updatedAt": "2026-09-03T21:14:13.060Z"
   },
   {
     "productId": "callaca:10062862",
@@ -11298,7 +11298,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:13:53.930Z"
+    "updatedAt": "2026-09-03T21:14:00.453Z"
   },
   {
     "productId": "elelerueru:10011808",
@@ -11318,7 +11318,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:13:54.087Z"
+    "updatedAt": "2026-09-03T21:14:00.612Z"
   },
   {
     "productId": "elelerueru:10006788",
@@ -11336,7 +11336,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:54.526Z"
+    "updatedAt": "2026-09-03T21:14:00.777Z"
   },
   {
     "productId": "nailstudy:10009705",
@@ -11354,7 +11354,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:54.689Z"
+    "updatedAt": "2026-09-03T21:14:00.944Z"
   },
   {
     "productId": "elelerueru:10011163",
@@ -11374,7 +11374,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:54.851Z"
+    "updatedAt": "2026-09-03T21:14:01.103Z"
   },
   {
     "productId": "nailstudy:10029587",
@@ -11392,7 +11392,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:55.040Z"
+    "updatedAt": "2026-09-03T21:14:01.290Z"
   },
   {
     "productId": "callaca:10062860",
@@ -11413,7 +11413,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:13:55.196Z"
+    "updatedAt": "2026-09-03T21:14:01.482Z"
   },
   {
     "productId": "elelerueru:10012199",
@@ -11433,7 +11433,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:14:08.263Z"
+    "updatedAt": "2026-09-03T21:14:13.303Z"
   },
   {
     "productId": "callaca:10062865",
@@ -11454,7 +11454,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:13:55.507Z"
+    "updatedAt": "2026-09-03T21:14:02.125Z"
   },
   {
     "productId": "callaca:10051076",
@@ -11472,7 +11472,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:13:55.662Z"
+    "updatedAt": "2026-09-03T21:14:02.281Z"
   },
   {
     "productId": "elelerueru:10012333",
@@ -11490,7 +11490,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:55.826Z"
+    "updatedAt": "2026-09-03T21:14:02.450Z"
   },
   {
     "productId": "callaca:10063316",
@@ -11510,7 +11510,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:55.988Z"
+    "updatedAt": "2026-09-03T21:14:02.607Z"
   },
   {
     "productId": "elelerueru:10011633",
@@ -11533,7 +11533,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:13:56.429Z"
+    "updatedAt": "2026-09-03T21:14:02.790Z"
   },
   {
     "productId": "nailstudy:10050312",
@@ -11551,7 +11551,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:56.592Z"
+    "updatedAt": "2026-09-03T21:14:02.975Z"
   },
   {
     "productId": "elelerueru:10012155",
@@ -11569,7 +11569,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:57.043Z"
+    "updatedAt": "2026-09-03T21:14:03.150Z"
   },
   {
     "productId": "ainail:10003584",
@@ -11590,7 +11590,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:57.209Z"
+    "updatedAt": "2026-09-03T21:14:03.317Z"
   },
   {
     "productId": "princesscolors:10002335",
@@ -11608,7 +11608,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:57.369Z"
+    "updatedAt": "2026-09-03T21:14:03.549Z"
   },
   {
     "productId": "kiranavi:10012972",
@@ -11646,7 +11646,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:57.553Z"
+    "updatedAt": "2026-09-03T21:14:03.885Z"
   },
   {
     "productId": "deconail-seisakujo:10004595",
@@ -11666,7 +11666,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:14:12.602Z"
+    "updatedAt": "2026-09-03T21:14:16.299Z"
   },
   {
     "productId": "elelerueru:10000525",
@@ -11684,7 +11684,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:59.972Z"
+    "updatedAt": "2026-09-03T21:14:06.137Z"
   },
   {
     "productId": "nailmania:10006423",
@@ -11704,7 +11704,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:14:07.718Z"
+    "updatedAt": "2026-09-03T21:14:12.592Z"
   },
   {
     "productId": "elelerueru:10000486",
@@ -11722,7 +11722,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:00.586Z"
+    "updatedAt": "2026-09-03T21:14:06.502Z"
   },
   {
     "productId": "elelerueru:10011199",
@@ -11742,7 +11742,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:00.742Z"
+    "updatedAt": "2026-09-03T21:14:06.661Z"
   },
   {
     "productId": "deconail-seisakujo:10004654",
@@ -11760,7 +11760,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:07.743Z"
+    "updatedAt": "2026-09-03T21:14:12.615Z"
   },
   {
     "productId": "g-nail:10050895",
@@ -11778,7 +11778,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:01.076Z"
+    "updatedAt": "2026-09-03T21:14:07.183Z"
   },
   {
     "productId": "y2market:10003205",
@@ -11802,7 +11802,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:08.106Z"
+    "updatedAt": "2026-09-03T21:14:12.996Z"
   },
   {
     "productId": "g-nail:10040240",
@@ -11820,7 +11820,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:01.391Z"
+    "updatedAt": "2026-09-03T21:14:07.689Z"
   },
   {
     "productId": "g-nail:10040045",
@@ -11838,7 +11838,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:01.568Z"
+    "updatedAt": "2026-09-03T21:14:07.864Z"
   },
   {
     "productId": "komonoyashop:10000040",
@@ -11860,7 +11860,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:08.242Z"
+    "updatedAt": "2026-09-03T21:14:13.283Z"
   },
   {
     "productId": "nailstudy:10009706",
@@ -11878,7 +11878,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:01.957Z"
+    "updatedAt": "2026-09-03T21:14:08.279Z"
   },
   {
     "productId": "chacha1:10001198",
@@ -11901,7 +11901,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:02.540Z"
+    "updatedAt": "2026-09-03T21:14:08.606Z"
   },
   {
     "productId": "chacha1:10001199",
@@ -11924,11 +11924,11 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:02.706Z"
+    "updatedAt": "2026-09-03T21:14:08.792Z"
   },
   {
     "productId": "linogel:10000046",
-    "name": "カラージェル ジェルネイル ホワイト 白系 ミルキー系 ジェル ネイル 国産 化粧品登録 06C ミルキーホワイト 5g LED UV対応 プロ 単品 乳白色 クリアカラー 白ジェル シアーホワイト 透明感 ネイルカラー ジェルカラー",
+    "name": "【スーパーdeal 20%ポイントバック 11(金) 09:59迄】カラージェル ジェルネイル ホワイト 白系 ミルキー系 ジェル ネイル 国産 化粧品登録 06C ミルキーホワイト 5g LED UV対応 プロ 単品 乳白色 クリアカラー 白ジェル シアーホワイト 透明感 ネイルカラー ジェルカラー",
     "price": 1650,
     "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/linogel/cabinet/10433711/imgrc0128175226.jpg",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00uix1o.4emtb8a4.g00uix1o.4emtcdcc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flinogel%2F18%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flinogel%2Fi%2F10000046%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
@@ -11945,7 +11945,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:03.149Z"
+    "updatedAt": "2026-09-03T21:14:08.959Z"
   },
   {
     "productId": "komonoyashop:10000056",
@@ -11969,7 +11969,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:03.580Z"
+    "updatedAt": "2026-09-03T21:14:09.146Z"
   },
   {
     "productId": "nailstudy:10023403",
@@ -11987,7 +11987,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:03.739Z"
+    "updatedAt": "2026-09-03T21:14:09.305Z"
   },
   {
     "productId": "y2market:10003261",
@@ -12011,7 +12011,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:09.291Z"
+    "updatedAt": "2026-09-03T21:14:13.813Z"
   },
   {
     "productId": "nailstudy:10009625",
@@ -12029,7 +12029,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:04.065Z"
+    "updatedAt": "2026-09-03T21:14:09.657Z"
   },
   {
     "productId": "nailstudy:10011546",
@@ -12047,7 +12047,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:04.245Z"
+    "updatedAt": "2026-09-03T21:14:08.444Z"
   },
   {
     "productId": "callaca:10065806",
@@ -12065,7 +12065,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:04.397Z"
+    "updatedAt": "2026-09-03T21:14:09.862Z"
   },
   {
     "productId": "g-nail:10047406",
@@ -12083,7 +12083,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:04.570Z"
+    "updatedAt": "2026-09-03T21:14:10.079Z"
   },
   {
     "productId": "decopanic:10000934",
@@ -12103,7 +12103,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:13.630Z"
+    "updatedAt": "2026-09-03T21:14:18.793Z"
   },
   {
     "productId": "colorful-nail:10000479",
@@ -12123,7 +12123,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:07.694Z"
+    "updatedAt": "2026-09-03T21:14:12.558Z"
   },
   {
     "productId": "nail-koubouu:10008172",
@@ -12143,12 +12143,12 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:07.917Z"
+    "updatedAt": "2026-09-03T21:14:12.782Z"
   },
   {
     "productId": "nailsmile:10001068",
     "name": "【&iii メタリックシルバージェル 3ml】アンドアイ ネイル用品 ネイルアート ネイル ジェル カラージェル アート用 メタリック シルバー 高品質",
-    "price": 1580,
+    "price": 1501,
     "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/nailsmile/cabinet/itemimage/001/item-25071701.jpg",
     "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tw0po.4emtb2ec.g00tw0po.4emtcb0f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnailsmile%2Fitem-25071701%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnailsmile%2Fi%2F10001068%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
     "aspSource": "楽天",
@@ -12163,7 +12163,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:08.081Z"
+    "updatedAt": "2026-09-03T21:14:12.973Z"
   },
   {
     "productId": "g-nail:10045124",
@@ -12181,7 +12181,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:08.687Z"
+    "updatedAt": "2026-09-03T21:14:13.474Z"
   },
   {
     "productId": "nailstudy:10054750",
@@ -12199,7 +12199,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:09.110Z"
+    "updatedAt": "2026-09-03T21:14:13.630Z"
   },
   {
     "productId": "elelerueru:10011226",
@@ -12219,7 +12219,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:14:09.268Z"
+    "updatedAt": "2026-09-03T21:14:13.789Z"
   },
   {
     "productId": "mpetitnail:10000166",
@@ -12239,7 +12239,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:14:09.452Z"
+    "updatedAt": "2026-09-03T21:14:14.016Z"
   },
   {
     "productId": "elelerueru:10008623",
@@ -12257,7 +12257,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:09.897Z"
+    "updatedAt": "2026-09-03T21:14:14.187Z"
   },
   {
     "productId": "urbanbloomhonten:10001570",
@@ -12279,7 +12279,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:14:10.052Z"
+    "updatedAt": "2026-09-03T21:14:14.383Z"
   },
   {
     "productId": "callaca:10030595",
@@ -12546,7 +12546,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:09.206Z"
+    "updatedAt": "2026-09-03T21:12:25.729Z"
   },
   {
     "productId": "netsbee:10058115",
@@ -12564,7 +12564,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-01T21:12:21.859Z"
+    "updatedAt": "2026-09-03T21:12:26.422Z"
   },
   {
     "productId": "g-nail:10039872",
@@ -12618,7 +12618,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:36.319Z"
+    "updatedAt": "2026-09-03T21:12:48.036Z"
   },
   {
     "productId": "0101marui:12748575",
@@ -12690,7 +12690,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-01T21:13:02.745Z"
+    "updatedAt": "2026-09-03T21:13:02.478Z"
   },
   {
     "productId": "callaca:10069195",
@@ -12744,7 +12744,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:04.201Z"
+    "updatedAt": "2026-09-03T21:13:15.661Z"
   },
   {
     "productId": "nailstudy:10023362",
@@ -12762,7 +12762,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-01T21:13:18.380Z"
+    "updatedAt": "2026-09-03T21:13:16.893Z"
   },
   {
     "productId": "callaca:10052456",
@@ -12857,7 +12857,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-01T21:13:25.891Z"
+    "updatedAt": "2026-09-03T21:13:24.567Z"
   },
   {
     "productId": "nailstudy:10045304",
@@ -12875,7 +12875,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-01T21:13:26.060Z"
+    "updatedAt": "2026-09-03T21:13:24.739Z"
   },
   {
     "productId": "nailstudy:10037017",
@@ -12949,7 +12949,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:18.561Z"
+    "updatedAt": "2026-09-03T21:13:29.807Z"
   },
   {
     "productId": "nailstudy:10053078",
@@ -13133,7 +13133,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-01T21:13:46.114Z"
+    "updatedAt": "2026-09-03T21:13:44.730Z"
   },
   {
     "productId": "urbanbloomhonten:10000140",
@@ -13173,7 +13173,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-01T21:13:52.707Z"
+    "updatedAt": "2026-09-03T21:13:50.344Z"
   },
   {
     "productId": "callaca:10072467",
@@ -13249,7 +13249,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-01T21:13:59.006Z"
+    "updatedAt": "2026-09-03T21:13:56.339Z"
   },
   {
     "productId": "g-nail:10050847",
@@ -13285,7 +13285,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-01T21:14:07.582Z"
+    "updatedAt": "2026-09-03T21:14:03.716Z"
   },
   {
     "productId": "h-sara:10025721",
@@ -13323,7 +13323,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:11:40.673Z"
+    "updatedAt": "2026-09-03T21:12:00.493Z"
   },
   {
     "productId": "ohora:10004243",
@@ -13341,7 +13341,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:42.912Z"
+    "updatedAt": "2026-09-03T21:12:02.682Z"
   },
   {
     "productId": "la-primavera:10002873",
@@ -13361,7 +13361,7 @@
     "quantity": 12,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:11:54.977Z"
+    "updatedAt": "2026-09-03T21:12:12.380Z"
   },
   {
     "productId": "la-primavera:10003139",
@@ -13401,7 +13401,7 @@
     "quantity": 5,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:03.450Z"
+    "updatedAt": "2026-09-03T21:12:20.809Z"
   },
   {
     "productId": "deconail-seisakujo:10005443",
@@ -13419,7 +13419,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:03.475Z"
+    "updatedAt": "2026-09-03T21:12:20.968Z"
   },
   {
     "productId": "cutienail:10033418",
@@ -13457,7 +13457,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:09.845Z"
+    "updatedAt": "2026-09-03T21:12:26.069Z"
   },
   {
     "productId": "cutienail:10032342",
@@ -13531,7 +13531,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:12:49.147Z"
+    "updatedAt": "2026-09-03T21:13:00.346Z"
   },
   {
     "productId": "callaca:10074150",
@@ -13603,7 +13603,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:02.953Z"
+    "updatedAt": "2026-09-03T21:13:14.453Z"
   },
   {
     "productId": "nailstudy:10052999",
@@ -13657,7 +13657,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:06.669Z"
+    "updatedAt": "2026-09-03T21:13:17.892Z"
   },
   {
     "productId": "nailstudy:10038723",
@@ -13675,7 +13675,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:10.325Z"
+    "updatedAt": "2026-09-03T21:13:20.798Z"
   },
   {
     "productId": "nailstudy:10053304",
@@ -13711,7 +13711,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:11.698Z"
+    "updatedAt": "2026-09-03T21:13:22.732Z"
   },
   {
     "productId": "nelpara:10029566",
@@ -13729,7 +13729,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:13:12.978Z"
+    "updatedAt": "2026-09-03T21:13:24.080Z"
   },
   {
     "productId": "nailstudy:10040689",
@@ -13785,7 +13785,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:18.227Z"
+    "updatedAt": "2026-09-03T21:13:29.204Z"
   },
   {
     "productId": "cutienail:10027548",
@@ -13877,7 +13877,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:26.611Z"
+    "updatedAt": "2026-09-03T21:13:37.403Z"
   },
   {
     "productId": "gramsky2nd:10004095",
@@ -13895,7 +13895,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:26.611Z"
+    "updatedAt": "2026-09-03T21:13:37.403Z"
   },
   {
     "productId": "nailstudy:10038687",
@@ -13931,7 +13931,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:31.317Z"
+    "updatedAt": "2026-09-03T21:13:41.084Z"
   },
   {
     "productId": "urbanbloomhonten:10001621",
@@ -13994,7 +13994,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:13:41.740Z"
+    "updatedAt": "2026-09-03T21:13:01.152Z"
   },
   {
     "productId": "urbanbloomhonten:10000594",
@@ -14039,7 +14039,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:13:43.565Z"
+    "updatedAt": "2026-09-03T21:13:51.703Z"
   },
   {
     "productId": "nailstudy:10050520",
@@ -14129,7 +14129,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:12.556Z"
+    "updatedAt": "2026-09-03T21:14:16.276Z"
   },
   {
     "productId": "nailmania:10005028",
@@ -14147,7 +14147,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:12.793Z"
+    "updatedAt": "2026-09-03T21:14:16.853Z"
   },
   {
     "productId": "deconail-seisakujo:10006159",
@@ -14167,7 +14167,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:12.842Z"
+    "updatedAt": "2026-09-03T21:14:17.374Z"
   },
   {
     "productId": "deconail-seisakujo:10004153",
@@ -14185,7 +14185,7 @@
     "quantity": null,
     "isColorProduct": false,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:13.012Z"
+    "updatedAt": "2026-09-03T21:14:17.547Z"
   },
   {
     "productId": "nailmania:10006265",
@@ -14203,7 +14203,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:13.223Z"
+    "updatedAt": "2026-09-03T21:14:17.855Z"
   },
   {
     "productId": "deconail-seisakujo:10006077",
@@ -14223,7 +14223,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:13.388Z"
+    "updatedAt": "2026-09-03T21:14:18.017Z"
   },
   {
     "productId": "deconail-seisakujo:10006011",
@@ -14243,7 +14243,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": false,
-    "updatedAt": "2026-09-02T21:14:13.413Z"
+    "updatedAt": "2026-09-03T21:14:18.344Z"
   },
   {
     "productId": "nailmania:10005163",
@@ -14263,7 +14263,7 @@
     "quantity": null,
     "isColorProduct": true,
     "isPartsProduct": true,
-    "updatedAt": "2026-09-02T21:14:13.604Z"
+    "updatedAt": "2026-09-03T21:14:18.770Z"
   },
   {
     "productId": "nailmania:10006108",
@@ -14320,5 +14320,622 @@
     "isColorProduct": true,
     "isPartsProduct": true,
     "updatedAt": "2026-09-02T21:14:14.628Z"
+  },
+  {
+    "productId": "la-primavera:10003276",
+    "name": "ネイル　デコ　12パーツ　チャーム12種　各2個　計24個【ネイルアート】ネイル　ストーン　アート　デザイン ターコイズ　羽　【メール便OK!!】(NAD-1)",
+    "price": 1222,
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/la-primavera/cabinet/imgrc0066965870.jpg",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qdboo.4emtb381.g00qdboo.4emtc36a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fla-primavera%2F10003276%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fla-primavera%2Fi%2F10003276%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
+    "aspSource": "楽天",
+    "reviewCount": 0,
+    "reviewAverage": 0,
+    "hexColor": "#d8c298",
+    "colorFamily": "オレンジ",
+    "sceneTags": [
+      "ロングネイル・ラグジュアリー"
+    ],
+    "finishTypes": [],
+    "quantity": 2,
+    "isColorProduct": false,
+    "isPartsProduct": true,
+    "updatedAt": "2026-09-03T21:12:11.880Z"
+  },
+  {
+    "productId": "la-primavera:10003142",
+    "name": "クリスタル　ストーンチャーム12個入り：リボン　フラワー　王冠　ティアラ【ネイルアート】ネイル　ストーン　アート　【キュービックジルコニア【メール便OK!!】(CSC-9)",
+    "price": 1483,
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/la-primavera/cabinet/imgrc0065958525.jpg",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qdboo.4emtb381.g00qdboo.4emtc36a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fla-primavera%2F10003142%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fla-primavera%2Fi%2F10003142%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
+    "aspSource": "楽天",
+    "reviewCount": 0,
+    "reviewAverage": 0,
+    "hexColor": "#ccc083",
+    "colorFamily": "イエロー",
+    "sceneTags": [
+      "ロングネイル・ラグジュアリー"
+    ],
+    "finishTypes": [],
+    "quantity": 12,
+    "isColorProduct": false,
+    "isPartsProduct": true,
+    "updatedAt": "2026-09-03T21:12:12.898Z"
+  },
+  {
+    "productId": "netsbee:10058076",
+    "name": "グレースジェル ノンサンディング ベース 120mL [ 密着力 浮かない ジェルベース ジェルネイル 爪 サロン ネイリスト 人気 おすすめ ] GRACE",
+    "price": 7950,
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/netsbee/cabinet/gracegel/gracegel009.jpg",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qehgo.4emtb0bb.g00qehgo.4emtc9b7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetsbee%2Fgracegel009%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetsbee%2Fi%2F10058076%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
+    "aspSource": "楽天",
+    "reviewCount": 0,
+    "reviewAverage": 0,
+    "hexColor": "#9fa29d",
+    "colorFamily": "グレー",
+    "sceneTags": [],
+    "finishTypes": [],
+    "quantity": null,
+    "isColorProduct": false,
+    "isPartsProduct": false,
+    "updatedAt": "2026-09-03T21:12:25.562Z"
+  },
+  {
+    "productId": "cutienail:10033409",
+    "name": "グレースジェル Pハード 15ml",
+    "price": 2200,
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/cutienail/cabinet/12203178/imgrc0121949967.jpg",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qc91o.4emtbb67.g00qc91o.4emtc343/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcutienail%2F251402-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcutienail%2Fi%2F10033409%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
+    "aspSource": "楽天",
+    "reviewCount": 0,
+    "reviewAverage": 0,
+    "hexColor": "#d2cfc7",
+    "colorFamily": "グレー",
+    "sceneTags": [],
+    "finishTypes": [],
+    "quantity": null,
+    "isColorProduct": false,
+    "isPartsProduct": false,
+    "updatedAt": "2026-09-03T21:12:26.753Z"
+  },
+  {
+    "productId": "netsbee:10058121",
+    "name": "グレースジェル レインボーダイヤビット マイクロ 定形外 対応",
+    "price": 880,
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/netsbee/cabinet/gracegel/gracegel048.jpg",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qehgo.4emtb0bb.g00qehgo.4emtc9b7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnetsbee%2Fgracegel048%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnetsbee%2Fi%2F10058121%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
+    "aspSource": "楽天",
+    "reviewCount": 0,
+    "reviewAverage": 0,
+    "hexColor": "#e9e9e4",
+    "colorFamily": "ホワイト",
+    "sceneTags": [],
+    "finishTypes": [],
+    "quantity": null,
+    "isColorProduct": false,
+    "isPartsProduct": false,
+    "updatedAt": "2026-09-03T21:12:27.506Z"
+  },
+  {
+    "productId": "msd-shop:10002567",
+    "name": "ジェルミーワン USB LEDライトMINI（送料無料）GelMe1 ジェルネイル LEDライト 硬化ライト UVライト セルフネイル レジン",
+    "price": 1782,
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/msd-shop/cabinet/nail/1019-3003-top.jpg",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rl09o.4emtb8a7.g00rl09o.4emtc6ae/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmsd-shop%2F1019-3003-ss%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmsd-shop%2Fi%2F10002567%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
+    "aspSource": "楽天",
+    "reviewCount": 6,
+    "reviewAverage": 4.17,
+    "hexColor": "#d7d7d3",
+    "colorFamily": "グレー",
+    "sceneTags": [],
+    "finishTypes": [],
+    "quantity": null,
+    "isColorProduct": false,
+    "isPartsProduct": false,
+    "updatedAt": "2026-09-03T21:12:41.456Z"
+  },
+  {
+    "productId": "rakuten24-cosmetics:10053559",
+    "name": "HOMEIウィークリージェル MG6(10ml)【HOMEI】",
+    "price": 1320,
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24-cosmetics/cabinet/217/4589889618217.jpg",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00ufauo.4emtbc7b.g00ufauo.4emtc13e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24-cosmetics%2F4589889618217%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24-cosmetics%2Fi%2F10053559%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
+    "aspSource": "楽天",
+    "reviewCount": 0,
+    "reviewAverage": 0,
+    "hexColor": "#ffffff",
+    "colorFamily": "ホワイト",
+    "sceneTags": [],
+    "finishTypes": [],
+    "quantity": null,
+    "isColorProduct": false,
+    "isPartsProduct": false,
+    "updatedAt": "2026-09-03T21:12:48.230Z"
+  },
+  {
+    "productId": "jellynail:10000722",
+    "name": "NEW シリラ トップジェル エッセンシャルBO｜cirila（シリラ)＜公式＞ジェルネイル（日本製）",
+    "price": 1980,
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/jellynail/cabinet/09666646/09666651/imgrc0102557499.jpg",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00ri7eo.4emtb703.g00ri7eo.4emtc375/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fjellynail%2Fcl-0213%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fjellynail%2Fi%2F10000722%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
+    "aspSource": "楽天",
+    "reviewCount": 1,
+    "reviewAverage": 3,
+    "hexColor": "#fefefe",
+    "colorFamily": "ホワイト",
+    "sceneTags": [],
+    "finishTypes": [],
+    "quantity": null,
+    "isColorProduct": false,
+    "isPartsProduct": false,
+    "updatedAt": "2026-09-03T21:12:54.855Z"
+  },
+  {
+    "productId": "urbanbloomhonten:10000375",
+    "name": "【プリジェル公式】カラーEX／フラッシュベリー／3g ジェルネイル PREGEL カラーEX PG-CE905 カラー 色 トレンド 綺麗 春 夏 秋 冬 カラージェル シアー プリジェルカラー ピンク 桃 赤 シアーピンク レッド クリアピンク 青みピンク 血色 ベリー フラッシュベリー",
+    "price": 1320,
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/urbanbloomhonten/cabinet/launch/3000/000000003168-01.jpg",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00utezo.4emtbfd9.g00utezo.4emtc969/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Furbanbloomhonten%2F1003-140-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Furbanbloomhonten%2Fi%2F10000375%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
+    "aspSource": "楽天",
+    "reviewCount": 0,
+    "reviewAverage": 0,
+    "hexColor": "#be4278",
+    "colorFamily": "ピンク",
+    "sceneTags": [
+      "シーン季節のネイルアート"
+    ],
+    "finishTypes": [
+      "シアー",
+      "クリア"
+    ],
+    "quantity": null,
+    "isColorProduct": true,
+    "isPartsProduct": false,
+    "updatedAt": "2026-09-03T21:13:01.757Z"
+  },
+  {
+    "productId": "urbanbloomhonten:10001566",
+    "name": "【プリジェル公式】プリジェル カラーZ パールルビー ジェルネイル プリジェル PREGEL PremDoll Muse PZ-036GP DOLL-11N カラージェル グリッターパール ルビー レッド 赤 ピンク 高発色 ツヤ 上品 高級感 ワンカラー ネイルアート プロ用",
+    "price": 1320,
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/urbanbloomhonten/cabinet/launch/7000/000000007243-01.jpg",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00utezo.4emtbfd9.g00utezo.4emtc969/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Furbanbloomhonten%2F1220-36-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Furbanbloomhonten%2Fi%2F10001566%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
+    "aspSource": "楽天",
+    "reviewCount": 0,
+    "reviewAverage": 0,
+    "hexColor": "#6a555b",
+    "colorFamily": "グレー",
+    "sceneTags": [
+      "オフィス・シンプル",
+      "ロングネイル・ラグジュアリー"
+    ],
+    "finishTypes": [
+      "グリッター"
+    ],
+    "quantity": null,
+    "isColorProduct": true,
+    "isPartsProduct": true,
+    "updatedAt": "2026-09-03T21:13:02.316Z"
+  },
+  {
+    "productId": "nailstudy:10055019",
+    "name": "アイスジェル GENTLEON スターギャラクシー ポッピングジェル 1804 オレンジ 3g",
+    "price": 2200,
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/nailstudy/cabinet/260528shin01/t04515.jpg",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00sioko.4emtb829.g00sioko.4emtcd81/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnailstudy%2Ft04515%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnailstudy%2Fi%2F10055019%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
+    "aspSource": "楽天",
+    "reviewCount": 0,
+    "reviewAverage": 0,
+    "hexColor": "#deaa93",
+    "colorFamily": "オレンジ",
+    "sceneTags": [],
+    "finishTypes": [],
+    "quantity": null,
+    "isColorProduct": false,
+    "isPartsProduct": false,
+    "updatedAt": "2026-09-03T21:13:14.281Z"
+  },
+  {
+    "productId": "callaca:10062174",
+    "name": "para gel パラジェル カラージェル C001 クリアオレンジ 4g【ネイル ジェルネイル カラージェル】",
+    "price": 3509,
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/callaca/cabinet/thumb/11-2/111304.jpg",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qsz2o.4emtbece.g00qsz2o.4emtce97/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcallaca%2F111304%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcallaca%2Fi%2F10062174%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
+    "aspSource": "楽天",
+    "reviewCount": 0,
+    "reviewAverage": 0,
+    "hexColor": "#f6d664",
+    "colorFamily": "イエロー",
+    "sceneTags": [],
+    "finishTypes": [
+      "クリア"
+    ],
+    "quantity": null,
+    "isColorProduct": true,
+    "isPartsProduct": false,
+    "updatedAt": "2026-09-03T21:13:14.626Z"
+  },
+  {
+    "productId": "nailstudy:10029188",
+    "name": "ジェルネイル カラージェル プリジェル カラーEX パパイア PG-CE893 3g",
+    "price": 1698,
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/nailstudy/cabinet/1901syo/32250.jpg",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00sioko.4emtb829.g00sioko.4emtcd81/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnailstudy%2F32250%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnailstudy%2Fi%2F10029188%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
+    "aspSource": "楽天",
+    "reviewCount": 0,
+    "reviewAverage": 0,
+    "hexColor": "#fde6c2",
+    "colorFamily": "オレンジ",
+    "sceneTags": [],
+    "finishTypes": [],
+    "quantity": null,
+    "isColorProduct": true,
+    "isPartsProduct": false,
+    "updatedAt": "2026-09-03T21:13:15.122Z"
+  },
+  {
+    "productId": "siseil:10002693",
+    "name": "【送料無料】paragel パラジェル カラージェル M007 オレンジ ナチュラルライン 4g ソフトジェルタイプ",
+    "price": 6050,
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/siseil/cabinet/paragel/m008-03.jpg",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qee6o.4emtb111.g00qee6o.4emtcce1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsiseil%2Fparagel-colorgel-m-007%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsiseil%2Fi%2F10002693%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
+    "aspSource": "楽天",
+    "reviewCount": 0,
+    "reviewAverage": 0,
+    "hexColor": "#ffffff",
+    "colorFamily": "ホワイト",
+    "sceneTags": [],
+    "finishTypes": [],
+    "quantity": null,
+    "isColorProduct": true,
+    "isPartsProduct": false,
+    "updatedAt": "2026-09-03T21:13:15.460Z"
+  },
+  {
+    "productId": "mamachan443:10000534",
+    "name": "LED/UV対応エコジェル　カラージェル5g A-082 ハニーイエロー　　　【メール便不可】",
+    "price": 550,
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/mamachan443/cabinet/03046718/img60598182.jpg",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rcbio.4emtbac2.g00rcbio.4emtc04a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmamachan443%2Fj-152-a082%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmamachan443%2Fi%2F10000534%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
+    "aspSource": "楽天",
+    "reviewCount": 0,
+    "reviewAverage": 0,
+    "hexColor": "#e3d368",
+    "colorFamily": "イエロー",
+    "sceneTags": [],
+    "finishTypes": [],
+    "quantity": null,
+    "isColorProduct": true,
+    "isPartsProduct": false,
+    "updatedAt": "2026-09-03T21:13:21.681Z"
+  },
+  {
+    "productId": "ainail:10002229",
+    "name": "ルクジェル　カラージェル3.5g　CLR06　イエローゴールドラメ【LUCUGEL】カラージェルの上から塗布も可能なゴールドラメが際立ちます♪",
+    "price": 880,
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/ainail/cabinet/03126830/clr06.jpg",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rhuoo.4emtb195.g00rhuoo.4emtc4f4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fainail%2F10002094%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fainail%2Fi%2F10002229%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
+    "aspSource": "楽天",
+    "reviewCount": 0,
+    "reviewAverage": 0,
+    "hexColor": "#f1db8d",
+    "colorFamily": "ゴールド",
+    "sceneTags": [],
+    "finishTypes": [
+      "グリッター"
+    ],
+    "quantity": null,
+    "isColorProduct": true,
+    "isPartsProduct": true,
+    "updatedAt": "2026-09-03T21:13:23.728Z"
+  },
+  {
+    "productId": "kiranavi:10012982",
+    "name": "ベラフォーマカラー［F015B］3ml / VETRO BellaForma ベトロ ジェルネイル プロネイリスト愛用 サロン専売品 美容室 ネイルサロン プロ PRO ネイル用品 セルフネイル マニキュア ネイリスト アートジェル カラージェル［グリーン/2M］",
+    "price": 649,
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/kiranavi/cabinet/11275857/compass1743641849.jpg",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00qwico.4emtb219.g00qwico.4emtc61e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkiranavi%2F4582553780579%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkiranavi%2Fi%2F10012982%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
+    "aspSource": "楽天",
+    "reviewCount": 0,
+    "reviewAverage": 0,
+    "hexColor": "#f8f8f8",
+    "colorFamily": "ホワイト",
+    "sceneTags": [],
+    "finishTypes": [],
+    "quantity": null,
+    "isColorProduct": true,
+    "isPartsProduct": false,
+    "updatedAt": "2026-09-03T21:13:28.850Z"
+  },
+  {
+    "productId": "urbanbloomhonten:10000467",
+    "name": "【プリジェル公式】カラーEX／フォルトラーナの丘／3g ジェルネイル PREGEL カラーEX PG-CE915 カラー 色 トレンド 綺麗 春 秋 冬 カラージェル マット プリジェルカラー グリーン 緑 抹茶 くすみグリーン 和 くすみカラー 深緑 マットグリーン 寒色 上品 ネイル",
+    "price": 1320,
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/urbanbloomhonten/cabinet/launch/3000/000000003178-01.jpg",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00utezo.4emtbfd9.g00utezo.4emtc969/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Furbanbloomhonten%2F1003-150-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Furbanbloomhonten%2Fi%2F10000467%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
+    "aspSource": "楽天",
+    "reviewCount": 0,
+    "reviewAverage": 0,
+    "hexColor": "#6f8271",
+    "colorFamily": "グレー",
+    "sceneTags": [
+      "シーン季節のネイルアート"
+    ],
+    "finishTypes": [
+      "マット"
+    ],
+    "quantity": null,
+    "isColorProduct": true,
+    "isPartsProduct": false,
+    "updatedAt": "2026-09-03T21:13:29.359Z"
+  },
+  {
+    "productId": "gramsky2nd:10003754",
+    "name": "【T-CM03】TOY's×INITY クリアマグコレクション クリアグリーン TOY's×INITY(トイズバイアイニティ) ネイル ジェル カラージェル",
+    "price": 2380,
+    "imageUrl": "",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00ux1uo.4emtb99d.g00ux1uo.4emtc847/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgramsky2nd%2F190436%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgramsky2nd%2Fi%2F10003754%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
+    "aspSource": "楽天",
+    "reviewCount": 0,
+    "reviewAverage": 0,
+    "hexColor": null,
+    "colorFamily": null,
+    "sceneTags": [],
+    "finishTypes": [
+      "クリア"
+    ],
+    "quantity": null,
+    "isColorProduct": true,
+    "isPartsProduct": false,
+    "updatedAt": "2026-09-03T21:13:29.980Z"
+  },
+  {
+    "productId": "nailstudy:10032624",
+    "name": "ジェルネイル カラージェル パラジェル カラージェル AR21 グリーンターコイズ",
+    "price": 4620,
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/nailstudy/cabinet/190515sin/34832.jpg",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00sioko.4emtb829.g00sioko.4emtcd81/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnailstudy%2F34832%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnailstudy%2Fi%2F10032624%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
+    "aspSource": "楽天",
+    "reviewCount": 0,
+    "reviewAverage": 0,
+    "hexColor": "#bac6c4",
+    "colorFamily": "グレー",
+    "sceneTags": [],
+    "finishTypes": [],
+    "quantity": null,
+    "isColorProduct": true,
+    "isPartsProduct": false,
+    "updatedAt": "2026-09-03T21:13:30.145Z"
+  },
+  {
+    "productId": "emi-nal:10001265",
+    "name": "【スーパーSALE★開始4時間20％OFF】Silky カラージェル【グリーン コレクション】 3g ジェルネイル カラージェル 高発色 セルフネイル プロ仕様 LED UV対応 ソークオフ ネイルアート ジェルカラー シルキー コンテナ グリーン ミント カーキ オリーブ",
+    "price": 690,
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/emi-nal/cabinet/06887601/nail3/nail094-gl.jpg",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00tknyo.4emtb299.g00tknyo.4emtc059/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Femi-nal%2Fnail094-gl%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Femi-nal%2Fi%2F10001265%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
+    "aspSource": "楽天",
+    "reviewCount": 0,
+    "reviewAverage": 0,
+    "hexColor": "#ded5c5",
+    "colorFamily": "オレンジ",
+    "sceneTags": [],
+    "finishTypes": [],
+    "quantity": null,
+    "isColorProduct": true,
+    "isPartsProduct": false,
+    "updatedAt": "2026-09-03T21:13:30.369Z"
+  },
+  {
+    "productId": "urbanbloomhonten:10001549",
+    "name": "【プリジェル公式】プリジェル カラーZ ビビッドグリーン ジェルネイル プリジェル PREGEL PremDoll Muse PZ-020N DOLL-617 カラージェル ネオン 蛍光 グリーン 緑 ビビッドカラー 高発色 ニュアンス ネイルアート プロ用",
+    "price": 1320,
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/urbanbloomhonten/cabinet/launch/7000/000000007227-01.jpg",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00utezo.4emtbfd9.g00utezo.4emtc969/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Furbanbloomhonten%2F1220-20-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Furbanbloomhonten%2Fi%2F10001549%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
+    "aspSource": "楽天",
+    "reviewCount": 0,
+    "reviewAverage": 0,
+    "hexColor": "#519861",
+    "colorFamily": "グリーン/イエローグリーン",
+    "sceneTags": [],
+    "finishTypes": [],
+    "quantity": null,
+    "isColorProduct": true,
+    "isPartsProduct": false,
+    "updatedAt": "2026-09-03T21:13:31.246Z"
+  },
+  {
+    "productId": "chacha1:10001194",
+    "name": "【マラソン期間｜5倍P＆13%OFF券】 Biutee ジェルネイル マグネットネイル 15ml カラージェル カラー ジェル 初心者 爪に優しい ジェルネイル キャットアイ 猫の目効果 大直径マグネット付き 猫目 高光沢 细やかなキャットアイライン クリアカラー UVLED対応 プロ",
+    "price": 1280,
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/chacha1/cabinet/biutee/h1013/0.jpg",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00uofto.4emtbdef.g00uofto.4emtc77b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fchacha1%2Fcha-myj-h1013-1x%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fchacha1%2Fi%2F10001194%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
+    "aspSource": "楽天",
+    "reviewCount": 0,
+    "reviewAverage": 0,
+    "hexColor": "#c7bab5",
+    "colorFamily": "オレンジ",
+    "sceneTags": [],
+    "finishTypes": [
+      "クリア",
+      "マグネット"
+    ],
+    "quantity": null,
+    "isColorProduct": true,
+    "isPartsProduct": false,
+    "updatedAt": "2026-09-03T21:13:36.245Z"
+  },
+  {
+    "productId": "nailstudy:10049460",
+    "name": "lem.(レム) ムニマグジェル ブルーバード6色セット(mu-07~mu-12",
+    "price": 15322,
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/nailstudy/cabinet/241113shin01/49482.jpg",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00sioko.4emtb829.g00sioko.4emtcd81/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnailstudy%2F49482%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnailstudy%2Fi%2F10049460%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
+    "aspSource": "楽天",
+    "reviewCount": 0,
+    "reviewAverage": 0,
+    "hexColor": "#aba79d",
+    "colorFamily": "グレー",
+    "sceneTags": [],
+    "finishTypes": [],
+    "quantity": null,
+    "isColorProduct": false,
+    "isPartsProduct": false,
+    "updatedAt": "2026-09-03T21:13:36.454Z"
+  },
+  {
+    "productId": "nailstudy:10053682",
+    "name": "ageha(アゲハ) オプティカラー 5-25 スキンブルー 2.7g",
+    "price": 1774,
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/nailstudy/cabinet/260124shin01/t03124.jpg",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00sioko.4emtb829.g00sioko.4emtcd81/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnailstudy%2Ft03124%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnailstudy%2Fi%2F10053682%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
+    "aspSource": "楽天",
+    "reviewCount": 0,
+    "reviewAverage": 0,
+    "hexColor": "#89a8c8",
+    "colorFamily": "ブルー/ライトブルー",
+    "sceneTags": [],
+    "finishTypes": [],
+    "quantity": null,
+    "isColorProduct": false,
+    "isPartsProduct": false,
+    "updatedAt": "2026-09-03T21:13:37.578Z"
+  },
+  {
+    "productId": "elelerueru:10005726",
+    "name": "【最大3％OFF】 Harmony Gelish ハーモニージェリッシュ 01366 samuri 1110845 15ml ソークオフ サムリ ネイルカラー ネイリスト ジェルネイル セルフネイル ジェルカラー カラージェル ワイン パープル 紫 パール入り 新品 送料無料",
+    "price": 3140,
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/elelerueru/cabinet/oota/04594834/07885484/imgrc0079793753.jpg",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00rjsgo.4emtb248.g00rjsgo.4emtc179/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Felelerueru%2Fnail0000195%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Felelerueru%2Fi%2F10005726%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
+    "aspSource": "楽天",
+    "reviewCount": 0,
+    "reviewAverage": 0,
+    "hexColor": "#ffffff",
+    "colorFamily": "ホワイト",
+    "sceneTags": [
+      "ロングネイル・ラグジュアリー"
+    ],
+    "finishTypes": [],
+    "quantity": null,
+    "isColorProduct": true,
+    "isPartsProduct": true,
+    "updatedAt": "2026-09-03T21:13:41.278Z"
+  },
+  {
+    "productId": "urbanbloomhonten:10001642",
+    "name": "【プリジェル公式】プリジェル カラーZ ファーキャラメル ジェルネイル PREGEL PremDoll Muse PZ-102I DOLL-722 カラージェル ファー ふわふわ 異素材 ブラウン キャメル 茶色 質感ネイル ニュアンスネイル ワンカラー 秋ネイル 肌なじみ ネイルアート プロ用",
+    "price": 1320,
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/urbanbloomhonten/cabinet/launch/7000/000000007309-01.jpg",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00utezo.4emtbfd9.g00utezo.4emtc969/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Furbanbloomhonten%2F1220-102-01%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Furbanbloomhonten%2Fi%2F10001642%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
+    "aspSource": "楽天",
+    "reviewCount": 0,
+    "reviewAverage": 0,
+    "hexColor": "#ad7e64",
+    "colorFamily": "オレンジ",
+    "sceneTags": [
+      "オフィス・シンプル",
+      "シーン季節のネイルアート"
+    ],
+    "finishTypes": [
+      "グリッター"
+    ],
+    "quantity": null,
+    "isColorProduct": true,
+    "isPartsProduct": true,
+    "updatedAt": "2026-09-03T21:13:51.166Z"
+  },
+  {
+    "productId": "nailstudy:10040370",
+    "name": "パラジェル カラージェル C006 ストームグレー 4g (キャプラスネイルプロデュース)",
+    "price": 4915,
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/nailstudy/cabinet/23051905shin/43399.jpg",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00sioko.4emtb829.g00sioko.4emtcd81/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnailstudy%2F43399%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnailstudy%2Fi%2F10040370%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
+    "aspSource": "楽天",
+    "reviewCount": 0,
+    "reviewAverage": 0,
+    "hexColor": "#53575a",
+    "colorFamily": "グレー",
+    "sceneTags": [],
+    "finishTypes": [],
+    "quantity": null,
+    "isColorProduct": true,
+    "isPartsProduct": false,
+    "updatedAt": "2026-09-03T21:13:55.669Z"
+  },
+  {
+    "productId": "nailstudy:10023419",
+    "name": "ジェルネイル カラージェル プリジェル　カラーEX　ラスティーグレージュ　neo　PG-CEN820　3g",
+    "price": 1698,
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/nailstudy/cabinet/syo1810_1/28225.jpg",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00sioko.4emtb829.g00sioko.4emtcd81/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnailstudy%2F28225%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnailstudy%2Fi%2F10023419%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
+    "aspSource": "楽天",
+    "reviewCount": 0,
+    "reviewAverage": 0,
+    "hexColor": "#c39c90",
+    "colorFamily": "オレンジ",
+    "sceneTags": [],
+    "finishTypes": [],
+    "quantity": null,
+    "isColorProduct": true,
+    "isPartsProduct": false,
+    "updatedAt": "2026-09-03T21:13:55.993Z"
+  },
+  {
+    "productId": "linogel:10000601",
+    "name": "【スーパーdeal 20%ポイントバック 11(金) 09:59迄】全色セット特典付 マグネットネイル くすみ系 マグネットジェル ジェルネイル フラッシュマグ 8g キラキラ クリアカラー アートジェル カラージェルネイル 磁石 ネイル ジェル マグネット リノジェル セット UV LED対応",
+    "price": 1300,
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/linogel/cabinet/10433711/11759625/imgrc0129131704.jpg",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00uix1o.4emtb8a4.g00uix1o.4emtcdcc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flinogel%2F193%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flinogel%2Fi%2F10000601%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
+    "aspSource": "楽天",
+    "reviewCount": 67,
+    "reviewAverage": 4.73,
+    "hexColor": "#d6ccd4",
+    "colorFamily": "グレー",
+    "sceneTags": [],
+    "finishTypes": [
+      "クリア",
+      "マグネット"
+    ],
+    "quantity": null,
+    "isColorProduct": false,
+    "isPartsProduct": false,
+    "updatedAt": "2026-09-03T21:14:16.638Z"
+  },
+  {
+    "productId": "linogel:10000656",
+    "name": "【スーパーdeal 20%ポイントバック 11(金) 09:59迄】フラッシュネイル ジェル カラージェル リノジェル 8g 日本製 フラッシュ ネイル フラッシュジェル 発光 ラメ ネイルジェル ジェルネイル フラッシュジェルネイル グリッター LED UV 対応 フラッシュカラー カラーネイル",
+    "price": 1300,
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/linogel/cabinet/12583099/12583100/imgrc0146439317.jpg",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00uix1o.4emtb8a4.g00uix1o.4emtcdcc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flinogel%2F211%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flinogel%2Fi%2F10000656%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
+    "aspSource": "楽天",
+    "reviewCount": 46,
+    "reviewAverage": 4.85,
+    "hexColor": "#dfbbbc",
+    "colorFamily": "レッド",
+    "sceneTags": [],
+    "finishTypes": [
+      "グリッター"
+    ],
+    "quantity": null,
+    "isColorProduct": true,
+    "isPartsProduct": true,
+    "updatedAt": "2026-09-03T21:14:17.065Z"
+  },
+  {
+    "productId": "linogel:10000657",
+    "name": "【スーパーdeal 20%ポイントバック 11(金) 09:59迄】フラッシュネイル ジェル カラージェル リノジェル 8g 日本製 カラー ジェルネイル グリッターネイル フラッシュ ネイルジェル ネイル ラメネイル ラメ ラメジェル グリッタージェル フラッシュジェル ラメジェルネイル",
+    "price": 1300,
+    "imageUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/linogel/cabinet/12583099/12773689/imgrc0146508549.jpg",
+    "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/g00uix1o.4emtb8a4.g00uix1o.4emtcdcc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flinogel%2F212%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flinogel%2Fi%2F10000657%2F&rafcid=wsc_i_is_7be1d02b-c76a-47e0-b088-16cdf1aba93d",
+    "aspSource": "楽天",
+    "reviewCount": 29,
+    "reviewAverage": 5,
+    "hexColor": "#aeb5be",
+    "colorFamily": "グレー",
+    "sceneTags": [],
+    "finishTypes": [
+      "グリッター"
+    ],
+    "quantity": null,
+    "isColorProduct": true,
+    "isPartsProduct": true,
+    "updatedAt": "2026-09-03T21:14:18.569Z"
   }
 ]
